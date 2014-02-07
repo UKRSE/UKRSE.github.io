@@ -8,7 +8,7 @@ What is a Research Software Engineer?
 
 A growing number of people in academia combine expertise in programming with
 an intricate understanding of research. Although this combination of skills is
-extremely valuable, the people wiht these skills lack a formal place in the
+extremely valuable, the people with these skills lack a formal place in the
 academic system. This means there is no easy way top recognise their controbution,
 to reward them for their contribution, or to represent their views.
 
