@@ -1,5 +1,5 @@
 ---
-title: The UK Community of Researhc Software Engineers
+title: The UK Community of Research Software Engineers
 layout: default
 ---
 
@@ -20,6 +20,7 @@ effort and resources must be invested into nurturing our community of Research S
 so that the software used in research can meet the demands of the future’s researchers.
 
 Want to know more?
+------------------
 
 If you want to know why we are doing this work, take a look at our objectives.
 If you want to tell us about your work and meet people who can work with you, 
