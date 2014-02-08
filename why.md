@@ -1,5 +1,5 @@
 ---
-title: Why does it matter
+title: Why does it matter?
 layout: default
 short: Why?
 ---

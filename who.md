@@ -1,11 +1,8 @@
 ---
-title: The UK Community of Research Software Engineers
+title: What is a Research Software Engineer?
 layout: default
 short: Definition
 ---
-
-What is a Research Software Engineer?
-=====================================
 
 A growing number of people in academia combine expertise in programming with
 an intricate understanding of research. Although this combination of skills is
