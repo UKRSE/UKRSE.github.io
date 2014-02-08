@@ -23,8 +23,9 @@ so that the software used in research can meet the demands of the future’s res
 Want to know more?
 ------------------
 
-If you want to know why we are doing this work, take a look at our objectives.
-If you want to tell us about your work and meet people who can work with you, 
-take a look at our events page and attend one of our workshops.
-If you want to help us improve the situation of Research Software Engineers in academia,
-then take a look at our campaign page. And if you have any questions, please contact us.
+* If you want to know why we are doing this work, take a look at our [objectives](objectives.html).
+* If you want to tell us about your work and meet people who can work with you, 
+take a look at our [events](events.html) page and attend one of our workshops.
+* If you want to help us improve the situation of Research Software Engineers in academia,
+then take a look at our [campaign page](why.html). 
+* And if you have any questions, please [contact us](contact.html).
