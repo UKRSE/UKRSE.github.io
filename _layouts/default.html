@@ -19,6 +19,20 @@
 
       </div>
     </header>
+    
+    <div class="index">
+    <ul>
+    {% for page in site.pages %}
+    <li>
+    {% if page.short %}
+      {{ page.short }}
+    {% else %}
+      {{ page.id }}
+      </li>
+    {% endif %}
+    {% endfor %}
+    </ul>
+    </div>
 
     <div class="container">
       <section id="main_content">
