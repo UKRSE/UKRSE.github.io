@@ -19,3 +19,13 @@ short: Shortname
 ```
 
 followed by content in [Markdown](https://daringfireball.net/projects/markdown/).
+
+You can edit the content online in the Github live editor, or clone it in git and work offline:
+
+``` bash
+gem install jekyll
+git clone git@github.com:UKRSE/UKRSE.github.io.git
+cd UKRSE.github.io
+jekyll serve
+# Point browser to localhost:4000
+```
