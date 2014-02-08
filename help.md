@@ -1,6 +1,7 @@
 ---
 title: What can I do?
 layout: default
+short: Help
 ---
 
 

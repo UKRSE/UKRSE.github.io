@@ -1,6 +1,7 @@
 ---
 title: The UK Community of Research Software Engineers
 layout: default
+short: Home
 ---
 
 Academia is yet to adapt to the fundamental role that software plays in today’s research. 

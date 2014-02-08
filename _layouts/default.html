@@ -13,6 +13,22 @@
 
   <body>
 
+    <div class="index">
+    <ul>
+    {% for apage in site.pages %}
+    <li>
+    <a href={{ apage.url }}>
+    {% if apage.short %}
+      {{ apage.short }}
+    {% else %}
+      {{ apage.title }}
+    {% endif %}
+    </a>
+    </li>
+    {% endfor %}
+    </ul>
+    </div>
+
     <header>
       <div class="container">
         <h1>{{page.title}}</h1>
@@ -20,19 +36,7 @@
       </div>
     </header>
     
-    <div class="index">
-    <ul>
-    {% for page in site.pages %}
-    <li>
-    {% if page.short %}
-      {{ page.short }}
-    {% else %}
-      {{ page.id }}
-      </li>
-    {% endif %}
-    {% endfor %}
-    </ul>
-    </div>
+
 
     <div class="container">
       <section id="main_content">

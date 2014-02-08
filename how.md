@@ -1,6 +1,7 @@
 ---
 title: How did this begin?
 layout: default
+short: Origins
 ---
 
 As software has become more important in academia, it has required more time and the

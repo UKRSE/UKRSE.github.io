@@ -1,6 +1,7 @@
 ---
 title: The UK Community of Research Software Engineers
 layout: default
+short: Definition
 ---
 
 What is a Research Software Engineer?

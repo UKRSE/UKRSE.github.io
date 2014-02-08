@@ -1,6 +1,7 @@
 ---
 title: Who’s behind the community?
 layout: default
+short: Sponsors
 ---
 
 The whole concept of the Research Software Engineer campaign started at a Collaborations Workshop in 2012, 

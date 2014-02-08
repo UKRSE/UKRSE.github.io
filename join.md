@@ -1,6 +1,7 @@
 ---
 title: Join us!
 layout: default
+short: Join
 ---
 
 Joining the RSE Community is easy, just sign up to our mailing list. (You can also follow us on Twitter).

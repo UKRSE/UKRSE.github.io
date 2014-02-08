@@ -240,3 +240,13 @@ a {
 .cf {
   zoom:1;
 }
+
+div.index li {display: inline;}
+div.index ul li:before {
+  margin-left: 0;
+  margin-right: 0;
+  content: "|";
+}
+div.index a {
+  color: #b5e853;
+}
