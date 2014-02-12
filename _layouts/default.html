@@ -16,15 +16,7 @@
     <div class="index">
     <ul>
     {% for apage in site.pages %}
-    <li>
-    <a href={{ apage.url }}>
-    {% if apage.short %}
-      {{ apage.short }}
-    {% else %}
-      {{ apage.title }}
-    {% endif %}
-    </a>
-    </li>
+    <li>&nbsp;<a href={{ apage.url }}>{% if apage.short %}{{ apage.short }}{% else %}{{ apage.title }}{% endif %}</a>&nbsp;</li>
     {% endfor %}
     </ul>
     </div>
@@ -47,6 +39,5 @@
         <section id="github-link">
           <a href="https://github.com/UKRSE/UKRSE.github.io" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
         </section>
-    <!-- justin is testing -->
   </body>
 </html>
