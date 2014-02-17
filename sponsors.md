@@ -4,6 +4,7 @@ layout: default
 short: Sponsors
 ---
 
+
 The whole concept of the Research Software Engineer campaign started at a Collaborations Workshop in 2012, 
 which was organised by the Software Sustainability Institute (an EPSRC-funded organisation).
 
@@ -16,6 +17,8 @@ Success is much more likely if the community becomes self supporting and indepen
 For this reason, the Software Sustainability Institute will continue to support the community and
 campaign for Research Software Engineers, but the community will be steered by a committee made up of
 Research Software Engineers.
+
+COLUMN_SEPARATOR
 
 The committee
 -------------

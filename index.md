@@ -20,6 +20,8 @@ reward research software engineering. If the UK is to continue to be a major res
 effort and resources must be invested into nurturing our community of Research Software Engineers
 so that the software used in research can meet the demands of the future’s researchers.
 
+COLUMN_SEPARATOR
+
 Want to know more?
 ------------------
 

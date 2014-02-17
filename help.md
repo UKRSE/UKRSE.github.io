@@ -4,7 +4,6 @@ layout: default
 short: Help
 ---
 
-
 You can help by joining us, by raising awareness of research software engineering, 
 and by attending and organising events.
 
@@ -48,3 +47,5 @@ Partner organisations, campaigners and industry
 If your organisation benefits from Research Software Engineers, we need your help. We need partners who are
 willing to raise awareness about the Research Software Engineer role with all sections of the research community. 
 We also need help, resources and funds to run workshops and other events. Please contact us to find out more.
+
+COLUMN_SEPARATOR

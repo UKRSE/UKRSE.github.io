@@ -32,3 +32,5 @@ The popularity of the first RSE workshop in Oxford, held on 11 September 2013, a
 took place confirmed our early thoughts. The workshop sold out incredible quickly and the people who arrived
 from all around the country had experienced many of the same problems: lack of recognition, lack of reward,
 no representation in academia, and a difficulty maintaining and progressing a career.
+
+COLUMN_SEPARATOR

@@ -2,6 +2,7 @@
 title: What is a Research Software Engineer?
 layout: default
 short: Definition
+contentright: hello
 ---
 
 A growing number of people in academia combine expertise in programming with
@@ -25,6 +26,8 @@ the role attracts people who want to know how the world works. The Research Soft
 works with researchers to gain an understanding of the problems they face, and then develops,
 maintains and extends software to provide the answers.
 
+COLUMN_SEPARATOR
+
 Are you a Research Software Engineer?
 -------------------------------------
 
@@ -39,3 +42,4 @@ you are a Research Software Engineer:
    used to create them?
 6. Do you lack the metrics needed to progress your academic career, like papers and conference presentations,
    despite having made a significant contribution through software?
+
