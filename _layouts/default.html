@@ -1,43 +1,36 @@
-<!DOCTYPE html>
 <html>
   <head>
+    <title>{{page.title}}</title>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
-
-    <title>{{page.title}}</title>
   </head>
-
   <body>
-
-    <div class="index">
-    <ul>
-    {% for apage in site.pages %}
-    <li>&nbsp;<a href={{ apage.url }}>{% if apage.short %}{{ apage.short }}{% else %}{{ apage.title }}{% endif %}</a>&nbsp;</li>
-    {% endfor %}
-    </ul>
+    <div id="header">
+      <div id="tagline"><a href="index.html">The UK Community of Research Software Engineers</a></div>
+      <ul>
+        <li><a href="who.html">About</a></li>
+        <li><a href="why.html">Why?</a></li>
+        <li><a href="objectives.html">Objectives</a></li>
+        <li><a href="sponsors.html">Sponsors</a></li>
+        <li><a href="join.html">Join Us!</a></li>
+      <ul>
     </div>
+    <div id="main">
+      <div id="title"><h1>{{page.title}}</h1></div>
+      <div id="content">
 
-    <header>
-      <div class="container">
-        <h1>{{page.title}}</h1>
+{% assign columns = content | split: 'COLUMN_SEPARATOR' %}
+        <div id="content_left">
+{{columns[0]}}
+        </div>
+        <div id="content_right">
+{{columns[1]}}
+        </div>
 
       </div>
-    </header>
-    
-
-
-    <div class="container">
-      <section id="main_content">
-        {{content}}
-      </section>
     </div>
-
-        <section id="github-link">
-          <a href="https://github.com/UKRSE/UKRSE.github.io" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-        </section>
+    <div id="footer">Academia must adapt to the fundamental role that software plays in today's research.</div>
   </body>
 </html>
