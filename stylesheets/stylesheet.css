@@ -13,15 +13,32 @@ h1,
 h2
 {
   color: #97316e;
+  font-weight: normal;
 }
 h1
 {
   font-size: 40px;
 }
-#content ul li,
+h2
+{
+  font-size: 20px;
+}
+#title
+{
+/* border: 1px solid black; */
+}
+#title h1
+{
+}
+#content ul li
+{
+  padding-bottom: 5px;
+  margin-left: -25px;
+}
 #content ol li
 {
   padding-bottom: 5px;
+  margin-left: -20px;
 }
 #header
 {
@@ -40,7 +57,7 @@ h1
 #header ul li
 {
   display: inline-block;
-  padding-left: 30px;
+  padding-right: 20px;
 }
 #header a
 {
@@ -72,13 +89,38 @@ h1
 {
   width: 700px;
   min-height: 60px;
+  min-height: 100px;
   position: fixed;
-  top: 75px;
+  top: 80px;
   left: 90px;
+}
+#title_full
+{
+  width: 1200px;
+  min-height: 60px;
+  min-height: 100px;
+  position: fixed;
+  top: 80px;
+  left: 90px;
+  text-align: center;
+}
+#title_full h1
+{
+  font-size: 100px;
 }
 #content
 {
   width: 100%;
+  line-height: 1.3em;
+}
+#content_full
+{
+  width: 1200px;
+  min-height: 500px;
+  margin: 10px;
+  position: fixed;
+  left: 80px;
+  top: 400px;
 }
 #content_left
 {
@@ -87,7 +129,7 @@ h1
   margin: 10px;
   position: fixed;
   left: 80px;
-  top: 170px;
+  top: 180px;
 }
 #content_right
 {
@@ -96,6 +138,38 @@ h1
   margin: 10px;
   position: fixed;
   left: 820px;
-  top: 170px;
+  top: 180px;
 }
 
+#content_full table
+{
+  margin-top: 50px;
+}
+
+#content_full td
+{
+  min-width: 200px;
+  min-height: 200px;
+  vertical-align: top;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+  padding-left: 20px;
+  padding-right: 20px;
+}
+#content_full td h2
+{
+  margin-bottom: 4px;
+}
+#join_us
+{
+  text-align: center;
+}
+.table_left
+{
+  padding-left: 0px !important;
+}
+.table_right
+{
+  padding-right: 0px !important;
+}
