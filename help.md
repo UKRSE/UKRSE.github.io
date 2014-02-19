@@ -4,8 +4,8 @@ layout: default
 short: Help
 ---
 
-You can help by joining us, by raising awareness of research software engineering, 
-and by attending and organising events.
+**You can help by joining us, by raising awareness of research software engineering, 
+and by attending and organising events.**
 
 [Join the community!](join.html)
 -------------------
