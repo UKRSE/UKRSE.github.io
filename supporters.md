@@ -5,8 +5,8 @@ short: Sponsors
 ---
 
 
-The Research Software Engineer campaign started life at a [Collaborations Workshop](http://www.software.ac.uk/community/workshops) in 2012, 
-which was organised by the [Software Sustainability Institute](http://www.software.ac.uk) (an EPSRC-funded organisation).
+**The Research Software Engineer campaign started life at a [Collaborations Workshop](http://www.software.ac.uk/community/workshops) in 2012, 
+which was organised by the [Software Sustainability Institute](http://www.software.ac.uk) (an EPSRC-funded organisation).**
 
 The Software Sustainability Institute’s mission is to improve the situation of software in research. 
 Bringing together a community of Research Software Engineers and campaigning for their recognition and reward
