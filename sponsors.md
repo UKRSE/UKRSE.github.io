@@ -25,7 +25,7 @@ The committee
 
 * Simon Hettrick
 * James Hetherington
-* Dirk Gorrisen
+* Dirk Gorissen
 * Mark Woodbridge
 * Cass Johnsston
 * Chris Cannam
