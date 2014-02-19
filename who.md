@@ -37,7 +37,7 @@ you are doing the work of a Research Software Engineer:
 1. Are you employed to develop software for research?
 2. Are you spending more time developing software than conducting research?
 3. Are you employed as a postdoctoral researcher, even though you predominantly work on software development?
-4. Are you the "person who does computers" in your research group?
+4. Are you the *person who does computers* in your research group?
 5. Are you sometimes not named on research papers despite playing a fundamental part in developing the software 
    used to create them?
 6. Do you lack the metrics needed to progress your academic career, like papers and conference presentations,
