@@ -7,8 +7,8 @@ short: Help
 You can help by joining us, by raising awareness of research software engineering, 
 and by attending and organising events.
 
-Goin us!
---------
+[Join the community!](join.html)
+-------------------
 
 By joining the community, you will receive updates about our work, 
 information about events and the ability to raise questions with people like you from across 
