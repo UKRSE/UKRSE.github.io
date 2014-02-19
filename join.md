@@ -7,6 +7,6 @@ short: Join
 
 You will not receive spam! You will receive notices about events, emails from other RSEs who are looking to get help or create new collaborations and very occasional information about our campaign.
 
-You can also follow us on [Twitter](http://twitter.com/ResearchSoftEng).
+You can also follow us on [Twitter](http://twitter.com/ResearchSoftEng?subject=look at this website&body=Hi,I found this website and thought you might like it).
 
 COLUMN_SEPARATOR
