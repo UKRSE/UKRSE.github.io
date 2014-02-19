@@ -23,6 +23,11 @@ h2
 {
   font-size: 20px;
 }
+a
+{
+  text-decoration: none;
+  color: #97316e;
+}
 #title
 {
 /* border: 1px solid black; */
