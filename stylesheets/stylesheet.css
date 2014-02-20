@@ -1,5 +1,6 @@
 html{
- height:100%;
+  position: relative;
+  min-height: 100%;
 }
 body
 {
@@ -85,7 +86,7 @@ a
 {
   width: 100%;
   height: 30px;
-  position: fixed;
+  position: absolute;
   bottom: 0;
   border-bottom: 5px solid #97316e;
   text-align: center;
