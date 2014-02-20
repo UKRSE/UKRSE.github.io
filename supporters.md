@@ -27,7 +27,7 @@ The Committee 2013/2014
 * [Dirk Gorissen](http://dirkgorissen.com/)
 * [James Hetherington](https://iris.ucl.ac.uk/iris/browse/profile?upi=JHETH53)
 * [Simon Hettrick](http://www.software.ac.uk/about/people/simon-hettrick)
-* [Cass Johnsston](http://cassjohnston.wordpress.com/)
+* [Caroline Johnston](http://cassjohnston.wordpress.com/)
 * [Mark Woodbridge](http://www3.imperial.ac.uk/bioinfsupport/people/mark_woodbridge)
 
 
