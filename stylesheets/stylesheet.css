@@ -129,6 +129,8 @@ a
   position: absolute;
   left: 80px;
   top: 400px;
+  padding-bottom: 35px;
+  z-index: -1
 }
 #content_left
 {
