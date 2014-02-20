@@ -124,7 +124,6 @@ a
 #content_full
 {
   width: 1200px;
-  min-height: 500px;
   margin: 10px;
   position: absolute;
   left: 80px;
@@ -133,7 +132,6 @@ a
 #content_left
 {
   width: 700px;
-  min-height: 500px;
   margin: 10px;
   position: absolute;
   left: 80px;
@@ -145,7 +143,6 @@ a
 #content_right
 {
   width: 500px;
-  min-height: 500px;
   margin: 10px;
   position: absolute;
   left: 820px;
