@@ -63,6 +63,8 @@ a
 #header ul li
 {
   display: inline-block;
+  *display: inline;
+  zoom: 1;
   padding-right: 20px;
 }
 #header a
