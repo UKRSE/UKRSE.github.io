@@ -92,13 +92,13 @@ a
 }
 #title
 {
-  width: 100%;
+  width: 700px;
   min-height: 60px;
   min-height: 100px;
   position: fixed;
   top: 55px;
   padding-top:25;
-  left: 90px;
+  padding-left: 90px;
 }
 #title_full
 {
