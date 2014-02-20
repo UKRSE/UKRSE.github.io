@@ -105,7 +105,8 @@ a
   width: 1200px;
   min-height: 60px;
   min-height: 100px;
-  position: fixed;
+  position: absolute;
+  z-index: -1 ;
   top: 80px;
   left: 90px;
   text-align: center;
