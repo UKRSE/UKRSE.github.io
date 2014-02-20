@@ -1,6 +1,3 @@
-html{
-  min-height: 100%;
-}
 body
 {
   margin: 0;
@@ -85,7 +82,7 @@ a
 {
   width: 100%;
   height: 30px;
-  position: absolute;
+  position: fixed;
   bottom: 0;
   border-bottom: 5px solid #97316e;
   text-align: center;
