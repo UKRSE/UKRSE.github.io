@@ -48,3 +48,4 @@ willing to raise awareness about the Research Software Engineer role with all se
 We also need help, resources and funds to run workshops and other events. Please contact us to find out more.
 
 COLUMN_SEPARATOR
+

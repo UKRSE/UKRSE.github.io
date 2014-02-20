@@ -30,7 +30,7 @@ a
 }
 #title
 {
-/* border: 1px solid black; */
+ background-color: #ffffff;
 }
 #title h1
 {
@@ -96,7 +96,8 @@ a
   min-height: 60px;
   min-height: 100px;
   position: fixed;
-  top: 80px;
+  top: 55px;
+  padding-top:25;
   left: 90px;
 }
 #title_full
@@ -123,7 +124,7 @@ a
   width: 1200px;
   min-height: 500px;
   margin: 10px;
-  position: fixed;
+  position: absolute;
   left: 80px;
   top: 400px;
 }
@@ -132,18 +133,22 @@ a
   width: 700px;
   min-height: 500px;
   margin: 10px;
-  position: fixed;
+  position: absolute;
   left: 80px;
   top: 180px;
+  z-index: -1
+
 }
 #content_right
 {
   width: 500px;
   min-height: 500px;
   margin: 10px;
-  position: fixed;
+  position: absolute;
   left: 820px;
   top: 180px;
+  z-index: -1
+
 }
 
 #content_full table
