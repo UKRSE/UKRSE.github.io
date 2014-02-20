@@ -59,12 +59,13 @@ a
 #header ul
 {
   float: right;
+  
 }
 #header ul li
 {
   display: inline-block;
-  *display: inline;
   *zoom: 1;
+  *display: inline;
   padding-right: 20px;
 }
 #header a
