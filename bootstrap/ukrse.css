@@ -29,3 +29,12 @@
 .navbar-ukrse .icon-bar {
   background-color: #97316e;
 }
+
+a, a:hover, a:focus, a:active {
+  color: #97316e;
+  text-decoration: none;
+}
+
+.col-ukrse {
+  padding-bottom: 30px;
+}
