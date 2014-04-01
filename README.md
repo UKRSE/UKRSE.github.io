@@ -29,3 +29,7 @@ cd UKRSE.github.io
 jekyll serve
 # Point browser to localhost:4000
 ```
+
+## bootstraped/ (under construction)
+
+Responsive, mobile ready version of the UKRSE website made with the Bootstrap framework.
