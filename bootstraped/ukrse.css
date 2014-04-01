@@ -35,6 +35,10 @@ a, a:hover, a:focus, a:active {
   text-decoration: none;
 }
 
+.h-ukrse {
+  color: #97316e;
+}
+
 .col-ukrse {
   padding-bottom: 30px;
   padding-top: 30px;
@@ -42,6 +46,12 @@ a, a:hover, a:focus, a:active {
 
 .spacer50-ukrse {
   height: 50px;
+  width: 100%;
+  display: block;
+}
+
+.spacer500-ukrse {
+  height: 500px;
   width: 100%;
   display: block;
 }
