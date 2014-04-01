@@ -37,4 +37,11 @@ a, a:hover, a:focus, a:active {
 
 .col-ukrse {
   padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+.spacer50-ukrse {
+  height: 50px;
+  width: 100%;
+  display: block;
 }
