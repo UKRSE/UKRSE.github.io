@@ -43,6 +43,10 @@ a, a:hover, a:focus, a:active {
   color: #97316e;
 }
 
+.code-ukrse {
+  white-space: normal;
+}
+
 .col-ukrse {
   padding-bottom: 20px;
   padding-top: 20px;
