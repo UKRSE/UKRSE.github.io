@@ -11,7 +11,7 @@ However, where we are made aware of great opportunities for research software en
 
 COLUMN_SEPARATOR
 
-RSE Groups in the UK
+Vacancies for Research Software Engineers
 -----------------------
 
 * None at this time.
