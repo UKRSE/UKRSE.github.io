@@ -14,4 +14,4 @@ COLUMN_SEPARATOR
 Vacancies for Research Software Engineers
 -----------------------
 
-* None at this time.
+* [University College London](http://bit.ly/uclrsdhire) - Closing 3/9/14
