@@ -4,7 +4,7 @@ $(function() {
       target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
       $('html,body').animate({
         scrollTop: target.offset().top
-      }, 700);
+      }, 500);
   });
 });
 
