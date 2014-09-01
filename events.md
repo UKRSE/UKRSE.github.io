@@ -33,7 +33,7 @@ If the RSE Community is to last, it should be self-governing. For this reason, w
 
 # Thanks to our Sponsors!
 
-We are indebted to [Maudsley Digital](http://www.maudsleylearning.com/about-maudsley-learning/) who have provided us with an excellent venue and catering for the event. We would also like to thank Microsoft Research for providing tablets and passes for Azure Cloud. Other sponsors will be announced soon!
+We are indebted to [Maudsley Digital](http://www.no11ww.com/) who have provided us with an excellent venue and catering for the event. We would also like to thank Microsoft Research for providing tablets and passes for Azure Cloud. Other sponsors will be announced soon!
 
 # Last year's meeting
 
@@ -49,25 +49,26 @@ COLUMN_SEPARATOR
 * 10\.00-10.10: Welcome - Simon Hettrick
 * 10\.10-10.40: Introduction to the RSE campaign - James Hetherington
 * 10\.40-11.10: Keynote: Maudsley Digital - Kumar Jacob
-* 11\.10-12.00: **What's New?** A chance to talk to people about something that interests you. 
-	  It could be a technology, an idea, a project or  anything else that's interesting. 
+* 11\.10-12.00: **What's New?** A chance to talk to people about something that interests you.
+	  It could be a technology, an idea, a project or  anything else that's interesting.
 	  It's your chance to interest people in your work,
 	  talk about new technology or get a problem solved.
 * 12\.00-13.00: Lunch
-* 13\.00-13.20: Introduction to the **breakout sessions** 
+* 13\.00-13.20: Introduction to the **breakout sessions**
       Discussion groups where we can get a better understanding of
-      issues that affect the research software engineer: careers, recognition, 
+      issues that affect the research software engineer: careers, recognition,
       working in research, reward and other issues.
 * 13\.20-14.20: Breakout session 1
-* 14\.20-14.50: **Reporting back** session 1: 
-        In this session, we will hear back from the discussions 
+* 14\.20-14.40: **Reporting back** session 1:
+        In this session, we will hear back from the discussions
         that took place during breakout session 1.
-* 14\.50-15.10: Coffee break
-* 15\.10-16.10: Breakout sessions 2
-* 16\.10-16.40: **Reporting back** session 2:
-        In this session, we will hear back from the discussions 
+* 14\.40-15.00: Coffee break
+* 15\.00-15.40: Cloud session with Microsoft Research and Google
+* 15\.40-16.40: Breakout sessions 2
+* 16\.40-17.00: **Reporting back** session 2:
+        In this session, we will hear back from the discussions
         that took place during breakout session 2.
-* 16\.40-17.00: Final thoughts and election update
+* 17\.00-17.15: Final thoughts and election update
 * 18\.00-19.00: Start of hackday, pizzas and pitches.
 
 ## 16 September 2014 - Hackday
@@ -80,4 +81,3 @@ COLUMN_SEPARATOR
 * 15\.45-16.15 Presentations from hacks
 * 16\.15-6.45 Coffee break whilst judges deliberate
 * 16\.45-17.00 Prize giving and wrap up
-
