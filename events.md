@@ -47,7 +47,7 @@ COLUMN_SEPARATOR
 ## 15 September 2014 - AGM
 
 * 10\.00-10.10: Welcome - Simon Hettrick
-* 10\.10-10.40: Introduction to the RSE campaign - James Hetherington
+* 10\.10-10.40: [Introduction to the RSE campaign](talk.html) - James Hetherington
 * 10\.40-11.10: Keynote: Maudsley Digital - Kumar Jacob
 * 11\.10-12.00: **What's New?** A chance to talk to people about something that interests you.
 	  It could be a technology, an idea, a project or  anything else that's interesting.

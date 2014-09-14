@@ -1,18 +1,42 @@
-.level2 h1 { font-size: 2.0em; }
 .reveal pre code {
 	padding: 0;
 }
-.reveal .slide-background {
-	background-image: url(mid_green.svg);
-	background-position: top;
-	background-size: contain;
+
+.reveal {
+  font-family: "Open Sans", sans-serif;
+  font-size: 30px;
+  font-weight: 200;
+  letter-spacing: -0.02em;
 }
 
-div section .slide {
-	background: #111111;
-  	background-color: #111111;
-  	border: 4px solid rgb(143, 153, 62);
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  margin: 0 0 20px 0;
+  line-height: 0.9em;
+  letter-spacing: -0.03em;
+  text-transform: none;
+  text-shadow: none; }
+
+#performance-improvements-in-likeltd-1 img {
+	max-width: 400px;
 }
+
+.reveal section#robustness img {
+	background-color: rgb(143, 153, 62);
+}
+
+
+.reveal section#contact img {
+	max-width: 50px;
+	vertical-align: middle;
+}
+
+.reveal h1 {
+  text-shadow: 0px 0px 6px rgba(0, 0, 0, 0.2); }
 
 .reveal section img {
   margin: 15px 0px;
