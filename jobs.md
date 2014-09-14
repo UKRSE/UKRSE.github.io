@@ -14,5 +14,4 @@ COLUMN_SEPARATOR
 Vacancies for Research Software Engineers
 -----------------------
 
-* [University College London](http://bit.ly/uclrsdhire) - Closing 3/9/2014
 * [University of Oxford, Chaste Project](https://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_version_4.jobspec?p_id=114751) - Closing 15/9/2014
