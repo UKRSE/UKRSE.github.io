@@ -4,8 +4,8 @@
 
 .navbar-ukrse {
   background-color: #97316e;
-  color:#ffffff;
-  border-radius:0;
+  color: #ffffff;
+  border-radius: 0;
 }
 
 .navbar-ukrse .navbar-nav > li > a {
@@ -14,7 +14,7 @@
 
 .navbar-ukrse .navbar-nav > .active > a, .navbar-nav > .active > a:hover, .navbar-nav > .active > a:focus {
   color: #ffffff;
-  background-color:transparent;
+  background-color: transparent;
 }
 
 .navbar-ukrse .navbar-nav > li > a:hover, .nav > li > a:focus {
@@ -54,12 +54,12 @@ a, a:hover, a:focus, a:active {
 
 .spacer50-ukrse {
   height: 50px;
-  width: 100%;
+  width: 99%;
   display: block;
 }
 
 .spacer1000-ukrse {
   height: 1000px;
-  width: 100%;
+  width: 99%;
   display: block;
 }
