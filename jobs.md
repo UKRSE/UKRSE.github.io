@@ -14,4 +14,4 @@ COLUMN_SEPARATOR
 Vacancies for Research Software Engineers
 -----------------------
 
-[Astrophysics Scientific Programmer - University of Surrey](https://jobregister.aas.org/job_view?JobID=49846)
+[Astrophysics Scientific Programmer - University of Surrey](https://jobregister.aas.org/job_view?JobID=49846) - Closing 01/02/2015
