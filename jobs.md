@@ -14,8 +14,6 @@ COLUMN_SEPARATOR
 Vacancies for Research Software Engineers
 -----------------------
 
-[Senior Software Developer in Biomedical Informatics - King’s College London](http://www.jobs.ac.uk/job/AKG487/research-associate-senior-software-developer-in-biomedical-informatics/) - Closing 17/01/2015
-
 [Web Application Developer - University of Oxford](https://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_version_4.display_form?p_display_in_irish=N&p_company=10&p_refresh_search=Y&p_process_type=&p_recruitment_id=116517&p_form_profile_detail=&p_display_apply_ind=Y&p_internal_external=E&p_applicant_no=) - Closing 23/01/2015
 
 [Astrophysics Scientific Programmer - University of Surrey](https://jobregister.aas.org/job_view?JobID=49846) - Closing 01/02/2015
