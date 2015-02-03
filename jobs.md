@@ -14,6 +14,4 @@ COLUMN_SEPARATOR
 Vacancies for Research Software Engineers
 -----------------------
 
-[Signal Processing (multiple positions) - Heriot-Watt](http://basp.eps.hw.ac.uk/) - Closing 02/02/2015
-
 [Software Development Engineers - Microsoft Research Cambridge.](https://careers.microsoft.com/jobdetails.aspx?ss=&pg=0&so=&rw=1&jid=166206) - Posted 22/12/2014
