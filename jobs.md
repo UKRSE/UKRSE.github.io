@@ -14,4 +14,6 @@ COLUMN_SEPARATOR
 Vacancies for Research Software Engineers
 -----------------------
 
+[Senior Software Developer - Environmental Analytics](http://www.reading.ac.uk/about/jobs/about-job-details.aspx?vacancy_id=5685508Gz2) - Closes 01/03/2015
+
 [Software Development Engineers - Microsoft Research Cambridge.](https://careers.microsoft.com/jobdetails.aspx?ss=&pg=0&so=&rw=1&jid=166206) - Posted 22/12/2014
