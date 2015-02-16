@@ -14,6 +14,8 @@ COLUMN_SEPARATOR
 Vacancies for Research Software Engineers
 -----------------------
 
+[High Performance Computing Fellow (ref: SEN00561)](http://www2.le.ac.uk/offices/jobs/opportunities/jobsearch) - Closes 25/02/2015
+
 [Senior Software Developer - Environmental Analytics](http://www.reading.ac.uk/about/jobs/about-job-details.aspx?vacancy_id=5685508Gz2) - Closes 01/03/2015
 
 [ECMWF - multiple positions](http://www.ecmwf.int/en/about/jobs/jobs-ecmwf) - Close 08/03/2015-18/03/2015
