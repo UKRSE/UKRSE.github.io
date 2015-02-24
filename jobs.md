@@ -18,8 +18,8 @@ Vacancies for Research Software Engineers
 
 [Senior Software Developer - Environmental Analytics](http://www.reading.ac.uk/about/jobs/about-job-details.aspx?vacancy_id=5685508Gz2) - Closes 01/03/2015
 
-[ECMWF - multiple positions](http://www.ecmwf.int/en/about/jobs/jobs-ecmwf) - Close 08/03/2015-18/03/2015
-
 [Research Software Engineer Lead - The Francis Crick Institute](http://www.crick.ac.uk/about-us/jobs/research-software-engineer-lead/) - Closes 16/03/2015
+
+[ECMWF - multiple positions](http://www.ecmwf.int/en/about/jobs/jobs-ecmwf) - Close 08/03/2015-18/03/2015
 
 [Software Development Engineers - Microsoft Research Cambridge.](https://careers.microsoft.com/jobdetails.aspx?ss=&pg=0&so=&rw=1&jid=166206) - Posted 22/12/2014
