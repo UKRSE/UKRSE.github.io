@@ -20,4 +20,6 @@ Vacancies for Research Software Engineers
 
 [ECMWF - multiple positions](http://www.ecmwf.int/en/about/jobs/jobs-ecmwf) - Close 08/03/2015-18/03/2015
 
+[Research Software Engineer Lead - The Francis Crick Institute](http://www.crick.ac.uk/about-us/jobs/research-software-engineer-lead/) - Closes 16/03/2015
+
 [Software Development Engineers - Microsoft Research Cambridge.](https://careers.microsoft.com/jobdetails.aspx?ss=&pg=0&so=&rw=1&jid=166206) - Posted 22/12/2014
