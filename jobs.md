@@ -20,4 +20,6 @@ Vacancies for Research Software Engineers
 
 [Research Software Support Specialist - University of Birmingham](http://bit.ly/software-support) - Closes 20/03/2015
 
+#### Ongoing recruitment
+
 [Software Development Engineers - Microsoft Research Cambridge.](https://careers.microsoft.com/jobdetails.aspx?ss=&pg=0&so=&rw=1&jid=166206) - Posted 22/12/2014
