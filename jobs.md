@@ -20,6 +20,8 @@ Vacancies for Research Software Engineers
 
 [Research Software Support Specialist - University of Birmingham](http://bit.ly/software-support) - Closes 20/03/2015
 
+[Software Developer - Scientific Programmer - University of Warwick](http://www.jobs.ac.uk/job/ATT816/software-engineer-scientific-programmer-75414-035/) - Closes 12/04/2015
+
 #### Ongoing recruitment
 
 [Software Development Engineers - Microsoft Research Cambridge.](https://careers.microsoft.com/jobdetails.aspx?ss=&pg=0&so=&rw=1&jid=166206) - Posted 22/12/2014
