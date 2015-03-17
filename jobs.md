@@ -14,8 +14,6 @@ COLUMN_SEPARATOR
 Vacancies for Research Software Engineers
 -----------------------
 
-[Research Software Engineer Lead - The Francis Crick Institute](http://www.crick.ac.uk/about-us/jobs/research-software-engineer-lead/) - Closes 16/03/2015
-
 [ECMWF - multiple positions](http://www.ecmwf.int/en/about/jobs/jobs-ecmwf) - Close 08/03/2015-18/03/2015
 
 [Research Software Support Specialist - University of Birmingham](http://bit.ly/software-support) - Closes 20/03/2015
