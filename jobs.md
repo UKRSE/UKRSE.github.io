@@ -14,6 +14,8 @@ COLUMN_SEPARATOR
 Vacancies for Research Software Engineers
 -----------------------
 
+[Queen Mary University, London - Genome Hacker/Developer/ResearchOps/Data Scientist](https://hackerjobs.co.uk/jobs/2015/3/6/queen-mary-u-london-genome-hacker-developer-researchops-data-scientist)
+
 [Software Developer - Scientific Programmer - University of Warwick](http://www.jobs.ac.uk/job/ATT816/software-engineer-scientific-programmer-75414-035/) - Closes 12/04/2015
 
 #### Ongoing recruitment
