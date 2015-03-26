@@ -14,10 +14,6 @@ COLUMN_SEPARATOR
 Vacancies for Research Software Engineers
 -----------------------
 
-[ECMWF - multiple positions](http://www.ecmwf.int/en/about/jobs/jobs-ecmwf) - Close 08/03/2015-18/03/2015
-
-[Research Software Support Specialist - University of Birmingham](http://bit.ly/software-support) - Closes 20/03/2015
-
 [Software Developer - Scientific Programmer - University of Warwick](http://www.jobs.ac.uk/job/ATT816/software-engineer-scientific-programmer-75414-035/) - Closes 12/04/2015
 
 #### Ongoing recruitment
