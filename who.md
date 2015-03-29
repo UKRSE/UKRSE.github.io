@@ -8,7 +8,7 @@ contentright: hello
 **A growing number of people in academia combine expertise in programming with
 an intricate understanding of research. Although this combination of skills is
 extremely valuable, these people lack a formal place in the academic system.
-This means there is no easy way top recognise their contribution,
+This means there is no easy way to recognise their contribution,
 to reward them, or to represent their views.**
 
 Without a name, it is difficult for people to rally around a cause, so we created the term
@@ -21,7 +21,7 @@ in developing specialist skills, they continue to focus on software and its use 
 Others start off from a more conventional software-development background and are drawn to research
 by the challenge of using software to further research.
 
-The [attraction of being a Research Software Engineer](http://www.software.ac.uk/blog/2013-08-23-ten-reasons-be-research-software-engineer) is similar to those of being a researcher:
+The [attraction of being a Research Software Engineer](http://www.software.ac.uk/blog/2013-08-23-ten-reasons-be-research-software-engineer) is similar to that of being a researcher:
 the role attracts people who want to know how the world works. The Research Software Engineer
 works with researchers to gain an understanding of the problems they face, and then develops,
 maintains and extends software to provide the answers.
