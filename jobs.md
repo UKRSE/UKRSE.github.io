@@ -19,7 +19,3 @@ Vacancies for Research Software Engineers
 [Software Developer - Scientific Programmer - University of Warwick](http://www.jobs.ac.uk/job/ATT816/software-engineer-scientific-programmer-75414-035/) - Closes 12th April 2015
 
 [Image Informatician - University of Edinburgh](http://www.jobs.ac.uk/job/AKT229/image-informatician/) - Closes 15th April 2015
-
-#### Ongoing recruitment
-
-[Software Development Engineers - Microsoft Research Cambridge.](https://careers.microsoft.com/jobdetails.aspx?ss=&pg=0&so=&rw=1&jid=166206) - Posted 22nd December 2014
