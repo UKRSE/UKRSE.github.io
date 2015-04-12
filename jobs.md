@@ -14,8 +14,6 @@ COLUMN_SEPARATOR
 Vacancies for Research Software Engineers
 -----------------------
 
-[Support Engineer - Barcelona Supercomputing Centre](http://www.bsc.es/about-bsc/employment/vacancies/hiest-se-placement) - Closes 10th April 2015
-
 [Software Developer - Scientific Programmer - University of Warwick](http://www.jobs.ac.uk/job/ATT816/software-engineer-scientific-programmer-75414-035/) - Closes 12th April 2015
 
 [Image Informatician - University of Edinburgh](http://www.jobs.ac.uk/job/AKT229/image-informatician/) - Closes 15th April 2015
