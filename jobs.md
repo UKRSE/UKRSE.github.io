@@ -14,4 +14,4 @@ COLUMN_SEPARATOR
 Vacancies for Research Software Engineers
 -----------------------
 
-[Image Informatician - University of Edinburgh](http://www.jobs.ac.uk/job/AKT229/image-informatician/) - Closes 15th April 2015
+*There are no vacancies that we know of at present. Please let us know if you have one.*
