@@ -14,4 +14,8 @@ COLUMN_SEPARATOR
 Vacancies for Research Software Engineers
 -----------------------
 
+<!---
 *There are no vacancies that we know of at present. Please let us know if you have one.*
+-->
+
+[Research Associate in Programming Languages and Analysis for Computational Science](http://www.jobs.cam.ac.uk/job/6785/) - Closes 18 May 2015
