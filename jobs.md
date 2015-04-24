@@ -19,3 +19,5 @@ Vacancies for Research Software Engineers
 -->
 
 [Research Associate in Programming Languages and Analysis for Computational Science](http://www.jobs.cam.ac.uk/job/6785/) - Closes 18 May 2015
+
+The [IQmulus point cloud processing project](http://iqmulus.eu/) are looking for a full- or part-time developer for 2-3 months. The ideal candidate will know C/C++ and is familiar with Linux development tools. Knowledge of PCL would be an advantage. Contact: s.julier (at) cs.ucl.ac.uk and j.boehm (at) ucl.ac.uk for more details. Posted 24 April 2015.
