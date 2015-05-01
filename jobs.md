@@ -20,6 +20,8 @@ Vacancies for Research Software Engineers
 
 [Research Associate in Programming Languages and Analysis for Computational Science](http://www.jobs.cam.ac.uk/job/6785/) - Closes 18 May 2015
 
+[Head of new Centre for Expertise on Modelling the Atmosphere and Climate (CEMAC)](https://jobs.leeds.ac.uk/vacancy.aspx?ref=ENVEE1047), University of Leeds - Closes 19 May 2015
+
 [Frontend biomedical software developer, SciLifeLab, KTH, Sweden](https://www.kth.se/en/om/work-at-kth/lediga-jobb/what:job/jobID:62374/where:4/) - Closes 20 May 2015
 
 [Backend biomedical software developer, SciLifeLab, KTH, Sweden](https://www.kth.se/en/om/work-at-kth/lediga-jobb/what:job/jobID:62364/where:4/) - Closes 20 May 2015
