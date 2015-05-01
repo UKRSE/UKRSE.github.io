@@ -20,4 +20,8 @@ Vacancies for Research Software Engineers
 
 [Research Associate in Programming Languages and Analysis for Computational Science](http://www.jobs.cam.ac.uk/job/6785/) - Closes 18 May 2015
 
+[Frontend biomedical software developer, SciLifeLab, KTH, Sweden](https://www.kth.se/en/om/work-at-kth/lediga-jobb/what:job/jobID:62374/where:4/) - Closes 20 May 2015
+
+[Backend biomedical software developer, SciLifeLab, KTH, Sweden](https://www.kth.se/en/om/work-at-kth/lediga-jobb/what:job/jobID:62364/where:4/) - Closes 20 May 2015
+
 The [IQmulus point cloud processing project](http://iqmulus.eu/) are looking for a full- or part-time developer for 2-3 months. The ideal candidate will know C/C++ and is familiar with Linux development tools. Knowledge of PCL would be an advantage. Contact: s.julier (at) cs.ucl.ac.uk and j.boehm (at) ucl.ac.uk for more details. Posted 24 April 2015.
