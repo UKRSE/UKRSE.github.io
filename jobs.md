@@ -26,4 +26,6 @@ Vacancies for Research Software Engineers
 
 [Backend biomedical software developer](https://www.kth.se/en/om/work-at-kth/lediga-jobb/what:job/jobID:62364/where:4/), SciLifeLab, KTH, Sweden - Closes 20 May 2015
 
+[Senior Scientific Software Engineer](http://www.synchrotron.org.au/index.php/about-us/synchrotron-careers/working-at-the-synchrotron/current-openings), Australian Synchrotron, Melbourne, Australia - Closes 29 May 2015
+
 The [IQmulus point cloud processing project](http://iqmulus.eu/) are looking for a full- or part-time developer for 2-3 months. The ideal candidate will know C/C++ and is familiar with Linux development tools. Knowledge of PCL would be an advantage. Contact: s.julier (at) cs.ucl.ac.uk and j.boehm (at) ucl.ac.uk for more details. Posted 24 April 2015.
