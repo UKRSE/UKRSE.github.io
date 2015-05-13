@@ -18,6 +18,8 @@ Vacancies for Research Software Engineers
 *There are no vacancies that we know of at present. Please let us know if you have one.*
 -->
 
+[HPC Consultant (Fixed Term)](http://www.jobs.cam.ac.uk/job/6759/), University of Cambridge - Closes 15 May 2015
+
 [Research Associate in Programming Languages and Analysis for Computational Science](http://www.jobs.cam.ac.uk/job/6785/), University of Cambridge - Closes 18 May 2015
 
 [Head of new Centre for Expertise on Modelling the Atmosphere and Climate (CEMAC)](https://jobs.leeds.ac.uk/vacancy.aspx?ref=ENVEE1047), University of Leeds - Closes 19 May 2015
