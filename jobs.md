@@ -18,8 +18,6 @@ Vacancies for Research Software Engineers
 *There are no vacancies that we know of at present. Please let us know if you have one.*
 -->
 
-[Head of new Centre for Expertise on Modelling the Atmosphere and Climate (CEMAC)](https://jobs.leeds.ac.uk/vacancy.aspx?ref=ENVEE1047), University of Leeds - Closes 19 May 2015
-
 [Frontend biomedical software developer](https://www.kth.se/en/om/work-at-kth/lediga-jobb/what:job/jobID:62374/where:4/), SciLifeLab, KTH, Sweden - Closes 20 May 2015
 
 [Backend biomedical software developer](https://www.kth.se/en/om/work-at-kth/lediga-jobb/what:job/jobID:62364/where:4/), SciLifeLab, KTH, Sweden - Closes 20 May 2015
