@@ -18,10 +18,6 @@ Vacancies for Research Software Engineers
 *There are no vacancies that we know of at present. Please let us know if you have one.*
 -->
 
-[Frontend biomedical software developer](https://www.kth.se/en/om/work-at-kth/lediga-jobb/what:job/jobID:62374/where:4/), SciLifeLab, KTH, Sweden - Closes 20 May 2015
-
-[Backend biomedical software developer](https://www.kth.se/en/om/work-at-kth/lediga-jobb/what:job/jobID:62364/where:4/), SciLifeLab, KTH, Sweden - Closes 20 May 2015
-
 [Senior Scientific Software Engineer](http://www.synchrotron.org.au/index.php/about-us/synchrotron-careers/working-at-the-synchrotron/current-openings), Australian Synchrotron, Melbourne, Australia - Closes 29 May 2015
 
 [Data Scientist / Scientific Programmer](http://www.topcareer.jobs/Vacancy/irc189433_5360.aspx), STFC Centre for Environmental Data Archival, Rutherford Appleton Laboratory - Closes 12 June 2015
