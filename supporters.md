@@ -20,14 +20,15 @@ Research Software Engineers.
 
 COLUMN_SEPARATOR
 
-The Committee 2013/2014
+The Committee 2014/2015
 -----------------------
 
-* [Chris Cannam](http://www.all-day-breakfast.com/cannam/)
-* [Dirk Gorissen](http://dirkgorissen.com/)
-* [James Hetherington](https://iris.ucl.ac.uk/iris/browse/profile?upi=JHETH53)
+* [James Hetherington](https://iris.ucl.ac.uk/iris/browse/profile?upi=JHETH53) - Chair
+* [Mark Stillwell]() - Chair
+* [Caroline Johnston](http://cassjohnston.wordpress.com/) - Treasurer
+* [Florian Rathgeber]() - Events
+* [Jonathan Boyle]() - Publicity
+* [Robert Haines](http://software.ac.uk/fellows/robert-haines) - Web
+* [Dirk Gorrisen](http://dirkgorissen.com/) - Without portfolio
+* [Adam Witney]() - Without portfolio
 * [Simon Hettrick](http://www.software.ac.uk/about/people/simon-hettrick)
-* [Caroline Johnston](http://cassjohnston.wordpress.com/)
-* [Mark Woodbridge](http://www3.imperial.ac.uk/bioinfsupport/people/mark_woodbridge)
-
-
