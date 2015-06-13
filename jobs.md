@@ -18,6 +18,4 @@ Vacancies for Research Software Engineers
 *There are no vacancies that we know of at present. Please let us know if you have one.*
 -->
 
-[Data Scientist / Scientific Programmer](http://www.topcareer.jobs/Vacancy/irc189433_5360.aspx), STFC Centre for Environmental Data Archival, Rutherford Appleton Laboratory - Closes 12 June 2015
-
 The [IQmulus point cloud processing project](http://iqmulus.eu/) are looking for a full- or part-time developer for 2-3 months. The ideal candidate will know C/C++ and is familiar with Linux development tools. Knowledge of PCL would be an advantage. Contact: s.julier (at) cs.ucl.ac.uk and j.boehm (at) ucl.ac.uk for more details. Posted 24 April 2015.
