@@ -19,6 +19,8 @@ Vacancies for Research Software Engineers
 -->
 [Computational Scientist/Software Engineer](http://www.topcareer.jobs/Vacancy/irc197753_5558.aspx), Great opportunity for a computational scientist or software engineer to contribute to the area of magnetically confined fusion and work closely with the UK computational Plasma Physics community researching this field, based at STFC - closing 21st August.
 
+[HPC Consultant](http://www.jobs.cam.ac.uk/job/6759/), High performance Computing Service (HPCS), University of Cambridge, UK - closing 4th September 2015
+
 [Research Software Engineer](http://jobs.rvc.ac.uk/Vacancy.aspx?ref=CBS-0104-15), Royal Vetinary College, University of London, UK - closing 23rd August 2015
 
 [High Performance Computing (HPC) Manager / Senior Computing Officer](https://jobs.lincoln.ac.uk/vacancy.aspx?ref=COS198), University of Lincoln, UK - closing 31st August 2015
