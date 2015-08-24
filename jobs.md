@@ -18,8 +18,6 @@ Vacancies for Research Software Engineers
 *There are no vacancies that we know of at present. Please let us know if you have one.*
 -->
 
-[Research Software Engineer](http://jobs.rvc.ac.uk/Vacancy.aspx?ref=CBS-0104-15), Royal Vetinary College, University of London, UK - closing 23rd August 2015
-
 [High Performance Computing (HPC) Manager / Senior Computing Officer](https://jobs.lincoln.ac.uk/vacancy.aspx?ref=COS198), University of Lincoln, UK - closing 31st August 2015
 
 [HPC Consultant](http://www.jobs.cam.ac.uk/job/6759/), High performance Computing Service (HPCS), University of Cambridge, UK - closing 4th September 2015
