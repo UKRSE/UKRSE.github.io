@@ -20,4 +20,6 @@ Vacancies for Research Software Engineers
 
 [High Performance Computing (HPC) Manager / Senior Computing Officer](https://jobs.lincoln.ac.uk/vacancy.aspx?ref=COS198), University of Lincoln, UK - closing 31st August 2015
 
+[Computational Science Specialist](http://www.jobs.ac.uk/job/ALS882/computational-science-specialist/), The Thomas Young Centre and the Condensed Matter Theory Group at Imperial College London, UK - closing 3rd September 2015
+
 [HPC Consultant](http://www.jobs.cam.ac.uk/job/6759/), High performance Computing Service (HPCS), University of Cambridge, UK - closing 4th September 2015
