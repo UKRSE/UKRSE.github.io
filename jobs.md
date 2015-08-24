@@ -17,7 +17,6 @@ Vacancies for Research Software Engineers
 <!---
 *There are no vacancies that we know of at present. Please let us know if you have one.*
 -->
-[Computational Scientist/Software Engineer](http://www.topcareer.jobs/Vacancy/irc197753_5558.aspx), Great opportunity for a computational scientist or software engineer to contribute to the area of magnetically confined fusion and work closely with the UK computational Plasma Physics community researching this field, based at STFC - closing 21st August.
 
 [Research Software Engineer](http://jobs.rvc.ac.uk/Vacancy.aspx?ref=CBS-0104-15), Royal Vetinary College, University of London, UK - closing 23rd August 2015
 
