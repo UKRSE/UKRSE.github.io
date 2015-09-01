@@ -9,6 +9,8 @@ A great place to look is [Jobs.ac.uk](http://www.jobs.ac.uk/).
 
 However, where we are made aware of great opportunities for research software engineers, we advertise these here where we can. If you have a job advert you wish to see posted here, please send us a [pull request](https://github.com/UKRSE/UKRSE.github.io).
 
+If you are applying for a job from this list, please do tell the recruiting institution that you saw it here if you have the opportunity to do so.
+
 COLUMN_SEPARATOR
 
 Vacancies for Research Software Engineers
