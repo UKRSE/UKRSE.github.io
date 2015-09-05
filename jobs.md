@@ -20,8 +20,8 @@ Vacancies for Research Software Engineers
 *There are no vacancies that we know of at present. Please let us know if you have one.*
 -->
 
-Java Software Engineer ([post 1](http://www.embl.de/jobs/searchjobs/index.php?newlang=1&ref=EBI_00593), [post 2](http://www.embl.de/jobs/searchjobs/index.php?newlang=1&ref=EBI_00592)), EMBL-EBI, Cambridge, UK - closes 13th September 2015
+Java Software Engineer ([post 1](http://www.embl.de/jobs/searchjobs/index.php?newlang=1&ref=EBI_00593), [post 2](http://www.embl.de/jobs/searchjobs/index.php?newlang=1&ref=EBI_00592)), EMBL-EBI, Cambridge, UK - closing 13th September 2015
 
-[Exascale Research (2 posts)](http://www.ecmwf.int/sites/default/files/vacancies/_VNVN15-46_en.pdf), European Centre for Medium-Range Weather Forecasts, Reading, UK - closes 15th September 2015
+[Exascale Research (2 posts)](http://www.ecmwf.int/sites/default/files/vacancies/_VNVN15-46_en.pdf), European Centre for Medium-Range Weather Forecasts, Reading, UK - closing 15th September 2015
 
-[Research Software Engineer (3 posts)](https://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_version_4.display_form), Life, Natural and Biomedical Sciences team, Oxford e-Research Centre, Oxford, UK - closes 25th September 2015
+[Research Software Engineer (3 posts)](https://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_version_4.display_form), Life, Natural and Biomedical Sciences team, Oxford e-Research Centre, Oxford, UK - closing 25th September 2015
