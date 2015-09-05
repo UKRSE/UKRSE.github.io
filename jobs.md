@@ -20,8 +20,6 @@ Vacancies for Research Software Engineers
 *There are no vacancies that we know of at present. Please let us know if you have one.*
 -->
 
-[HPC Consultant](http://www.jobs.cam.ac.uk/job/6759/), High performance Computing Service (HPCS), University of Cambridge, UK - closing 4th September 2015
-
 Java Software Engineer ([post 1](http://www.embl.de/jobs/searchjobs/index.php?newlang=1&ref=EBI_00593), [post 2](http://www.embl.de/jobs/searchjobs/index.php?newlang=1&ref=EBI_00592)), EMBL-EBI, Cambridge, UK - closes 13th September 2015
 
 [Exascale Research (2 posts)](http://www.ecmwf.int/sites/default/files/vacancies/_VNVN15-46_en.pdf), European Centre for Medium-Range Weather Forecasts, Reading, UK - closes 15th September 2015
