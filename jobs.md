@@ -24,4 +24,8 @@ Java Software Engineer ([post 1](http://www.embl.de/jobs/searchjobs/index.php?ne
 
 [Exascale Research (2 posts)](http://www.ecmwf.int/sites/default/files/vacancies/_VNVN15-46_en.pdf), European Centre for Medium-Range Weather Forecasts, Reading, UK - closing 15th September 2015
 
+[Application Developer (Data Science)](http://bit.ly/1K9VL8G), EPCC, University of Edinburgh, UK - closes 15th September 2015
+
+[Application Consultant (Data Science)](http://bit.ly/1NjvxG1), EPCC, University of Edinburgh, UK - closes 16th September 2015
+
 [Research Software Engineer (3 posts)](https://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_version_4.display_form), Life, Natural and Biomedical Sciences team, Oxford e-Research Centre, Oxford, UK - closing 25th September 2015
