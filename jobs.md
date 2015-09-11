@@ -29,3 +29,7 @@ Java Software Engineer ([post 1](http://www.embl.de/jobs/searchjobs/index.php?ne
 [Application Consultant (Data Science)](http://bit.ly/1NjvxG1), EPCC, University of Edinburgh, UK - closes 16th September 2015
 
 [Research Software Engineer (3 posts)](https://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_version_4.display_form), Life, Natural and Biomedical Sciences team, Oxford e-Research Centre, Oxford, UK - closing 25th September 2015
+
+[Application Developer](http://bit.ly/1UIDkOg), EPCC, University of Edinburgh, UK - closes 25th September 2015
+
+[Application Consultant](http://bit.ly/1UDnqtY), EPCC, University of Edinburgh, UK - closes 30th September 2015
