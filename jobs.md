@@ -20,8 +20,6 @@ Vacancies for Research Software Engineers
 *There are no vacancies that we know of at present. Please let us know if you have one.*
 -->
 
-[Exascale Research (2 posts)](http://www.ecmwf.int/sites/default/files/vacancies/_VNVN15-46_en.pdf), European Centre for Medium-Range Weather Forecasts, Reading, UK - closing 15th September 2015
-
 [Application Developer (Data Science)](http://bit.ly/1K9VL8G), EPCC, University of Edinburgh, UK - closes 15th September 2015
 
 [Application Consultant (Data Science)](http://bit.ly/1NjvxG1), EPCC, University of Edinburgh, UK - closes 16th September 2015
