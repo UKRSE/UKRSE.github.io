@@ -20,8 +20,6 @@ Vacancies for Research Software Engineers
 *There are no vacancies that we know of at present. Please let us know if you have one.*
 -->
 
-[Application Developer](http://bit.ly/1UIDkOg), EPCC, University of Edinburgh, UK - closes 25th September 2015
-
 [Application Consultant](http://bit.ly/1UDnqtY), EPCC, University of Edinburgh, UK - closes 30th September 2015
 
 [Research Software Specialist](https://www.jobs.manchester.ac.uk/displayjob.aspx?jobid=10373), School of Computer Science, University of Manchester, UK - closes 18th October 2015
