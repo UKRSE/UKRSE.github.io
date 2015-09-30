@@ -22,6 +22,8 @@ Vacancies for Research Software Engineers
 
 [Application Consultant](http://bit.ly/1UDnqtY), EPCC, University of Edinburgh, UK - closes 30th September 2015
 
+[Research Software Developer](http://tinyurl.com/otjdtg7), Nuffield Department of Population Health, University of Oxford, UK - closes 16th October 2015
+
 [Research Software Specialist](https://www.jobs.manchester.ac.uk/displayjob.aspx?jobid=10373), School of Computer Science, University of Manchester, UK - closes 18th October 2015
 
 [Research Software Developer](http://bit.ly/rsdhire15), Research Software Development Team, UCL, UK - closes 27th October 2015
