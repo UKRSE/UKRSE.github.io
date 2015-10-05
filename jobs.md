@@ -24,4 +24,6 @@ Vacancies for Research Software Engineers
 
 [Research Software Specialist](https://www.jobs.manchester.ac.uk/displayjob.aspx?jobid=10373), School of Computer Science, University of Manchester, UK - closes 18th October 2015
 
+[Research Software Engineer](http://careers.peopleclick.com/careerscp/client_mit/external/en-us/gateway.do?functionName=viewFromLink&jobPostId=5647&localeCode=en-us), Lab for Computational Physiology, MIT, Cambridge, USA - closes 19th October 2015
+
 [Research Software Developer](http://bit.ly/rsdhire15), Research Software Development Team, UCL, UK - closes 27th October 2015
