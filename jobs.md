@@ -20,8 +20,6 @@ Vacancies for Research Software Engineers
 *There are no vacancies that we know of at present. Please let us know if you have one.*
 -->
 
-[Research Software Engineer](http://j.mp/rsehire15), Centre for Computational Imaging and Simulation Technologies in Biomedicine, University of Sheffield, UK - closes 13th October 2015
-
 [Research Software Developer](http://tinyurl.com/otjdtg7), Nuffield Department of Population Health, University of Oxford, UK - closes 16th October 2015
 
 [Research Software Specialist](https://www.jobs.manchester.ac.uk/displayjob.aspx?jobid=10373), School of Computer Science, University of Manchester, UK - closes 18th October 2015
