@@ -20,6 +20,4 @@ Vacancies for Research Software Engineers
 *There are no vacancies that we know of at present. Please let us know if you have one.*
 -->
 
-[Research Software Engineer](http://careers.peopleclick.com/careerscp/client_mit/external/en-us/gateway.do?functionName=viewFromLink&jobPostId=5647&localeCode=en-us), Lab for Computational Physiology, MIT, Cambridge, USA - closes 19th October 2015
-
 [Research Software Developer](http://bit.ly/rsdhire15), Research Software Development Team, UCL, UK - closes 27th October 2015
