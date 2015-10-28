@@ -20,6 +20,4 @@ Vacancies for Research Software Engineers
 *There are no vacancies that we know of at present. Please let us know if you have one.*
 -->
 
-[Research Software Developer](http://bit.ly/rsdhire15), Research Software Development Team, UCL, UK - closes 27th October 2015
-
 [Senior Software Developer (up to 3 posts)](https://www.reading.ac.uk/15/about/jobs/about-job-details.aspx?vacancy_id=0329439GoF), The Institute for Environmental Analytics, University of Reading, UK - closes 10th November 2015
