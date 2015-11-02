@@ -18,3 +18,6 @@ COLUMN_SEPARATOR
 
 ### University of Manchester
 [Robert Haines](http://software.ac.uk/fellows/robert-haines), [Research IT](http://www.itservices.manchester.ac.uk/research/)
+
+### University College London
+[James Hetherington](http://www.ucl.ac.uk/research-it-services/people/james), [Research IT Services](http://www.ucl.ac.uk/research-it-services)
