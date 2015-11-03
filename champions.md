@@ -1,5 +1,5 @@
 ---
-title: Champions for Research Software Engineers
+title: Champions for Research Software Engineering
 layout: default
 short: RSE Champions
 ---
