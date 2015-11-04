@@ -1,7 +1,7 @@
 ---
 title: Research Software Engineering Groups
 layout: default
-short: RSE Champions
+short: Groups
 ---
 
 ## About Groups
