@@ -7,7 +7,7 @@ short: Groups
 ## About Groups
 
 **Research Software Engineering Groups provide a home for research programmers who 
-collaborate with researchers on multiple research projects **
+collaborate with researchers on multiple research projects**
 
 Most Research Software Engineers are employed as Research Associates on individual research projects.
 But we are particularly interested in the ways in which research organisations
@@ -27,7 +27,7 @@ COLUMN_SEPARATOR
 
 ## List of Groups
 
-Organization | Groups(s)
+Organization | Group(s)
 ------------:|:-----------
 University College London | [Research Software Development Group](http://www.ucl.ac.uk/research-it-services/about/research-software-development)
 University of Manchester | [Research IT](http://www.itservices.manchester.ac.uk/research/services/software/)
