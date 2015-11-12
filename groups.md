@@ -29,6 +29,7 @@ COLUMN_SEPARATOR
 
 Organization | Group(s)
 ------------:|:-----------
+University of Bristol | [Advanced Computing Research Centre](https://www.acrc.bris.ac.uk)
 University College London | [Research Software Development Group](http://www.ucl.ac.uk/research-it-services/about/research-software-development)
 University of Manchester | [Research IT](http://www.itservices.manchester.ac.uk/research/services/software/)
 University of Oxford | [Research Software Development Network](http://rsdn.oerc.ox.ac.uk/)

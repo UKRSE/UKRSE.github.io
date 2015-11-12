@@ -18,6 +18,7 @@ COLUMN_SEPARATOR
 
 Organization | Champion(s)
 ------------:|:-----------
+University of Bristol | [Christopher Woods](http://chryswoods.com), [Advanced Computing Research Centre](https://www.acrc.bris.ac.uk)
 University College London | [James Hetherington](http://www.ucl.ac.uk/research-it-services/people/james), [Research IT Services](http://www.ucl.ac.uk/research-it-services)
 University of Manchester | [Robert Haines](http://software.ac.uk/fellows/robert-haines), [Research IT](http://www.itservices.manchester.ac.uk/research/)
 University of Sheffield | [Mike Croucher](), dept <br/> [Susheel Varma](), dept
