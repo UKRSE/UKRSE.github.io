@@ -21,7 +21,7 @@ or in university IT organisations.
 UKRSE hosts an "RSE Leaders" subcomittee, a peer-support group for heads of research software engineering
 groups. If you run a research programming organisation, and would like to join, please get in touch.
 
-If your place of work meets the above definition, please submit a pull request to this page to add it to the list.
+If your place of work meets the above definition, please [submit a pull request to this page](https://github.com/UKRSE/UKRSE.github.io/blob/master/groups.md) to add it to the list.
 
 COLUMN_SEPARATOR
 
