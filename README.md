@@ -39,7 +39,7 @@ Or you can use docker. This has the advantage of more closely mimicking the GitH
 docker run -it --rm \
   --name jekyll \
   --volume=$(pwd):/srv/jekyll \
-  -p 4000 \
+  -p 4000:4000 \
   jekyll/jekyll:pages
 ```
 
