@@ -23,3 +23,4 @@ University College London | [James Hetherington](http://www.ucl.ac.uk/research-i
 University of Manchester | [Robert Haines](http://software.ac.uk/fellows/robert-haines), [Research IT](http://www.itservices.manchester.ac.uk/research/)
 University of Oxford | [Jonathan Cooper](http://www.cs.ox.ac.uk/people/jonathan.cooper/), [Computer Science](http://www.cs.ox.ac.uk/) and [RSDN](http://rsdn.oerc.ox.ac.uk) leader
 University of Sheffield | [Mike Croucher](), dept <br/> [Susheel Varma](), dept
+University of Southampton | John Robinson, [Research Software Group](http://rsg.soton.ac.uk/)
