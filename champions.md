@@ -24,3 +24,4 @@ University of Manchester | [Robert Haines](http://software.ac.uk/fellows/robert-
 University of Oxford | [Jonathan Cooper](http://www.cs.ox.ac.uk/people/jonathan.cooper/), [Computer Science](http://www.cs.ox.ac.uk/) and [RSDN](http://rsdn.oerc.ox.ac.uk) leader
 University of Sheffield | [Mike Croucher](), dept <br/> [Susheel Varma](), dept
 University of Southampton | John Robinson, [Research Software Group](http://rsg.soton.ac.uk/)
+St George's, University of London | Adam Witney, [Institute of Infection and Immunity](http://www.sgul.ac.uk/research/infection/)
