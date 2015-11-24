@@ -213,6 +213,11 @@ a
   vertical-align: top;
 }
 
+#content_right td:first-child
+{
+  font-weight: bold;
+}
+
 #content_right tr:nth-child(odd)
 {
   background-color: #fff;
