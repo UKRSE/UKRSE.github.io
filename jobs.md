@@ -7,7 +7,7 @@ short: Jobs
 There are regular opportunities for programming researchers in universities and labs across the UK.
 A great place to look is [Jobs.ac.uk](http://www.jobs.ac.uk/).
 
-However, where we are made aware of great opportunities for research software engineers, we advertise these here where we can. If you have a job advert you wish to see posted here, please send us a [pull request](https://github.com/UKRSE/UKRSE.github.io).
+However, where we are made aware of great opportunities for research software engineers, we advertise these here where we can. If you have a job advert you wish to see posted here, please send us a [pull request to this page](https://github.com/UKRSE/UKRSE.github.io/blob/master/jobs.md).
 
 If you are applying for a job from this list, please do tell the recruiting institution that you saw it here if you have the opportunity to do so.
 
@@ -16,8 +16,4 @@ COLUMN_SEPARATOR
 Vacancies for Research Software Engineers
 -----------------------
 
-<!---
 *There are no vacancies that we know of at present. Please let us know if you have one.*
--->
-
-[Senior Software Developer (up to 3 posts)](https://www.reading.ac.uk/15/about/jobs/about-job-details.aspx?vacancy_id=0329439GoF), The Institute for Environmental Analytics, University of Reading, UK - closes 10th November 2015
