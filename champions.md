@@ -23,6 +23,6 @@ University College London | [James Hetherington](http://www.ucl.ac.uk/research-i
 University of Manchester | [Robert Haines](http://software.ac.uk/fellows/robert-haines), [Research IT](http://www.itservices.manchester.ac.uk/research/)
 University of Oxford | [Jonathan Cooper](http://www.cs.ox.ac.uk/people/jonathan.cooper/), [Computer Science](http://www.cs.ox.ac.uk/) and [RSDN](http://rsdn.oerc.ox.ac.uk) leader
 University of Sheffield | Mike Croucher <br/> Susheel Varma
-University of Cambridge | Filippo Spiga [HPCS](http://www.hpc.cam.ac.uk)
+University of Cambridge | Filippo Spiga, [HPCS](http://www.hpc.cam.ac.uk)
 University of Southampton | John Robinson, [Research Software Group](http://rsg.soton.ac.uk/)
 St George's, University of London | Adam Witney, [Institute of Infection and Immunity](http://www.sgul.ac.uk/research/infection/)
