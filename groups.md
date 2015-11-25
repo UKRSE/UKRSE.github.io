@@ -30,6 +30,7 @@ COLUMN_SEPARATOR
 Organization | Group(s)
 ------------:|:-----------
 University of Bristol | [Advanced Computing Research Centre](https://www.acrc.bris.ac.uk)
+Culham Centre for Fusion Energy | Data and Coding team (CODAS & IT)
 University College London | [Research Software Development Group](http://www.ucl.ac.uk/research-it-services/about/research-software-development)
 University of Manchester | [Research Software Engineering Group](http://www.itservices.manchester.ac.uk/research/services/software/)
 University of Oxford | [Research Software Developers Network](http://rsdn.oerc.ox.ac.uk/)
