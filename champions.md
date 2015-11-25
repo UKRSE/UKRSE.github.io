@@ -19,6 +19,7 @@ COLUMN_SEPARATOR
 Organization | Champion(s)
 ------------:|:-----------
 University of Bristol | [Christopher Woods](http://chryswoods.com), [Advanced Computing Research Centre](https://www.acrc.bris.ac.uk)
+Culham Centre for Fusion Energy | [Alys Brett](https://uk.linkedin.com/in/alysbrett), Central Computing Group
 University College London | [James Hetherington](http://www.ucl.ac.uk/research-it-services/people/james), [Research IT Services](http://www.ucl.ac.uk/research-it-services)
 University of Manchester | [Robert Haines](http://software.ac.uk/fellows/robert-haines), [Research IT](http://www.itservices.manchester.ac.uk/research/)
 University of Oxford | [Jonathan Cooper](http://www.cs.ox.ac.uk/people/jonathan.cooper/), [Computer Science](http://www.cs.ox.ac.uk/) and [RSDN](http://rsdn.oerc.ox.ac.uk) leader
