@@ -6,13 +6,13 @@ short: Groups
 
 ## About Groups
 
-**Research Software Engineering Groups provide a home for research programmers who 
+**Research Software Engineering Groups provide a home for research programmers who
 collaborate with researchers on multiple research projects**
 
 Most Research Software Engineers are employed as Research Associates on individual research projects.
 But we are particularly interested in the ways in which research organisations
 bring research programmers together into larger teams, and are trying to maintain
-a list of such groups here, not just in the UK, but around the world. 
+a list of such groups here, not just in the UK, but around the world.
 
 These may be formal organisations (like the UCL group), or looser federations (like the Oxford group).
 They may be based in universities or in national labs or research institutes, and in academic departments
