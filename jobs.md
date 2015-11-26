@@ -16,4 +16,8 @@ COLUMN_SEPARATOR
 Vacancies for Research Software Engineers
 -----------------------
 
-*There are no vacancies that we know of at present. Please let us know if you have one.*
+<!--- *There are no vacancies that we know of at present. Please let us know if you have one.* -->
+
+[Scientific Software Engineer](https://iframe.recruitmentplatform.com/met_office/external/details.html?nPostingID=1089&nPostingTargetID=2129&option=52&sort=DESC&respnr=1&ID=Q5JFK026203F3VBQB79LO8NXG&Resultsperpage=10&lg=UK&mask=metext), Met Office, Exeter, UK - closes 18 December 2015
+
+[Senior Scientific Software Engineer](https://iframe.recruitmentplatform.com/met_office/external/details.html?nPostingID=1092&nPostingTargetID=2169&option=52&sort=DESC&respnr=1&ID=Q5JFK026203F3VBQB79LO8NXG&Resultsperpage=10&lg=UK&mask=metext), Met Office, Exeter, UK - closes 18 December 2015
