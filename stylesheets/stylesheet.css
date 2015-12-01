@@ -1,4 +1,8 @@
-html{height:100%;}
+html
+{
+  height:100%;
+}
+
 body
 {
   margin: 0;
@@ -6,46 +10,52 @@ body
   font-family: Helvetica, sans-serif;
   color: #555555;
 }
+
 #main
 {
   border: none;
 }
+
 h1,
 h2
 {
   color: #97316e;
   font-weight: normal;
 }
+
 h1
 {
   font-size: 40px;
 }
+
 h2
 {
   font-size: 20px;
 }
+
 a
 {
   text-decoration: none;
   color: #97316e;
 }
+
 #title
 {
- background-color: #ffffff;
+  background-color: #ffffff;
 }
-#title h1
-{
-}
+
 #content ul li
 {
   padding-bottom: 5px;
   margin-left: -25px;
 }
+
 #content ol li
 {
   padding-bottom: 5px;
   margin-left: -20px;
 }
+
 #header
 {
   width: 100%;
@@ -56,10 +66,12 @@ a
   background-color: #eeeeee;
   color: #555555;
 }
+
 #header ul
 {
   float: right;
 }
+
 #header ul li
 {
   display: inline-block;
@@ -67,11 +79,13 @@ a
   *display: inline;
   padding-right: 20px;
 }
+
 #header a
 {
   text-decoration: none;
   color: #555555;
 }
+
 #tagline
 {
   font-size: 20px;
@@ -100,6 +114,7 @@ a
   padding-top: 55px;
   padding-left: 20px;
 }
+
 #title_full
 {
   width: 100%;
@@ -107,16 +122,19 @@ a
   z-index: -1 ;
   text-align: center;
 }
+
 #title_full h1
 {
   font-size: 100px;
 }
+
 #content
 {
   width: 100%;
   margin: 0 auto;
   line-height: 1.3em;
 }
+
 #content_full
 {
   width: 100%;
@@ -124,6 +142,7 @@ a
   padding-bottom: 35px;
   z-index: -1
 }
+
 #content_left
 {
   width: 55%;
@@ -132,8 +151,8 @@ a
   padding-bottom: 35px;
   padding-left: 20px;
   z-index: -1
-
 }
+
 #content_right
 {
   width: 40%;
@@ -142,7 +161,6 @@ a
   padding-bottom: 35px;
   padding-right: 20px;
   z-index: -1
-
 }
 
 #content_full table
@@ -161,18 +179,22 @@ a
   padding-left: 20px;
   padding-right: 20px;
 }
+
 #content_full td h2
 {
   margin-bottom: 4px;
 }
+
 #join_us
 {
   text-align: center;
 }
+
 .table_left
 {
   padding-left: 0px !important;
 }
+
 .table_right
 {
   padding-right: 0px !important;
