@@ -39,11 +39,6 @@ a
   color: #97316e;
 }
 
-#title
-{
-  background-color: #ffffff;
-}
-
 #content ul li
 {
   padding-bottom: 5px;
@@ -113,6 +108,7 @@ a
   width: 55%;
   padding-top: 55px;
   padding-left: 20px;
+  background-color: #ffffff;
 }
 
 #title_full
