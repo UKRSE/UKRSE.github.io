@@ -123,11 +123,8 @@ a
 }
 #content_full
 {
-  width: 1200px;
+  width: 100%;
   margin: 10px;
-  position: absolute;
-  left: 80px;
-  top: 400px;
   padding-bottom: 35px;
   z-index: -1
 }
