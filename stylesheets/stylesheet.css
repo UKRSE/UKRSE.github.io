@@ -96,13 +96,9 @@ a
 
 #title
 {
-  width: 100%;
-  min-height: 60px;
-  min-height: 100px;
-  position: fixed;
-  top: 55px;
-  padding-top:25;
-  padding-left: 90px;
+  width: 55%;
+  padding-top: 55px;
+  padding-left: 20px;
 }
 #title_full
 {
