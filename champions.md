@@ -20,6 +20,7 @@ Organization | Champion(s)
 ------------:|:-----------
 University of Bristol | [Christopher Woods](http://chryswoods.com), [Advanced Computing Research Centre](https://www.acrc.bris.ac.uk)
 Culham Centre for Fusion Energy | [Alys Brett](https://uk.linkedin.com/in/alysbrett), Central Computing Group
+Imperial College London | Jeremy Cohen, [Department of Computing](http://www.imperial.ac.uk/computing)
 University College London | [James Hetherington](http://www.ucl.ac.uk/research-it-services/people/james), [Research IT Services](http://www.ucl.ac.uk/research-it-services)
 University of Manchester | [Robert Haines](http://software.ac.uk/fellows/robert-haines), [Research IT](http://www.itservices.manchester.ac.uk/research/)
 University of Oxford | [Jonathan Cooper](http://www.cs.ox.ac.uk/people/jonathan.cooper/), [Computer Science](http://www.cs.ox.ac.uk/) and [RSDN](http://rsdn.oerc.ox.ac.uk) leader
@@ -27,5 +28,3 @@ University of Sheffield | Mike Croucher <br/> [Susheel Varma](http://www.cistib.
 University of Cambridge | Filippo Spiga, [HPCS](http://www.hpc.cam.ac.uk)
 University of Southampton | John Robinson, [Research Software Group](http://rsg.soton.ac.uk/)
 St George's, University of London | Adam Witney, [Institute of Infection and Immunity](http://www.sgul.ac.uk/research/infection/)
-Imperial College London | Jeremy Cohen, [Department of Computing](http://www.imperial.ac.uk/computing)
-
