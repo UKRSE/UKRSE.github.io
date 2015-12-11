@@ -31,6 +31,7 @@ Organization | Group(s)
 ------------:|:-----------
 University of Bristol | [Advanced Computing Research Centre](https://www.acrc.bris.ac.uk)
 Culham Centre for Fusion Energy | Data and Coding team (CODAS & IT)
+Imperial College London | [Research Software Engineering Community](http://www.imperial.ac.uk/computational-methods/rse)
 University College London | [Research Software Development Group](http://www.ucl.ac.uk/research-it-services/about/research-software-development)
 University of Manchester | [Research Software Engineering Group](http://www.itservices.manchester.ac.uk/research/services/software/)
 University of Oxford | [Research Software Developers Network](http://rsdn.oerc.ox.ac.uk/)
