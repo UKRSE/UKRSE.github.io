@@ -28,3 +28,4 @@ University of Sheffield | Mike Croucher <br/> [Susheel Varma](http://www.cistib.
 University of Cambridge | Filippo Spiga, [HPCS](http://www.hpc.cam.ac.uk)
 University of Southampton | John Robinson, [Research Software Group](http://rsg.soton.ac.uk/)
 St George's, University of London | Adam Witney, [Institute of Infection and Immunity](http://www.sgul.ac.uk/research/infection/)
+University of Edinburgh | Oliver Henrich, [Edinburgh Parallel Computing Centre](https://www.epcc.ed.ac.uk)

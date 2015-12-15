@@ -36,3 +36,4 @@ University College London | [Research Software Development Group](http://www.ucl
 University of Manchester | [Research Software Engineering Group](http://www.itservices.manchester.ac.uk/research/services/software/)
 University of Oxford | [Research Software Developers Network](http://rsdn.oerc.ox.ac.uk/)
 University of Southampton | [Research Software Group](http://rsg.soton.ac.uk/)
+University of Edinburgh | [Edinburgh Parallel Computing Centre] (https://www.epcc.ed.ac.uk)
