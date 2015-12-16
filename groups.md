@@ -30,6 +30,7 @@ COLUMN_SEPARATOR
 Organization | Group(s)
 ------------:|:-----------
 University of Bristol | [Advanced Computing Research Centre](https://www.acrc.bris.ac.uk)
+University of Cambridge | [High Performance Computing Service](http://www.hpc.cam.ac.uk)
 Culham Centre for Fusion Energy | Data and Coding team (CODAS & IT)
 University of Edinburgh | [Edinburgh Parallel Computing Centre](https://www.epcc.ed.ac.uk)
 Imperial College London | [Research Software Engineering Community](http://www.imperial.ac.uk/computational-methods/rse)
