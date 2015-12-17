@@ -19,7 +19,7 @@ COLUMN_SEPARATOR
 Organization | Champion(s)
 ------------:|:-----------
 University of Bristol | [Christopher Woods](http://chryswoods.com), [Advanced Computing Research Centre](https://www.acrc.bris.ac.uk)
-University of Cambridge | Filippo Spiga, [HPCS](http://www.hpc.cam.ac.uk) <br/> [Chris Richardson](http://www.bpi.cam.ac.uk/user/chris), [BPI](http://www.bpi.cam.ac.uk)
+University of Cambridge | [Chris Richardson](http://www.bpi.cam.ac.uk/user/chris), [BPI](http://www.bpi.cam.ac.uk) <br/> Filippo Spiga, [HPCS](http://www.hpc.cam.ac.uk)
 Culham Centre for Fusion Energy | [Alys Brett](https://uk.linkedin.com/in/alysbrett), Central Computing Group
 University of Edinburgh | Oliver Henrich, [Edinburgh Parallel Computing Centre](https://www.epcc.ed.ac.uk)
 Imperial College London | Jeremy Cohen, [Department of Computing](http://www.imperial.ac.uk/computing)
