@@ -1,7 +1,7 @@
 ---
-title: Research Software Engineering Groups
+title: Research Software Engineering Groups in the UK
 layout: default
-short: Groups
+short: UK RSE Groups
 ---
 
 ## About Groups
