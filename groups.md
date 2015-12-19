@@ -4,7 +4,7 @@ layout: default
 short: UK RSE Groups
 ---
 
-## About Groups
+## About RSE Groups
 
 **Research Software Engineering Groups provide a home for research programmers who collaborate with researchers on multiple research projects**
 
@@ -20,7 +20,7 @@ If you are based outside the UK, please see our [list of international RSE group
 
 COLUMN_SEPARATOR
 
-## List of Groups
+## List of UK RSE Groups
 
 Organization | Group(s)
 ------------:|:-----------
