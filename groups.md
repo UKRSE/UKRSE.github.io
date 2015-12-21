@@ -32,4 +32,5 @@ Imperial College London | [Research Software Engineering Community](http://www.i
 University College London | [Research Software Development Group](http://www.ucl.ac.uk/research-it-services/about/research-software-development)
 University of Manchester | [Research Software Engineering Group](http://www.itservices.manchester.ac.uk/research/services/software/)
 University of Oxford | [Research Software Developers Network](http://rsdn.oerc.ox.ac.uk/)
+University of Sheffield | [Research Software Engineering at Sheffield](http://rse-sheffield.github.io/)
 University of Southampton | [Research Software Group](http://rsg.soton.ac.uk/)
