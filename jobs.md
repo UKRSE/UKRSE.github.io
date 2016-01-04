@@ -16,6 +16,4 @@ COLUMN_SEPARATOR
 Vacancies for Research Software Engineers
 -----------------------
 
-<!--- *There are no vacancies that we know of at present. Please let us know if you have one.* -->
-
-[Senior Software Engineer](https://www.hirewire.co.uk/HE/1061247/MS_JobDetails.aspx?JobID=65521), King's College London, UK - closes 3 January 2016
+*There are no vacancies that we know of at present. Please let us know if you have one.*
