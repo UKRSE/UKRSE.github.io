@@ -21,3 +21,5 @@ Vacancies for Research Software Engineers
 [Scientific Software Developer – Data Science for Synthetic Biology](http://www.biosustain.dtu.dk/english/About/Vacant-Positions/job?id=f1b9700d-6be4-439c-ab85-40330604bda5), Technical University of Denmark - closes 15 February 2016
  
 [Scientific Software Developer – Cell Factory Design Methods](http://www.biosustain.dtu.dk/english/About/Vacant-Positions/job?id=1bd3af44-312a-4378-af7a-e034a43896ee), Technical University of Denmark - closes 15 February 2016
+
+[Scientific Software Developer - The Dark Energy Survey](https://www.jobs.manchester.ac.uk/universityofmanchesterinternal/displayjob.aspx?jobid=10827), School of Physics & Astronomy, University of Manchester, UK - closes 29 February 2016
