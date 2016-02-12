@@ -25,4 +25,6 @@ BP Institute, University of Cambridge, UK - closes 13 February 2016
  
 [Scientific Software Developer – Cell Factory Design Methods](http://www.biosustain.dtu.dk/english/About/Vacant-Positions/job?id=1bd3af44-312a-4378-af7a-e034a43896ee), Technical University of Denmark - closes 15 February 2016
 
+[Research Software Engineer - Applications Support Specialist](https://www.jobs.manchester.ac.uk/displayjob.aspx?jobid=11017), Research IT, University of Manchester, UK - closes 26 February 2016
+
 [Scientific Software Developer - The Dark Energy Survey](https://www.jobs.manchester.ac.uk/universityofmanchesterinternal/displayjob.aspx?jobid=10827), School of Physics & Astronomy, University of Manchester, UK - closes 29 February 2016
