@@ -21,3 +21,5 @@ Vacancies for Research Software Engineers
 [Research Software Engineer - Applications Support Specialist](https://www.jobs.manchester.ac.uk/displayjob.aspx?jobid=11017), Research IT, University of Manchester, UK - closes 26 February 2016
 
 [Scientific Software Developer - The Dark Energy Survey](https://www.jobs.manchester.ac.uk/universityofmanchesterinternal/displayjob.aspx?jobid=10827), School of Physics & Astronomy, University of Manchester, UK - closes 29 February 2016
+
+[Scientific Software Engineer/Senior Scientific Software Engineer](https://goo.gl/M1t6Dg), The Met Office, Exeter, UK - closes 8 April 2016
