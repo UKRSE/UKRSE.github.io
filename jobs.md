@@ -22,6 +22,8 @@ Vacancies for Research Software Engineers
 
 [Scientific Software Developer - The Dark Energy Survey](https://www.jobs.manchester.ac.uk/universityofmanchesterinternal/displayjob.aspx?jobid=10827), School of Physics & Astronomy, University of Manchester, UK - closes 29 February 2016
 
+[HPC Application Software Analyst](http://www.jobs.ac.uk/job/AMS437/hpc-application-software-analyst), The Francis Crick Institute, London, UK - closes 5 March 2016
+
 [Lead Developer-Bioinformatician - Plant and Fungal Trees of Life](https://careers.kew.org/vacancy/lead-developerbioinformatician-paftol-254750.html), Kew Royal Botanic Gardens, London, UK - closes 15 March 2016
 
 [Scientific Software Engineer/Senior Scientific Software Engineer](https://goo.gl/M1t6Dg), The Met Office, Exeter, UK - closes 8 April 2016
