@@ -18,8 +18,6 @@ Vacancies for Research Software Engineers
 
 <!--- *There are no vacancies that we know of at present. Please let us know if you have one.* -->
 
-[Research Software Engineer - Applications Support Specialist](https://www.jobs.manchester.ac.uk/displayjob.aspx?jobid=11017), Research IT, University of Manchester, UK - closes 26 February 2016
-
 [Scientific Software Developer - The Dark Energy Survey](https://www.jobs.manchester.ac.uk/universityofmanchesterinternal/displayjob.aspx?jobid=10827), School of Physics & Astronomy, University of Manchester, UK - closes 29 February 2016
 
 [HPC Application Software Analyst](http://www.jobs.ac.uk/job/AMS437/hpc-application-software-analyst), The Francis Crick Institute, London, UK - closes 5 March 2016
