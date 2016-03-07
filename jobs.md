@@ -22,4 +22,6 @@ Vacancies for Research Software Engineers
 
 [Software Developer](https://www.reading.ac.uk/15/about/jobs/about-job-details.aspx?vacancy_id=912549A3Ef), Department of Meteorology, University of Reading, UK - closes 21 March 2016
 
+[Software Developer / User Interface Designer](http://www.the-iea.org/jobs.html), Institute for Environmental Analytics, University of Reading, UK - closes 22 March 2016
+
 [Scientific Software Engineer/Senior Scientific Software Engineer](https://goo.gl/M1t6Dg), The Met Office, Exeter, UK - closes 8 April 2016
