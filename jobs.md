@@ -18,10 +18,10 @@ Vacancies for Research Software Engineers
 
 <!--- *There are no vacancies that we know of at present. Please let us know if you have one.* -->
 
-[Lead Developer-Bioinformatician - Plant and Fungal Trees of Life](https://careers.kew.org/vacancy/lead-developerbioinformatician-paftol-254750.html), Kew Royal Botanic Gardens, London, UK - closes 15 March 2016
+* [Lead Developer-Bioinformatician - Plant and Fungal Trees of Life](https://careers.kew.org/vacancy/lead-developerbioinformatician-paftol-254750.html), Kew Royal Botanic Gardens, London, UK - closes 15 March 2016
 
-[Software Developer](https://www.reading.ac.uk/15/about/jobs/about-job-details.aspx?vacancy_id=912549A3Ef), Department of Meteorology, University of Reading, UK - closes 21 March 2016
+* [Software Developer](https://www.reading.ac.uk/15/about/jobs/about-job-details.aspx?vacancy_id=912549A3Ef), Department of Meteorology, University of Reading, UK - closes 21 March 2016
 
-[Software Developer / User Interface Designer](http://www.the-iea.org/jobs.html), Institute for Environmental Analytics, University of Reading, UK - closes 22 March 2016
+* [Software Developer / User Interface Designer](http://www.the-iea.org/jobs.html), Institute for Environmental Analytics, University of Reading, UK - closes 22 March 2016
 
-[Scientific Software Engineer/Senior Scientific Software Engineer](https://goo.gl/M1t6Dg), The Met Office, Exeter, UK - closes 8 April 2016
+* [Scientific Software Engineer/Senior Scientific Software Engineer](https://goo.gl/M1t6Dg), The Met Office, Exeter, UK - closes 8 April 2016
