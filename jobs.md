@@ -29,3 +29,5 @@ Vacancies for Research Software Engineers
 * [Scientific Software Engineer/Senior Scientific Software Engineer](https://goo.gl/M1t6Dg), The Met Office, Exeter, UK - closes 8 April 2016
 
 * [Data Scientist (Fixed Term)](http://www.jobs.cam.ac.uk/job/9656/), MRC Epidemiology Unit, University of Cambridge, UK - closes 10 April 2016
+
+* [Multiple Software Engineer / Scientific Programmer / Developer Roles](http://www.ebi.ac.uk/about/jobs), EMBL-EBI, Cambridge, UK - multiple closing dates up until 17 April 2016
