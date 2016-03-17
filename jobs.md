@@ -30,4 +30,6 @@ Vacancies for Research Software Engineers
 
 * [Data Scientist (Fixed Term)](http://www.jobs.cam.ac.uk/job/9656/), MRC Epidemiology Unit, University of Cambridge, UK - closes 10 April 2016
 
+* [Research Software Engineering Specialist](http://www.jobs.ac.uk/job/AUD286/research-software-engineering-specialist/), Division of Research and Enterprise, University of Leicester, UK - closes 15 April 2016
+
 * [Multiple Software Engineer / Scientific Programmer / Developer Roles](http://www.ebi.ac.uk/about/jobs), EMBL-EBI, Cambridge, UK - multiple closing dates up until 17 April 2016
