@@ -31,3 +31,4 @@ University of Sheffield | Mike Croucher  <br/> [Paul Richmond](http://www.paulri
 University of Southampton | John Robinson, [Research Software Group](http://rsg.soton.ac.uk/)
 University of St Andrews | Alexander Konovalov, [Centre for Interdisciplinary Research in Computational Algebra](http://www-circa.mcs.st-and.ac.uk/)
 St George's, University of London | Adam Witney, [Institute of Infection and Immunity](http://www.sgul.ac.uk/research/infection/)
+The Genome Analysis Centre | [Robert Davey](http://software.ac.uk/fellows/robert-paul-davey), [Data Infrastructure and Algorithms group](http://www.tgac.ac.uk/sequencing-informatics/)
