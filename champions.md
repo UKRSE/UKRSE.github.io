@@ -29,6 +29,6 @@ University of Manchester | [Robert Haines](http://software.ac.uk/fellows/robert-
 University of Oxford | [Jonathan Cooper](http://www.cs.ox.ac.uk/people/jonathan.cooper/), [Computer Science](http://www.cs.ox.ac.uk/) and [RSDN](http://rsdn.oerc.ox.ac.uk) leader
 University of Sheffield | Mike Croucher  <br/> [Paul Richmond](http://www.paulrichmond.staff.shef.ac.uk/) <br/> [Susheel Varma](http://www.cistib.org/cistib_shf/index.php/people/developers/susheel-varma), [CISTIB](http://www.cistib.org/cistib_shf/)
 University of Southampton | John Robinson, [Research Software Group](http://rsg.soton.ac.uk/)
-University of St Andrews | Alexander Konovalov, [Centre for Interdisciplinary Research in Computational Algebra](http://www-circa.mcs.st-and.ac.uk/)
+University of St Andrews | [Alexander Konovalov](http://blogs.cs.st-andrews.ac.uk/alexk/), [Centre for Interdisciplinary Research in Computational Algebra](http://www-circa.mcs.st-and.ac.uk/)
 St George's, University of London | Adam Witney, [Institute of Infection and Immunity](http://www.sgul.ac.uk/research/infection/)
 The Genome Analysis Centre | [Robert Davey](http://software.ac.uk/fellows/robert-paul-davey), [Data Infrastructure and Algorithms group](http://www.tgac.ac.uk/sequencing-informatics/)
