@@ -29,3 +29,4 @@ University of Oxford | [Jonathan Cooper](http://www.cs.ox.ac.uk/people/jonathan.
 University of Sheffield | Mike Croucher  <br/> [Paul Richmond](http://www.paulrichmond.staff.shef.ac.uk/) <br/> [Susheel Varma](http://www.cistib.org/cistib_shf/index.php/people/developers/susheel-varma), [CISTIB](http://www.cistib.org/cistib_shf/)
 University of Southampton | John Robinson, [Research Software Group](http://rsg.soton.ac.uk/)
 St George's, University of London | Adam Witney, [Institute of Infection and Immunity](http://www.sgul.ac.uk/research/infection/)
+The Genome Analysis Centre | [Robert Davey](http://software.ac.uk/fellows/robert-paul-davey), [Data Infrastructure and Algorithms group](http://www.tgac.ac.uk/sequencing-informatics/)
