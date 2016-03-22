@@ -18,8 +18,6 @@ Vacancies for Research Software Engineers
 
 <!--- *There are no vacancies that we know of at present. Please let us know if you have one.* -->
 
-* [Software Developer](https://www.reading.ac.uk/15/about/jobs/about-job-details.aspx?vacancy_id=912549A3Ef), Department of Meteorology, University of Reading, UK - closes 21 March 2016
-
 * [Software Developer / User Interface Designer](http://www.the-iea.org/jobs.html), Institute for Environmental Analytics, University of Reading, UK - closes 22 March 2016
 
 * [Data Scientist (6 months)](https://www.dropbox.com/s/956pwahy3iq4rqi/DataScientistAnalyst.pdf?dl=0), The Flowminder Foundation, Southampton, UK - closes 25 March 2016
