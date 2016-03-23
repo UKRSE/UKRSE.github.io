@@ -18,8 +18,6 @@ Vacancies for Research Software Engineers
 
 <!--- *There are no vacancies that we know of at present. Please let us know if you have one.* -->
 
-* [Software Developer / User Interface Designer](http://www.the-iea.org/jobs.html), Institute for Environmental Analytics, University of Reading, UK - closes 22 March 2016
-
 * [Data Scientist (6 months)](https://www.dropbox.com/s/956pwahy3iq4rqi/DataScientistAnalyst.pdf?dl=0), The Flowminder Foundation, Southampton, UK - closes 25 March 2016
 
 * [Scientific Software Engineer/Senior Scientific Software Engineer](https://goo.gl/M1t6Dg), The Met Office, Exeter, UK - closes 8 April 2016
