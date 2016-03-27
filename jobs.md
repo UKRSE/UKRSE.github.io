@@ -18,8 +18,6 @@ Vacancies for Research Software Engineers
 
 <!--- *There are no vacancies that we know of at present. Please let us know if you have one.* -->
 
-* [Data Scientist (6 months)](https://www.dropbox.com/s/956pwahy3iq4rqi/DataScientistAnalyst.pdf?dl=0), The Flowminder Foundation, Southampton, UK - closes 25 March 2016
-
 * [Scientific Software Engineer/Senior Scientific Software Engineer](https://goo.gl/M1t6Dg), The Met Office, Exeter, UK - closes 8 April 2016
 
 * [HPC Specialist (Fixed Term)](http://www.jobs.cam.ac.uk/job/9717/), Research & Institutional Services, University of Cambridge, UK - closes 8 April 2016
