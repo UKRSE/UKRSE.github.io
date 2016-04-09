@@ -18,8 +18,6 @@ Vacancies for Research Software Engineers
 
 <!--- *There are no vacancies that we know of at present. Please let us know if you have one.* -->
 
-* [HPC Specialist (Fixed Term)](http://www.jobs.cam.ac.uk/job/9717/), Research & Institutional Services, University of Cambridge, UK - closes 8 April 2016
-
 * [Data Scientist (Fixed Term)](http://www.jobs.cam.ac.uk/job/9656/), MRC Epidemiology Unit, University of Cambridge, UK - closes 10 April 2016
 
 * [Research Software Engineering Specialist](http://www.jobs.ac.uk/job/AUD286/research-software-engineering-specialist/), Division of Research and Enterprise, University of Leicester, UK - closes 15 April 2016
