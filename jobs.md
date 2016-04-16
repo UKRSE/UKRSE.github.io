@@ -18,6 +18,4 @@ Vacancies for Research Software Engineers
 
 <!--- *There are no vacancies that we know of at present. Please let us know if you have one.* -->
 
-* [Research Software Engineering Specialist](http://www.jobs.ac.uk/job/AUD286/research-software-engineering-specialist/), Division of Research and Enterprise, University of Leicester, UK - closes 15 April 2016
-
 * [Multiple Software Engineer / Scientific Programmer / Developer Roles](http://www.ebi.ac.uk/about/jobs), EMBL-EBI, Cambridge, UK - multiple closing dates up until 17 April 2016
