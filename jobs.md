@@ -16,6 +16,4 @@ COLUMN_SEPARATOR
 Vacancies for Research Software Engineers
 -----------------------
 
-<!--- *There are no vacancies that we know of at present. Please let us know if you have one.* -->
-
-* [Multiple Software Engineer / Scientific Programmer / Developer Roles](http://www.ebi.ac.uk/about/jobs), EMBL-EBI, Cambridge, UK - multiple closing dates up until 17 April 2016
+*There are no vacancies that we know of at present. Please let us know if you have one.*
