@@ -1,6 +1,6 @@
 ---
 layout: single
-title: RSE 2016 | Home
+title: RSE 2016 | Registration
 ---
 
 <style>
@@ -43,18 +43,8 @@ title: RSE 2016 | Home
 </ul>
 </div>
 
-The first conference of Research Software Engineers (RSEs) will be held at the 
-[Museum of Science and Industry, Manchester](http://msimanchester.org.uk), 
-UK on 15-16 September 2016. The conference will be co-located
-with the [UK RSE Association's AGM](http://www.rse.ac.uk).
+<iframe style="width:100%;height:1000px" src="https://docs.google.com/forms/d/13UDEEL4YeWeo-e7ioUVqdxfMul3aG7mAIbUU3iUF_aI/viewform?edit_requested=true"></iframe>
 
-The conference targets research software developers and research software engineers
-at any stage in their career. If you develop research or academic software, or work
-in a group that provides programming support to researchers, then this meeting will
-let you meet up with and share ideas with your peers.
-
-The format will be a mixture of talks in the mornings and workshops in the 
-afternoons. The workshops will both showcase a range of programming tools and technologies,
-and will provide more advanced training that goes beyond what is taught in 
-a standard "Software Carpentry" style session.
+<br/>
+<br/>
 
