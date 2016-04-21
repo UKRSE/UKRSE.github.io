@@ -18,12 +18,10 @@ Vacancies for Research Software Engineers
 
 <!--- *There are no vacancies that we know of at present. Please let us know if you have one.* -->
 
-* [Scientific Software Engineer/Senior Scientific Software Engineer](https://goo.gl/M1t6Dg), The Met Office, Exeter, UK - closes 8 April 2016
+<!---
+Job listing format. Earlier closing dates first.
 
-* [HPC Specialist (Fixed Term)](http://www.jobs.cam.ac.uk/job/9717/), Research & Institutional Services, University of Cambridge, UK - closes 8 April 2016
+* [<Job Title>](<link>), <institution>, <location>, <country> - closes <day> <month> <year>
+-->
 
-* [Data Scientist (Fixed Term)](http://www.jobs.cam.ac.uk/job/9656/), MRC Epidemiology Unit, University of Cambridge, UK - closes 10 April 2016
-
-* [Research Software Engineering Specialist](http://www.jobs.ac.uk/job/AUD286/research-software-engineering-specialist/), Division of Research and Enterprise, University of Leicester, UK - closes 15 April 2016
-
-* [Multiple Software Engineer / Scientific Programmer / Developer Roles](http://www.ebi.ac.uk/about/jobs), EMBL-EBI, Cambridge, UK - multiple closing dates up until 17 April 2016
+* [Junior Research Software Engineer / Junior HPC Systems Administrator](http://goo.gl/aar63b), Bristol Synthetic Biology Research Centre, University of Bristol, UK - closes 10 May 2016
