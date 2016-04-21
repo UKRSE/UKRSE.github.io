@@ -16,10 +16,12 @@ COLUMN_SEPARATOR
 Vacancies for Research Software Engineers
 -----------------------
 
-*There are no vacancies that we know of at present. Please let us know if you have one.*
+<!--- *There are no vacancies that we know of at present. Please let us know if you have one.* -->
 
 <!---
 Job listing format. Earlier closing dates first.
 
 * [<Job Title>](<link>), <institution>, <location>, <country> - closes <day> <month> <year>
 -->
+
+* [Junior Research Software Engineer / Junior HPC Systems Administrator](http://goo.gl/aar63b), Bristol Synthetic Biology Research Centre, University of Bristol, UK - closes 10 May 2016
