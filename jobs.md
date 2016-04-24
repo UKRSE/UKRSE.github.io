@@ -25,3 +25,5 @@ Job listing format. Earlier closing dates first.
 -->
 
 * [Junior Research Software Engineer / Junior HPC Systems Administrator](http://goo.gl/aar63b), Bristol Synthetic Biology Research Centre, University of Bristol, UK - closes 10 May 2016
+
+* [HPC Consultant / Solution Centre Engineer](http://www.jobs.cam.ac.uk/job/10119/), High Performance Computing Service, University of Cambridge, UK - closes 20 May 2016
