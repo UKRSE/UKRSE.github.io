@@ -27,3 +27,5 @@ Job listing format. Earlier closing dates first.
 * [Junior Research Software Engineer / Junior HPC Systems Administrator](http://goo.gl/aar63b), Bristol Synthetic Biology Research Centre, University of Bristol, UK - closes 10 May 2016
 
 * [Research Associate / Research Software Engineer](https://jobs.shef.ac.uk/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTcxNUQzNTRGNTJCNkM5OEUxMDAwMDAwQUMxRTg4NzgmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=400&sap-language=EN&sap-accessibility=X&sap-ep-themeroot=%2fSAP%2fPUBLIC%2fBC%2fUR%2fuos#), Department of Computer Science, University of Sheffield, UK - closes 20 May 2016
+
+* [Senior Research Software Engineer](http://www.jobs.ac.uk/job/ANN074/senior-research-software-engineer/), School of Computer Science, University of Manchester, UK - closes 23 May 2016
