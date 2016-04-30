@@ -22,5 +22,4 @@ COLUMN_SEPARATOR
 
 Country | Organization | Group(s)
 -------:|:------------:|:--------
-USA | Example Org | Example Group
 USA | Argonne National Laboratory | PETSc Team
