@@ -43,8 +43,24 @@ title: RSE 2016 | Calls
 </ul>
 </div>
 
-<iframe style="width:100%;height:1000px" src="https://docs.google.com/forms/d/13UDEEL4YeWeo-e7ioUVqdxfMul3aG7mAIbUU3iUF_aI/viewform?edit_requested=true"></iframe>
+## Call for workshops
+
+If you want to help others learn about a new tool, technology or methodology, then please [submit a workshop](conf2016_calls_workshops). Workshops can be on any topic - anything you think would be useful to help develop and deliver modern research software can be submitted as a workshop.
+
+If selected, your workshop will be one of 12 that will be presented during the conference. These will be held in three sessions, with four workshops run in parallel (see [the programme](http://www.rse.ac.uk/conf2016_programme))
+
+For more details about submitting a workshop, [read the workshop page](conf2016_calls_workshops).
+
+## Call for talks
+
+We’re looking for talks that discuss and expand on issues that affect RSEs. You could announce a new code, discuss the application of a technology in a new context, or describe a technique that could be applied more widely.
+
+We’re also interested in other topics related to software in research and how it is developed - from non-technical skills RSEs need, to cultural issues our community must address. Personal experiences are welcome if you can make them relevant to the audience. These are just a few examples though. We hope to get some suggestions that surprise us!
+
+20 talks will be presented during the conference, each lasting 15 minutes with an additional 5 minutes for questions. They will be held in three sessions, with four talks running in parallel (see [the programme](http://www.rse.ac.uk/conf2016_programme)).
+
+For more details about submitting a talk, [read the talk page](conf2016_calls_talks).
 
 <br/>
 <br/>
-
+<br/>

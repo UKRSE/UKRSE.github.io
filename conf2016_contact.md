@@ -49,15 +49,15 @@ free to get in touch with the appropriate person as listed below.
 * Conference Chair - [Robert Haines](mailto:Robert.Haines@manchester.ac.uk)
 * Conference Coordinator - [Claire Wyatt](mailto:C.Wyatt@soton.ac.uk )
 * Local (Manchester) Coordinator - [Gillian Sinclair](mailto:Gillian.Sinclair@manchester.ac.uk)
-* Talks Chairs - [Simon Hettrick](mailto:s.hettrick@software.ac.uk) and [Alys Brett](alysbrett@gmail.com)
-* Workshop Chairs - [Mike Croucher](m.croucher@sheffield.ac.uk) and [Christopher Woods](mailto:Christopher.Woods@bristol.ac.uk)
+* Talks Chairs - [Simon Hettrick](mailto:s.hettrick@software.ac.uk) and [Alys Brett](mailto:Alys.Brett@ukaea.uk)
+* Workshop Chairs - [Mike Croucher](mailto:m.croucher@sheffield.ac.uk) and [Christopher Woods](mailto:Christopher.Woods@bristol.ac.uk)
 * Sponsorship Chair - [Simon Hettrick](mailto:s.hettrick@software.ac.uk)
 * Diversity Chair - [Catherine Jones](mailto:catherine.jones@stfc.ac.uk)
 * Social Chair - [Gillian Sinclair](mailto:Gillian.Sinclair@manchester.ac.uk)
 * Publicity Chair - [Claire Wyatt](mailto:C.Wyatt@soton.ac.uk )
 * JORS Guest Editor for the Special Issue - [Robert Haines](mailto:Robert.Haines@manchester.ac.uk)
 * Website - [Christopher Woods](mailto:Christopher.Woods@bristol.ac.uk)
-* Treasurer - [Oliver Henrich](ohenrich@ph.ed.ac.uk)
+* Treasurer - [Oliver Henrich](mailto:ohenrich@ph.ed.ac.uk)
 
 <br/>
 <br/>
