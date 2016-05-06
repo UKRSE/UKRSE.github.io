@@ -77,11 +77,11 @@ We’re aiming for a well-balanced programme that includes talks from a wide var
 
 ## First-time speaker?
 
-We want you to talk! It’s important that the program includes people who don’t normally publish papers or attend academic conferences or we’ll be missing whole sections of the RSE community.
+**We want you to talk! It’s important that the program includes people who don’t normally publish papers or attend academic conferences or we’ll be missing whole sections of the RSE community.**
 
-It’s not intimidating. The emphasis is on learning from each other in a supportive atmosphere. Your perspective is welcome and this will be a great chance to start a wider discussion of issues you care about.
+**It’s not intimidating. The emphasis is on learning from each other in a supportive atmosphere. Your perspective is welcome and this will be a great chance to start a wider discussion of issues you care about.**
 
-We can help. We can offer mentoring and other support with preparing your talk - just ask.
+**We can help. We can offer mentoring and other support with preparing your talk - just ask.**
 
 ## How to submit a proposal
 
