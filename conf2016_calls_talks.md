@@ -1,6 +1,6 @@
 ---
 layout: single
-title: RSE 2016 | Calls
+title: RSE 2016 | Call for Talks
 ---
 
 <style>
