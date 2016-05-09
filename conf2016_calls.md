@@ -50,7 +50,7 @@ If you want to help others learn about a new tool, technology or methodology, th
 
 If selected, your workshop will be one of 12 that will be presented during the conference. These will be held in three sessions, with four workshops run in parallel (see [the programme](http://www.rse.ac.uk/conf2016_programme))
 
-For more information, and to submit a workshop, [visit the workshop page](conf2016_calls_workshops).
+**For more information, and to submit a workshop, [visit the workshop page](conf2016_calls_workshops).**
 
 ## Call for talks
 
@@ -60,7 +60,7 @@ We’re also interested in other topics related to software in research and how 
 
 20 talks will be presented during the conference, each lasting 15 minutes with an additional 5 minutes for questions. They will be held in three sessions, with four talks running in parallel (see [the programme](http://www.rse.ac.uk/conf2016_programme)).
 
-For more information, and to submit a talk, [visit the talk page](conf2016_calls_talks).
+**For more information, and to submit a talk, [visit the talk page](conf2016_calls_talks).**
 
 <br/>
 <br/>
