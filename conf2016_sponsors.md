@@ -96,18 +96,3 @@ access to funds. Or you can provide support or even prizes for workshops or talk
 If you have something in mind, or would like to discuss options, [please get in touch](mailto:info@rse.ac.uk).
 
 
-Research Software Engineers and research software developers come from a 
-variety of backgrounds and work in a range of different careers and positions.
-To ensure the widest access for participants of this conference,
-we are actively seeking sponsors. The conference will cater to approximately
-150 research software developers and research software engineers from across
-the UK and further abroad. Together, they will be engaged in research software
-development across all fields of computational research and academic software 
-development. If you would like to present a stand, present a sponsored talk,
-demonstrate a technology at a sponsored workshop, advertise your logo or
-other material on our website or at the conference, or otherwise engage with
-this vibrant community of programmers and researchers, then please consider
-sponsoring this meeting. For information about sponsorship, prices, and 
-different tiers of support, please contact [Simon Hettrick](mailto:s.hettrick@software.ac.uk).
-
-
