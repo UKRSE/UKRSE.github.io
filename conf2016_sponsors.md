@@ -47,6 +47,55 @@ title: RSE 2016 | Sponsors
 This conference would not be possible without the support the EPSRC provides
 via the RSE-Network, which we gratefully acknowledge. 
 
+This is the first conference of Research Software Engineers. It's a community conference so we want
+to keep registration as low as possible and, where possible, support the attendance of RSEs who do
+not have access to funds for conferences. We're expecting around 150 RSEs, from all backgrounds
+and disciplines, to attend this first conference.
+
+Research Software Engineers are the people who write the software used in research and make
+the technical decisions about which technology is used in research projects. This is the only event
+where this community will congregate to learn about the new tools and technologies that could be
+used in their work.
+
+We have a number of different sponsorship packages available. We're also flexible! If you have a
+different package in mind, [please let us know](mailto:info@rse.ac.uk).
+
+##Gold sponsor
+
+1. Plenary talk
+2. Workshop session
+3. Exhibition table
+3. Logo on website and promotional materials
+4. Free registration for four people
+
+Cost: £5,000
+
+##Silver sponsor
+
+1. Workshop session
+2. Exhibition table
+3. Logo on website and promotional materials
+4. Free registration for three people
+
+Cost: £3,000
+
+##Bronze sponsors
+
+1. Exhibition table
+2. Logo on website and promotional materials
+3. Free registration for two people
+
+Cost £1,500
+
+##Other options
+
+In addition to the other sponsorship options, you can also sponsor a coffee break
+or the conference dinner. You can provide travel bursaries to RSE who do not have
+access to funds. Or you can provide support or even prizes for workshops or talks.
+
+If you have something in mind, or would like to discuss options, [please get in touch](mailto:info@rse.ac.uk).
+
+
 Research Software Engineers and research software developers come from a 
 variety of backgrounds and work in a range of different careers and positions.
 To ensure the widest access for participants of this conference,
