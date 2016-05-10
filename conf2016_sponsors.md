@@ -60,7 +60,7 @@ used in their work.
 We have a number of different sponsorship packages available. We're also flexible! If you have a
 different package in mind, [please let us know](mailto:info@rse.ac.uk).
 
-##Gold sponsor
+## Gold sponsor
 
 1. Plenary talk
 2. Workshop session
@@ -70,7 +70,7 @@ different package in mind, [please let us know](mailto:info@rse.ac.uk).
 
 Cost: £5,000
 
-##Silver sponsor
+## Silver sponsor
 
 1. Workshop session
 2. Exhibition table
@@ -79,7 +79,7 @@ Cost: £5,000
 
 Cost: £3,000
 
-##Bronze sponsors
+## Bronze sponsors
 
 1. Exhibition table
 2. Logo on website and promotional materials
@@ -87,7 +87,7 @@ Cost: £3,000
 
 Cost £1,500
 
-##Other options
+## Other options
 
 In addition to the other sponsorship options, you can also sponsor a coffee break
 or the conference dinner. You can provide travel bursaries to RSE who do not have
@@ -110,7 +110,4 @@ this vibrant community of programmers and researchers, then please consider
 sponsoring this meeting. For information about sponsorship, prices, and 
 different tiers of support, please contact [Simon Hettrick](mailto:s.hettrick@software.ac.uk).
 
-<br/>
-<br/>
-<br/>
 
