@@ -31,3 +31,5 @@ Job listing format. Earlier closing dates first.
 * [Senior Research Software Engineer](http://www.jobs.ac.uk/job/ANN074/senior-research-software-engineer/), School of Computer Science, University of Manchester, UK - closes 23 May 2016
 
 * [Research Data Specialist](https://library.caltech.edu/about/jobs/ResearchDataSpecialist.html), Caltech Library, Pasadena, CA, USA - closes when filled
+
+* [Statistical Genetics Software Development] Department of Statistics, University of Oxford, UK - closes Wed 1 June 2016 (https://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=122924) 
