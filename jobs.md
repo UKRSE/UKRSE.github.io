@@ -32,4 +32,4 @@ Job listing format. Earlier closing dates first.
 
 * [Research Data Specialist](https://library.caltech.edu/about/jobs/ResearchDataSpecialist.html), Caltech Library, Pasadena, CA, USA - closes when filled
 
-* [Statistical Genetics Software Development] Department of Statistics, University of Oxford, UK - closes Wed 1 June 2016 (https://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=122924) 
+* [Statistical Genetics Software Development](https://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=122924), Department of Statistics, University of Oxford, UK - closes 1 June 2016
