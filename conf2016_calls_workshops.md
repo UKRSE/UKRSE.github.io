@@ -62,7 +62,7 @@ If you would like to respond to this call, please fill in [this form](http://goo
 * Friday 9th September 2016 - Production of USB sticks which will be used to deliver virtual machines to attendees
 
 ## Applications
-Please complete and submit [this form](http://goo.gl/forms/OIP7CFMVjB) before midnight on Friday 3rd June 2016. Please feel free to get in touch with either [Mike Croucher](mailto:m.croucher@sheffield.ac.uk) or [Christopher Woods](mailto:Christopher.Woods@bristol.ac.uk) if you would like to discuss your idea for a workshop, or to discuss what technical support we can provide.
+Please complete and submit [this form](http://goo.gl/forms/OIP7CFMVjB) before midnight on Friday 10th June 2016. Please feel free to get in touch with either [Mike Croucher](mailto:m.croucher@sheffield.ac.uk) or [Christopher Woods](mailto:Christopher.Woods@bristol.ac.uk) if you would like to discuss your idea for a workshop, or to discuss what technical support we can provide.
 
 <br/>
 <br/>
