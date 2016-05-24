@@ -87,7 +87,7 @@ Cost £1,500
 
 We can now announce three Bronze sponsors!
 
-The [Scientific Computing Department at STFC](http://www.scd.stfc.ac.uk/SCD/) develops and utilises its expertise and relationships to establish leadership positions on the provision and support of scientific computing infrastructures and the research and development of scientific applications. This increases the UK’s scientific and economic impact by the creation of innovative solutions.
+The [Scientific Computing Department (SCD) at STFC](http://www.scd.stfc.ac.uk/SCD/) develops and utilises its expertise and relationships to establish leadership positions on the provision and support of scientific computing infrastructures and the research and development of scientific applications. This increases the UK’s scientific and economic impact by the creation of innovative solutions. SCD provides the computing, data storage, networking infrastructure and applications required by today's advanced science facilities to support the complete scientific life cycle, from background research, through simulation and experimental design, data collection and analysis to publication.
 
 [Research Computing](http://www.rcs.manchester.ac.uk/research) at the University of Manchester undertakes R&D to enhance and support the university. Our R&D programme assists researchers in the effective use of the latest developments in advanced computing technology and to provide a competitive edge over researchers in other institutions. Many of our externally-funded projects are looking into developing research ideas into production services.
 
