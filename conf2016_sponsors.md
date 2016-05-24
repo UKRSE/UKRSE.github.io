@@ -62,13 +62,11 @@ different package in mind, [please let us know](mailto:info@rse.ac.uk).
 
 ## Gold sponsor
 
-1. Plenary talk
-2. Workshop session
-3. Exhibition table
-3. Logo on website and promotional materials
-4. Free registration for four people
+We are pleased to announce [Microsoft Research](httphttp://research.microsoft.com/en-us/default.aspx) as the Gold sponsor of the RSE Conference! Microsoft Research have supported the RSE Community since its early beginnings so we are happy to have gained their support for the first RSE Conference. 
 
-Cost: £5,000
+Microsoft Research have contributed to nearly every product Microsoft has shipped, including Kinect for Xbox, Cortana, cool free photography apps like Hyperlapse, and other programs that help secure your data in the cloud. We have world-renowned scientists at the forefront of machine learning, computer vision, speech, and artificial intelligence. Our external collaborations include efforts to prevent disease outbreaks and solve problems facing large cities such as traffic and pollution. 
+
+We welcome [Matthew Johnson](http://research.microsoft.com/en-us/people/matjoh/), who leads the Agile Projects Team at Microsoft Research Cambridge (UK), who will provide the keynote address. 
 
 ## Silver sponsor
 
@@ -86,6 +84,14 @@ Cost: £3,000
 3. Free registration for two people
 
 Cost £1,500
+
+We can now announce three Bronze sponsors!
+
+The [Scientific Computing Department at STFC](http://www.scd.stfc.ac.uk/SCD/) develops and utilises its expertise and relationships to establish leadership positions on the provision and support of scientific computing infrastructures and the research and development of scientific applications. This increases the UK’s scientific and economic impact by the creation of innovative solutions.
+
+[Research Computing](http://www.rcs.manchester.ac.uk/research) at the University of Manchester undertakes R&D to enhance and support the university. Our R&D programme assists researchers in the effective use of the latest developments in advanced computing technology and to provide a competitive edge over researchers in other institutions. Many of our externally-funded projects are looking into developing research ideas into production services.
+
+[The Software Sustainability Institute](http://www.software.ac.uk) cultivates better, more sustainable, research software to enable world-class research. We help people build better software, and we work with researchers, developers, funders and infrastructure providers to identify key issues and best practice in scientific software.
 
 ## Other options
 
