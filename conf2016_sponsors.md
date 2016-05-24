@@ -62,7 +62,7 @@ different package in mind, [please let us know](mailto:info@rse.ac.uk).
 
 ## Gold sponsor
 
-We are pleased to announce [Microsoft Research](httphttp://research.microsoft.com/en-us/default.aspx) as the Gold sponsor of the RSE Conference! Microsoft Research have supported the RSE Community since its early beginnings so we are happy to have gained their support for the first RSE Conference. 
+We are pleased to announce [Microsoft Research](http://research.microsoft.com/en-us/default.aspx) as the Gold sponsor of the RSE Conference! Microsoft Research have supported the RSE Community since its early beginnings so we are happy to have gained their support for the first RSE Conference. 
 
 Microsoft Research have contributed to nearly every product Microsoft has shipped, including Kinect for Xbox, Cortana, cool free photography apps like Hyperlapse, and other programs that help secure your data in the cloud. We have world-renowned scientists at the forefront of machine learning, computer vision, speech, and artificial intelligence. Our external collaborations include efforts to prevent disease outbreaks and solve problems facing large cities such as traffic and pollution. 
 
