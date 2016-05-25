@@ -44,11 +44,11 @@ title: RSE 2016 | Sponsors
 </ul>
 </div>
 
-This conference would not be possible without the support the EPSRC provides
+This conference would not be possible without the support that the EPSRC provides
 via the RSE-Network, which we gratefully acknowledge. 
 
 This is the first conference of Research Software Engineers. It's a community conference so we want
-to keep registration as low as possible and, where possible, support the attendance of RSEs who do
+to keep cost of registration as low as possible and, where possible, support the attendance of RSEs who do
 not have access to funds for conferences. We're expecting around 150 RSEs, from all backgrounds
 and disciplines, to attend this first conference.
 
