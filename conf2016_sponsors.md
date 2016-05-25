@@ -1,6 +1,6 @@
 ---
 layout: single
-title: RSE 2016 | Sponsors
+title: RSE 2016 | Sponsors and exhibitors
 ---
 
 <style>
@@ -92,6 +92,15 @@ The [Scientific Computing Department (SCD) at STFC](http://www.scd.stfc.ac.uk/SC
 [Research IT](http://www.itservices.manchester.ac.uk/research/) at the University of Manchester provides specialised eResearch capabilities, helping you to realise your aspirations and support you in conducting world leading, high impact research. We will work with you to eliminate barriers, increase your productivity and continuously expand what's possible. We provide access to powerful technology platforms and advanced skills encompassing high performance computing, software and data engineering, data visualisation and analytics and research data storage. Our strong governance, support and training complement these technological capabilities and allow you to focus on your research, rather than managing technology.
 
 [The Software Sustainability Institute](http://www.software.ac.uk) cultivates better, more sustainable, research software to enable world-class research. We help people build better software, and we work with researchers, developers, funders and infrastructure providers to identify key issues and best practice in scientific software.
+
+## Exhibitors
+
+Research Software Engineers are the people who make the technical decisions in research groups. If you would like to showcase your latest technology and discuss its use in research, then we invite you to join us as an exhibitor.
+
+1. Exhibition table
+2. Free exhibitor registration for one person
+
+Cost £500
 
 ## Other options
 
