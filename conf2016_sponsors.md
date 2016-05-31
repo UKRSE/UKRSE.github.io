@@ -39,6 +39,7 @@ title: RSE 2016 | Sponsors and exhibitors
   <li><a href="conf2016_diversity">Diversity</a></li>
   <li><a href="conf2016_calls">Calls</a></li>
   <li><a href="conf2016_registration">Registration</a></li>
+  <li><a href="conf2016_promotion">Promotion</a></li>
   <li><a href="conf2016_sponsors">Sponsorship</a></li>
   <li><a href="conf2016_contact">Contacts</a></li>
 </ul>

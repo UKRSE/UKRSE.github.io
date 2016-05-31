@@ -1,6 +1,6 @@
 ---
 layout: single
-title: RSE 2016 | Registration
+title: RSE 2016 | Home
 ---
 
 <style>
@@ -45,8 +45,24 @@ title: RSE 2016 | Registration
 </ul>
 </div>
 
-<iframe style="width:100%;height:1000px" src="https://docs.google.com/forms/d/13UDEEL4YeWeo-e7ioUVqdxfMul3aG7mAIbUU3iUF_aI/viewform?edit_requested=true"></iframe>
+# Promotional Materials for the Conference
+
+The success of this meeting depends greatly on you. Please help us to promote the meeting using the materials below;
+
+## Posters
+
+Please help spread the word about the current [call for talks](conf2016_calls_talks) and [call for workshops](conf2016_calls_workshops) by sharing [this poster](RSEConf16_Poster_Flyer_May16.pdf).
+
+<a href="RSEConf16_Poster_Flyer_May16.pdf">
+  <img src="images/RSEConf16_Poster_Flyer_May16.jpg"
+       alt="image of the poster flyer"
+       style="width: 60%"/>
+</a>
+
+## Twitter
+
+Please use the hashtag #RSE16 to help spread the word about this conference. Please feel free to tweet questions, annouce your attendance, to comment during the conference etc.
 
 <br/>
 <br/>
-
+<br/>
