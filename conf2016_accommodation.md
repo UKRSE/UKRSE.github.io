@@ -52,34 +52,34 @@ Below are some hotels that have availability currently and are near to the venue
  
 ## 3 star
  
-Castlefield Hotel – 0.1 miles from Museum of Science and Industry (MOSI)
+[Castlefield Hotel](http://booking.com/43cae7f72bddece0) – 0.1 miles from Museum of Science and Industry (MOSI)
 Casual budget hotel with onsite spa and health club - £95 a night
  
-Premier Inn Manchester Salford Central – 7 min walk, 0.3 mile from MOSI
+[Premier Inn Manchester Salford Central](http://booking.com/a1f2e8d88e994) – 7 min walk, 0.3 mile from MOSI
 £72 a night
  
-Jurys Inn Manchester City Centre – 0.4 miles from MOSI
+[Jurys Inn Manchester City Centre](http://booking.com/d3d0ce77a58789703) – 0.4 miles from MOSI
 Budget Hotel - £118 a night.
  
-The Ainscow Hotel –0.4 miles from MOSI
+[The Ainscow Hotel](http://booking.com/ba4fcea688beebda) –0.4 miles from MOSI
 Boutique hotel. £80 a night inclusive breakfast.
  
-Premier Inn Manchester Central – 0.4 miles from MOSI
+[Premier Inn Manchester Central](http://booking.com/81175c9222fd8) – 0.4 miles from MOSI
 Budget hotel £99 a night
  
-Novotel Manchester Centre – 0.6 miles from MOSI
+[Novotel Manchester Centre](http://booking.com/9843372dba9945) – 0.6 miles from MOSI
 Budget hotel - £124 a night
  
-Holiday Inn Manchester West (Salford) – 0.6 miles from MOSI
+[Holiday Inn Manchester West (Salford)](http://booking.com/a40bc51ca35c3c1) – 0.6 miles from MOSI
 Budget hotel. £105 a night
  
-Holiday Inn Express Manchester City Centre – 0.6 miles from MOSI
+[Holiday Inn Manchester City Centre](http://booking.com/bcb45b31d055) – 0.6 miles from MOSI
 Budget hotel - £83 a night
  
-Premier Inn Manchester City Centre – Portland Street – 0.6 miles from MOSI
+[Premier Inn Manchester City Centre](http://booking.com/6ef06eb39345a0) – Portland Street – 0.6 miles from MOSI
 Budget hotel
  
-Holiday Inn Express Manchester City Centre Arena – 1 mile from MOSI
+[Holiday Inn Express Manchester City Centre Arena](http://booking.com/c08f09f4820dff22c) – 1 mile from MOSI
 £125 a night
  
 Pendulum Hotel – 19 min walk, 1 mile from MOSI
