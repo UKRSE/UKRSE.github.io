@@ -36,6 +36,7 @@ title: RSE 2016 | Call for Talks
   <li><a href="conf2016">Home</a></li>
   <li><a href="conf2016_programme">Programme</a></li>
   <li><a href="conf2016_venue">Venue</a></li>
+  <li><a href="conf2016_accommodation">Hotels</a></li>
   <li><a href="conf2016_diversity">Diversity</a></li>
   <li><a href="conf2016_calls">Calls</a></li>
   <li><a href="conf2016_registration">Registration</a></li>
