@@ -24,8 +24,6 @@ Job listing format. Earlier closing dates first.
 * [<Job Title>](<link>), <institution>, <location>, <country> - closes <day> <month> <year>
 -->
 
-* [Statistical Genetics Software Development](https://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=122924), Department of Statistics, University of Oxford, UK - closes 1 June 2016
-
 * [Postdoctoral Research Assistant: Machine Learning / Physics](http://users.ox.ac.uk/~phys1195/MachineLearning_Physics_Positions_Oxford_2.pdf), Department of Physics, University of Oxford, UK - immediate, closes when filled
 
 * [Research Assistant: Machine Learning / Physics](http://users.ox.ac.uk/~phys1195/MachineLearning_Physics_Positions_Oxford_2.pdf), Department of Physics, University of Oxford, UK - immediate, closes when filled
