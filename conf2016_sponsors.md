@@ -70,7 +70,7 @@ Microsoft Research have contributed to nearly every product Microsoft has shippe
 
 We welcome [Matthew Johnson](http://research.microsoft.com/en-us/people/matjoh/), who leads the Agile Projects Team at Microsoft Research Cambridge (UK), who will provide the keynote address. 
 
-## Silver sponsor
+## Silver sponsors
 
 1. Workshop session
 2. Exhibition table
