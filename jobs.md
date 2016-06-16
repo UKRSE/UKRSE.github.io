@@ -24,8 +24,6 @@ Job listing format. Earlier closing dates first.
 * [<Job Title>](<link>), <institution>, <location>, <country> - closes <day> <month> <year>
 -->
 
-* [Research Computing Graduate Trainee](http://goo.gl/3Gc14R), Advanced Computing Research Centre, University of Bristol, UK - closes 15 June 2016
-
 * [Research Software Engineer](http://www.jobs.ac.uk/job/ANT812/research-software-engineer/), Department of Computer Science, University of Sheffield, UK - closes 27 June 2016
 
 * [Postdoctoral Research Assistant: Machine Learning / Physics](http://users.ox.ac.uk/~phys1195/MachineLearning_Physics_Positions_Oxford_2.pdf), Department of Physics, University of Oxford, UK - immediate, closes when filled
