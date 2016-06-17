@@ -95,15 +95,6 @@ The [Scientific Computing Department (SCD) at STFC](http://www.scd.stfc.ac.uk/SC
 
 [The Software Sustainability Institute](http://www.software.ac.uk) cultivates better, more sustainable, research software to enable world-class research. We help people build better software, and we work with researchers, developers, funders and infrastructure providers to identify key issues and best practice in scientific software.
 
-## Exhibitors
-
-Research Software Engineers are the people who make the technical decisions in research groups. If you would like to showcase your latest technology and discuss its use in research, then we invite you to join us as an exhibitor.
-
-1. Exhibition table
-2. Free exhibitor registration for one person
-
-Cost £500
-
 ## Other options
 
 In addition to the other sponsorship options, you can also sponsor a coffee break
