@@ -34,5 +34,3 @@ Job listing format. Earlier closing dates first.
 * [Postdoctoral Research Assistant: Machine Learning / Physics](http://users.ox.ac.uk/~phys1195/MachineLearning_Physics_Positions_Oxford_2.pdf), Department of Physics, University of Oxford, UK - immediate, closes when filled
 
 * [Research Assistant: Machine Learning / Physics](http://users.ox.ac.uk/~phys1195/MachineLearning_Physics_Positions_Oxford_2.pdf), Department of Physics, University of Oxford, UK - immediate, closes when filled
-
-* [Research Data Specialist](https://library.caltech.edu/about/jobs/ResearchDataSpecialist.html), Caltech Library, Pasadena, CA, USA - closes when filled
