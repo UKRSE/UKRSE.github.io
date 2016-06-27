@@ -72,7 +72,7 @@ We welcome [Matthew Johnson](http://research.microsoft.com/en-us/people/matjoh/)
 
 ## Silver sponsors
 
-We are pleased to announce Intel as the silver sponsor of the RSE Confernece!
+We are pleased to announce Intel as the silver sponsor of the RSE Conference!
 
 ## Bronze sponsors
 
