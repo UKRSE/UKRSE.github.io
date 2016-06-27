@@ -72,14 +72,11 @@ We welcome [Matthew Johnson](http://research.microsoft.com/en-us/people/matjoh/)
 
 ## Silver sponsors
 
-1. Workshop session
-2. Exhibition table
-3. Logo on website and promotional materials
-4. Free registration for three people
-
-Cost: £3,000
+We are pleased to announce Intel as the silver sponsor of the RSE Confernece!
 
 ## Bronze sponsors
+
+Although our Gold and Silver options have been taken, Bronze sponsorship is still available.
 
 1. Exhibition table
 2. Logo on website and promotional materials
@@ -87,13 +84,15 @@ Cost: £3,000
 
 Cost £1,500
 
-We can now announce three Bronze sponsors!
+We can now announce the following Bronze sponsors!
 
 The [Scientific Computing Department (SCD) at STFC](http://www.scd.stfc.ac.uk/SCD/) develops and utilises its expertise and relationships to establish leadership positions on the provision and support of scientific computing infrastructures and the research and development of scientific applications. This increases the UK’s scientific and economic impact by the creation of innovative solutions. SCD provides the computing, data storage, networking infrastructure and applications required by today's advanced science facilities to support the complete scientific life cycle, from background research, through simulation and experimental design, data collection and analysis to publication.
 
 [Research IT](http://www.itservices.manchester.ac.uk/research/) at the University of Manchester provides specialised eResearch capabilities, helping you to realise your aspirations and support you in conducting world leading, high impact research. We will work with you to eliminate barriers, increase your productivity and continuously expand what's possible. We provide access to powerful technology platforms and advanced skills encompassing high performance computing, software and data engineering, data visualisation and analytics and research data storage. Our strong governance, support and training complement these technological capabilities and allow you to focus on your research, rather than managing technology.
 
 [The Software Sustainability Institute](http://www.software.ac.uk) cultivates better, more sustainable, research software to enable world-class research. We help people build better software, and we work with researchers, developers, funders and infrastructure providers to identify key issues and best practice in scientific software.
+
+[CANARIE](http://www.canarie.ca/) designs and delivers digital infrastructure, and drives its adoption for Canada’s research, education and innovation communities. CANARIE keeps Canada at the forefront of digital research and innovation, fundamental to a vibrant digital economy.
 
 ## Other options
 
