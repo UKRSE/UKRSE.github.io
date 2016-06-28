@@ -123,11 +123,11 @@ Afternoon : Workshops (Five parallel sessions. Please choose at registration whi
 
 | Time       |           |
 | :-------------     | :-------------  | ----- |
-| 2.00pm-3.15pm  | Workshop C1 | Intel Sponsored Workshop |
-|                | Workshop C2 | Using software containers for reproducible experiments.<br/>Frédéric Osterrath, CRIM |
-|                | Workshop C3 | Introduction to concurrent programming with Go.<br/>Sebastien Binet, CNRS/IN2P3 |
-|                | Workshop C4 | Using EUDAT as your data management tool.<br/>Shaun de Witt, CCFE |
-|                | Workshop C5 | Discussion: Be a happy RSE.<br/>Samin Ishtiaq, Microsoft Research |
+| 2.00pm-3.15pm  | Workshop C1 | [Intel Sponsored Workshop](conf2016_workshops#C1) |
+|                | Workshop C2 | [Using software containers for reproducible experiments](conf2016_workshops#C2).<br/>Frédéric Osterrath, CRIM |
+|                | Workshop C3 | [Introduction to concurrent programming with Go](conf2016_workshops#C3).<br/>Sebastien Binet, CNRS/IN2P3 |
+|                | Workshop C4 | [Using EUDAT as your data management tool](conf2016_workshops#C4).<br/>Shaun de Witt, CCFE |
+|                | Workshop C5 | [Discussion: Be a happy RSE](conf2016_workshops#C5).<br/>Samin Ishtiaq, Microsoft Research |
 |       |          |
 | :-------------     | :-------------  | ----- |
 | 3.15pm-4.00pm      | Main Auditorium      | Conference wrap-up talk and feedback, Robert Haines, University of Manchester  |

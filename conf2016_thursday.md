@@ -74,28 +74,28 @@ Morning: Main Talks
 | 10.45am-11.05am    | Main Auditorium | Welcome, and History and Growth of UK-RSE.<br/>Robert Haines and Simon Hettrick, University of Manchester, University of Southampton |
 | 11.05am-11.50am    | Main Auditorium | Keynote Talk<br/>Matthew Johnson, Leader of Agile Projects Team, Microsoft Research, Cambridge |
 | 11.50am-12.10pm    | Main Auditorium | Not everyone can use git: Research Software Engineers’ recommendations for scientist-centred software support (and what researchers think of them).<br/>Caroline Jay, Rawan Sanyour, Robert Haines, University of Manchester |
-| 12.10pm-12.30pm    | Main Auditorium | Finding and using open source software metrics through dependencies with Libraries.io<br/>Andrew Nesbitt |
+| 12.10pm-12.30pm    | Main Auditorium | Finding and using open source software metrics through dependencies with Libraries.io<br/>Andrew Nesbitt, Libraries.io |
 | 12.30pm-2.00pm     | Main Hall       | Lunch  |
 
 Afternoon : Workshops (Five parallel sessions. Please choose at registration which of workshops A1-A5, and which of workshops B1-B5 you'd prefer to attend)
 
 | Time       |           |
 | :-------------     | :-------------  | ----- |
-| 2.00pm-3.15pm  | Workshop A1 | Microsoft Sponsored Workshop |
-|                | Workshop A2 | Using Docker for Research Software development & deployment.<br/>Mark Fernandes, Institute of Food Research |
-|                | Workshop A3 | Engineering your Application for Peak Performance with TAU and MVAPICH2.<br/>Sameer Shende, Khaled Hamidouche, and Hari Subramoni, University of Oregon (Sameer), The Ohio State University (Khaled, Hari) |
-|                | Workshop A4 | Simple, high-speed, high-volume data transport of large datasets over the Internet using GridFTP.<br/>Mark Basham, Diamond Light Source |
-|                | Workshop A5 | Discussion: Surveying the UK Research Software Landscape.<br/>Andy Turner, Edinburgh Parallel Computing Centre (EPCC) |
+| 2.00pm-3.15pm  | Workshop A1 | [Microsoft Sponsored Workshop](conf2016_workshops#A1) |
+|                | Workshop A2 | [Using Docker for Research Software development & deployment](conf2016_workshops#A2).<br/>Mark Fernandes, Institute of Food Research |
+|                | Workshop A3 | [Engineering your Application for Peak Performance with TAU and MVAPICH2](conf2016_workshops#A3).<br/>Sameer Shende, Khaled Hamidouche, and Hari Subramoni, University of Oregon (Sameer), The Ohio State University (Khaled, Hari) |
+|                | Workshop A4 | [Simple, high-speed, high-volume data transport of large datasets over the Internet using GridFTP](conf2016_workshops#A4).<br/>Mark Basham, Diamond Light Source |
+|                | Workshop A5 | [Discussion: Surveying the UK Research Software Landscape](conf2016_workshops#A5).<br/>Andy Turner, Edinburgh Parallel Computing Centre (EPCC) |
 |       |          |
 | :-------------     | :-------------  | ----- |
 | 3.15pm-3.45pm      | Main Hall       | Refreshments break    |
 |     |           |
 | :-------------     | :-------------  | ----- |
-| 3.45pm-5.00pm  | Workshop B1 | Task-based parallel programming in C++ or Python.<br/>Christopher Woods, University of Bristol |
-|                | Workshop B2 | Data Visualization: Truthiness Hurts.<br/>Louise Lever, University of Manchester |
-|                | Workshop B3 | Continuous Integration for research software development.<br/>Alin Marin Elena, Daresbury Laboratory, STFC |
-|                | Workshop B4 | Object orientation in GNU Octave / MATLAB and architectural patterns.<br/>Alberto M Biancardi, University of Sheffield |
-|                | Workshop B5 | Discussion: The Role of the Research Software Engineer<br/>UK-RSE |
+| 3.45pm-5.00pm  | Workshop B1 | [Task-based parallel programming in C++ or Python](conf2016_workshops#B1).<br/>Christopher Woods, University of Bristol |
+|                | Workshop B2 | [Data Visualization: Truthiness Hurts](conf2016_workshops#B2).<br/>Louise Lever, University of Manchester |
+|                | Workshop B3 | [Continuous Integration for research software development](conf2016_workshops#B3).<br/>Alin Marin Elena, Daresbury Laboratory, STFC |
+|                | Workshop B4 | [Object orientation in GNU Octave / MATLAB and architectural patterns](conf2016_workshops#B4).<br/>Alberto M Biancardi, University of Sheffield |
+|                | Workshop B5 | [Discussion: The Role of the Research Software Engineer](conf2016_workshops#B5).<br/>UK-RSE |
 
 Evening : AGM and Conference Dinner
 
