@@ -62,7 +62,7 @@ Please help spread the word about the current [call for talks](conf2016_calls_ta
 
 ## Twitter
 
-Please use the hashtag #RSE16 to help spread the word about this conference. Please feel free to tweet questions, annouce your attendance, to comment during the conference etc.
+Please use the hashtag #RSE16 to help spread the word about this conference. Please feel free to tweet questions, announce your attendance, to comment during the conference etc.
 
 <br/>
 <br/>
