@@ -71,10 +71,10 @@ Morning: Main Talks
 | Time       | Room          |
 | :-------------     | :-------------  | ----- |
 | 10.00am-10.45am    | Main Hall       | Arrival, refreshments and registration |
-| 10.45am-11.05am    | Main Auditorium | Welcome, and History and Growth of UK-RSE.<br/>Robert Haines and Simon Hettrick, University of Manchester, University of Southampton |
-| 11.05am-11.50am    | Main Auditorium | Keynote Talk<br/>Matthew Johnson, Leader of Agile Projects Team, Microsoft Research, Cambridge |
-| 11.50am-12.10pm    | Main Auditorium | Not everyone can use git: Research Software Engineers’ recommendations for scientist-centred software support (and what researchers think of them).<br/>Caroline Jay, Rawan Sanyour, Robert Haines, University of Manchester |
-| 12.10pm-12.30pm    | Main Auditorium | Finding and using open source software metrics through dependencies with Libraries.io<br/>Andrew Nesbitt, Libraries.io |
+| 10.45am-11.05am    | Main Auditorium | [Welcome, and History and Growth of UK-RSE.](conf2016_talks#W1)<br/>Robert Haines and Simon Hettrick, University of Manchester, University of Southampton |
+| 11.05am-11.50am    | Main Auditorium | [Keynote Talk](conf2016_talks#K1)<br/>Matthew Johnson, Leader of Agile Projects Team, Microsoft Research, Cambridge |
+| 11.50am-12.10pm    | Main Auditorium | [Not everyone can use git: Research Software Engineers’ recommendations for scientist-centred software support (and what researchers think of them).](conf2016_talks#TM1)<br/>Caroline Jay, Rawan Sanyour, Robert Haines, University of Manchester |
+| 12.10pm-12.30pm    | Main Auditorium | [Finding and using open source software metrics through dependencies with Libraries.io](conf2016_talks#TM2)<br/>Andrew Nesbitt, Libraries.io |
 | 12.30pm-2.00pm     | Main Hall       | Lunch  |
 
 Afternoon : Workshops (Five parallel sessions. Please choose at registration which of workshops A1-A5, and which of workshops B1-B5 you'd prefer to attend)
@@ -101,8 +101,8 @@ Evening : AGM and Conference Dinner
 
 | Time       | Room          |
 | :-------------     | :-------------  | ----- |
-| 5.00pm-6.30pm    | Main Auditorium   | UK-RSE Annual General Meeting.<br/>Any conference attendee or member of UK-RSE is allowed to attend this extra event. For more details, including how to attend via Skype, please [click here](conf2016_agm)  |
-| 7.00pm-9.00pm    | To be announced   | Conference Dinner. This is included for free with registration. For more information please [click here](conf2016_dinner) |
+| 5.00pm-6.30pm    | Main Auditorium   |[UK-RSE Annual General Meeting.](conf2016_agm)<br/>Any conference attendee or member of UK-RSE is allowed to attend this extra event. For more details, including how to attend via Skype, please [click here](conf2016_agm)  |
+| 7.00pm-9.00pm    | To be announced   | [Conference Dinner.](conf2016_dinner)<br/> This is included for free with registration. For more information please [click here](conf2016_dinner) |
 
 [Click here to see Friday's programme](conf2016_friday)
 
