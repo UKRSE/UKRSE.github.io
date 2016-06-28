@@ -82,8 +82,7 @@ Afternoon : Workshops (Five parallel sessions. Please choose at registration whi
 | Time       |           |
 | :-------------     | :-------------  | ----- |
 | 2.00pm-3.15pm  | Workshop A1 | Microsoft Sponsored Workshop |
-|                | Workshop A2 | Using Docker for Research Software development & deployment.<br/>Mark Fernandes, Institute of Food Research
- |
+|                | Workshop A2 | Using Docker for Research Software development & deployment.<br/>Mark Fernandes, Institute of Food Research |
 |                | Workshop A3 | Engineering your Application for Peak Performance with TAU and MVAPICH2.<br/>Sameer Shende, Khaled Hamidouche, and Hari Subramoni, University of Oregon (Sameer), The Ohio State University (Khaled, Hari) |
 |                | Workshop A4 | Simple, high-speed, high-volume data transport of large datasets over the Internet using GridFTP.<br/>Mark Basham, Diamond Light Source |
 |                | Workshop A5 | Discussion: Surveying the UK Research Software Landscape.<br/>Andy Turner, Edinburgh Parallel Computing Centre (EPCC) |
