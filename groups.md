@@ -22,7 +22,7 @@ COLUMN_SEPARATOR
 
 ## List of UK RSE Groups
 
-Organisation | Group(s)
+Organisation | Group/Fellow
 ------------:|:-----------
 University of Bristol | [Advanced Computing Research Centre](https://www.acrc.bris.ac.uk)
 University of Cambridge | [High Performance Computing Service](http://www.hpc.cam.ac.uk)
