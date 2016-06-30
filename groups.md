@@ -22,15 +22,18 @@ COLUMN_SEPARATOR
 
 ## List of UK RSE Groups
 
-Organization | Group(s)
+Organisation | Group(s)
 ------------:|:-----------
 University of Bristol | [Advanced Computing Research Centre](https://www.acrc.bris.ac.uk)
 University of Cambridge | [High Performance Computing Service](http://www.hpc.cam.ac.uk)
+University College London | [Research Software Development Group](http://www.ucl.ac.uk/research-it-services/about/research-software-development)
 Culham Centre for Fusion Energy | Data and Coding team (CODAS & IT)
 University of Edinburgh | [Edinburgh Parallel Computing Centre](https://www.epcc.ed.ac.uk)
+Francis Crick Institute | [Application Integration and Migration](https://www.crick.ac.uk)
 Imperial College London | [Research Software Engineering Community](http://www.imperial.ac.uk/computational-methods/rse)
-University College London | [Research Software Development Group](http://www.ucl.ac.uk/research-it-services/about/research-software-development)
+ISIS | [Mantid Group](http://www.mantidproject.org/Main_Page)
 University of Manchester | [Research Software Engineering Group](http://www.itservices.manchester.ac.uk/research/services/software/)
 University of Oxford | [Research Software Developers Network](http://rsdn.oerc.ox.ac.uk/)
 University of Sheffield | [Research Software Engineering at Sheffield](http://rse-sheffield.github.io/)
 University of Southampton | [Research Software Group](http://rsg.soton.ac.uk/)
+STFC | [Software Engineering Group](http://www.stfc.ac.uk/about-us/where-we-work/rutherford-appleton-laboratory/software-engineering-group/)
