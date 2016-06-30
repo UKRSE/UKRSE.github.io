@@ -72,7 +72,7 @@ We welcome [Matthew Johnson](http://research.microsoft.com/en-us/people/matjoh/)
 
 ## Silver sponsors
 
-We are pleased to announce Intel as the silver sponsor of the RSE Conference!
+We are pleased to announce [Intel](http://www.intel.com/content/www/us/en/company-overview/company-overview.html) as our silver sponsor. Through computing innovation, Intel pushes the boundaries of smart and connected technology to make amazing experiences possible for every person on Earth. From powering the latest devices and the cloud you depend on, to driving policy, diversity, sustainability, and education.
 
 ## Bronze sponsors
 
