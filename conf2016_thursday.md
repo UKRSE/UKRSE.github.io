@@ -81,7 +81,7 @@ Afternoon : Workshops (Five parallel sessions. Please choose at registration whi
 
 | Time       |           |
 | :-------------     | :-------------  | ----- |
-| 2.00pm-3.15pm  | Workshop A1 | [Microsoft Sponsored Workshop](conf2016_workshops#A1) |
+| 2.00pm-3.15pm  | Workshop A1 | [Task-based parallel programming in C++ or Python](conf2016_workshops#A1).<br/>Christopher Woods, University of Bristol |
 |                | Workshop A2 | [Using Docker for Research Software development & deployment](conf2016_workshops#A2).<br/>Mark Fernandes, Institute of Food Research |
 |                | Workshop A3 | [Engineering your Application for Peak Performance with TAU and MVAPICH2](conf2016_workshops#A3).<br/>Sameer Shende, Khaled Hamidouche, and Hari Subramoni, University of Oregon (Sameer), The Ohio State University (Khaled, Hari) |
 |                | Workshop A4 | [Simple, high-speed, high-volume data transport of large datasets over the Internet using GridFTP](conf2016_workshops#A4).<br/>Mark Basham, Diamond Light Source |
@@ -91,7 +91,7 @@ Afternoon : Workshops (Five parallel sessions. Please choose at registration whi
 | 3.15pm-3.45pm      | Main Hall       | Refreshments break    |
 |     |           |
 | :-------------     | :-------------  | ----- |
-| 3.45pm-5.00pm  | Workshop B1 | [Task-based parallel programming in C++ or Python](conf2016_workshops#B1).<br/>Christopher Woods, University of Bristol |
+| 3.45pm-5.00pm  | Workshop B1 | [Why Cloud Computing is the RSE’s Best Friend](conf2016_workshops#B1).<br/>Kenji Takeda, Microsoft Research |
 |                | Workshop B2 | [Data Visualization: Truthiness Hurts](conf2016_workshops#B2).<br/>Louise Lever, University of Manchester |
 |                | Workshop B3 | [Continuous Integration for research software development](conf2016_workshops#B3).<br/>Alin Marin Elena, Daresbury Laboratory, STFC |
 |                | Workshop B4 | [Object orientation in GNU Octave / MATLAB and architectural patterns](conf2016_workshops#B4).<br/>Alberto M Biancardi, University of Sheffield |

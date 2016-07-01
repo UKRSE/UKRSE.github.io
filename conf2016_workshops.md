@@ -68,7 +68,10 @@ td{
 
 ### <a name="A1"></a>Workshop A1
 
-**Microsoft Sponsored Workshop**
+**Task-based parallel programming in C++ or Python**<br/>
+Christopher Woods, University of Bristol<br/>
+
+Adapting software for the massively multicore future forces researchers to look beyond traditional parallelisation strategies. Task based parallelism provides an intuitively clear abstraction. It is straightforward to view a computer program as being a collection of related tasks that will be solved by a team. This is a small step from the older view of a program as a series of instructions that are executed one after another. In this workshop you will have a choice of learning how to write a task based parallel program using Python (via multiprocessing) or C++ (via threaded building blocks). You will see that task based programming provides a very clean way of expressing potentially massive parallelism. You will learn how to write and test efficient task-based parallel code. Hopefully, you will learn how task based parallelism could enable your research software to adapt to a massively multicore future.
 
 ### <a name="A2"></a>Workshop A2
 
@@ -128,10 +131,11 @@ The outcomes of this workshop will include formation of a working group to take 
 
 ### <a name="B1"></a>Workshop B1
 
-**Task-based parallel programming in C++ or Python**<br/>
-Christopher Woods, University of Bristol<br/>
-
-Adapting software for the massively multicore future forces researchers to look beyond traditional parallelisation strategies. Task based parallelism provides an intuitively clear abstraction. It is straightforward to view a computer program as being a collection of related tasks that will be solved by a team. This is a small step from the older view of a program as a series of instructions that are executed one after another. In this workshop you will have a choice of learning how to write a task based parallel program using Python (via multiprocessing) or C++ (via threaded building blocks). You will see that task based programming provides a very clean way of expressing potentially massive parallelism. You will learn how to write and test efficient task-based parallel code. Hopefully, you will learn how task based parallelism could enable your research software to adapt to a massively multicore future.
+**Why Cloud Computing is the RSE’s Best Friend**<br/>
+Kenji Takeda, Microsoft Research<br/>
+ 
+“Cloud computing is the ultimate ‘Swiss Army Knife’ for RSEs for any operating system, application/development framework, or programming language. In this mixed hands-on and discussion session, we’ll show how cloud computing can help RSEs everyday: from development and experimentation; through to training and large-scale compute- and data-intensive computing. We also discuss how Microsoft Azure can be used for more reproducible research and increasing collaboration, such as with Jupyter Notebooks-as-a-Service @ [http://notebooks.azure.com](http://notebooks.azure.com). We’ll quickly run-through common uses of the cloud by researchers with virtual machines, machine learning, IoT, big data, and ‘real’ HPC, including going hands-on. We will finish the session with a discussion around how participants are already using, or want to use the cloud, and how this can help their research communities. All conference attendees will receive a free Microsoft Azure pass to get their hands dirty with cloud computing, and learn how they can get large cloud computing grants for their projects via [http://www.azure4research.com](http://www.azure4research.com).”
+ 
 
 ### <a name="B2"></a>Workshop B2
 
