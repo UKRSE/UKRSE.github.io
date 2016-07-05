@@ -86,9 +86,9 @@ Late Morning: Parallel Talks (Sets of five parallel talks per session. Feel free
 |       |          |
 | :-------------     | :-------------  | ----- |
 | 10.50am-11.10am  | Room 1 | [GeosMeta: a service for researchers to hold metadata and provenance.](conf2016_talks#T2.1)<br/>Mike Mineter, School of GeoSciences, University of Edinburgh |
-|                | Room 2 | [Finding Rare Concurrency Bugs in Large Scale Software.](conf2016_talks#T2.2)<br/>Mahdi Eslamimehr, Viewpoints Research Institute, USA |
+|                | Room 2 | [Building LLAMA: A highly parallel web application for drug development.](conf2016_talks#T2.2)<br/> Chris Empson, School of Chemistry, University of Leeds |
 |                | Room 3 | [The Grackle project: turning a research code into a software package.](conf2016_talks#T2.3)<br/>Britton Smith, University of Edinburgh |
-|                | Room 4 | [Building LLAMA: A highly parallel web application for drug development.](conf2016_talks#T2.4)<br/>Chris Empson, School of Chemistry, University of Leeds |
+|                | Room 4 | [Layering for longevity: lessons from 3 decades of fusion data management.](conf2016_talks#T2.4)<br/> Jonathan Hollocombe, Alex Meakins, Shaun de Witt, UKAEA, Culham Centre for Fusion Energy |
 |                | Room 5 | [Building Re-Useable Research Software at a National Level: A Canadian Perspective](conf2016_talks#T2.5)<br/>Scott Henwood, CANARIE, Canada's National Research and Education Network|
 |       |          |
 | 11.10am-11.20am      |          | Break to allow you to change rooms
@@ -110,7 +110,7 @@ Late Morning: Parallel Talks (Sets of five parallel talks per session. Feel free
 | 12.00pm-12.10pm      |          | Break to allow you to change rooms
 |       |          |
 | :-------------     | :-------------  | ----- |
-| 12.10pm-12.30pm    | Room 1 | [Layering for longevity: lessons from 3 decades of fusion data management.](conf2016_talks#T5.1)<br/>Jonathan Hollocombe, Alex Meakins, Shaun de Witt, UKAEA, Culham Centre for Fusion Energy |
+| 12.10pm-12.30pm    | Room 1 | [Reproducible Research software environments using Docker](conf2016_talks#T5.1)<br/> Mark Fernandes, Institute of Food Research |
 |                | Room 2 | [Modern Fortran in Research Software Engineering.](conf2016_talks#T5.2)<br/>Filippo Spiga, Numerical Algorithms Group |
 |                | Room 3 | [The future of research software development at Newcastle University.](conf2016_talks#T5.3)<br/>Mark Turner, Newcastle University |
 |                | Room 4 | [Taming your clients, or: Defining and managing requirements in an academic research context.](conf2016_talks#T5.4)<br/>Harald Störrle, Technical University of Denmark |
