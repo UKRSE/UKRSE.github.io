@@ -178,10 +178,12 @@ We will review progress and the issues arising as we deploy GeosMeta.
 
 ### <a name="T2.2"></a>Talk 2.2
 
-**Finding Rare Concurrency Bugs in Large Scale Software**<br/>
-Mahdi Eslamimehr, Viewpoints Research Institute, USA<br/>
+**Building LLAMA: A highly parallel web application for drug development**<br/>
+Chris Empson, School of Chemistry, University of Leeds<br/>
 
-Concurrent programming with shared memory can lead to a variety of concurrency bugs such as deadlocks and data races. How can we find such bugs? I will survey the vast literature on solutions to this problem, and then I will present a new approach that does even better. Our approach combines concolic execution and constraint solving into a new technique that drives an execution towards a concurrency bug candidate.In 5.4 million lines of Java, our tool found substantially more real concurrency bugs than many previous techniques combined. This a joint work with Jens Palsberg from UCLA, Mohsen Lesani from MIT, and George Edwards from USC.
+LLAMA (Lead-Likeness and Molecular Analysis) is a web application that helps drug discovery scientists to decide whether their 'lead' molecules may be a good starting point for a new drug. 'Lead' molecules are those that exhibit some interesting biological activity but require enhancement to make them more efficacious, selective or safer before clinical trials can be considered. The drug development process has a high attrition rate and predicting potential problems before they arise could greatly reduce the financial burden of bringing new drugs to market. The LLAMA software simulates the drug development process by performing virtual chemical reactions on the â€˜leadâ€™ molecule and visualising the chemical properties of the products. This valuable data can highlight many potential issues with a 'lead' molecule. Launched in September 2015, LLAMA has been well received and now has over 200 users.
+
+The computational requirements are significant, so LLAMA has a highly parallel architecture based on the ZeroMQ message-passing library. This architecture enables the system to scale with few changes to the code. This talk will discuss the design rationale, implementation details and future ambitions of the LLAMA software.
 
 ### <a name="T2.3"></a>Talk 2.3
 
@@ -192,12 +194,14 @@ I will present the Grackle project: a library for chemistry and cooling in astro
 
 ### <a name="T2.4"></a>Talk 2.4
 
-**Building LLAMA: A highly parallel web application for drug development**<br/>
-Chris Empson, School of Chemistry, University of Leeds<br/>
+**Layering for longevity: lessons from 3 decades of fusion data management**<br/>
+Jonathan Hollocombe, Alex Meakins, Shaun de Witt, UKAEA, Culham Centre for Fusion Energy<br/>
 
-LLAMA (Lead-Likeness and Molecular Analysis) is a web application that helps drug discovery scientists to decide whether their 'lead' molecules may be a good starting point for a new drug. 'Lead' molecules are those that exhibit some interesting biological activity but require enhancement to make them more efficacious, selective or safer before clinical trials can be considered. The drug development process has a high attrition rate and predicting potential problems before they arise could greatly reduce the financial burden of bringing new drugs to market. The LLAMA software simulates the drug development process by performing virtual chemical reactions on the â€˜leadâ€™ molecule and visualising the chemical properties of the products. This valuable data can highlight many potential issues with a 'lead' molecule. Launched in September 2015, LLAMA has been well received and now has over 200 users.
-
-The computational requirements are significant, so LLAMA has a highly parallel architecture based on the ZeroMQ message-passing library. This architecture enables the system to scale with few changes to the code. This talk will discuss the design rationale, implementation details and future ambitions of the LLAMA software.
+Long term stewardship of data requires active archive management, such as plans to evolve systems with changing technology. CCFE manages data from over three decades of nuclear fusion experiments. This talk will outline how a layered system that hides the underlying data format allows for the evolution of the technologies with minimal impact on users.
+ 
+Large amounts of scientific data is stored in different formats and on different machines; sometimes backed up, sometimes on local storage. By providing unified data access abstractions we can hide away the problems of legacy file formats and provide a single method for users to store and retrieve this data. When all data access is through this single API it becomes possible to automate various beneficial practices such as versioning, provenance tracking and access control
+ 
+The talk will cover the motivations and benefits of such abstracted data access and cover the existing solutions that have been created at CCFE over the last 30+ years and what they can teach us. It will then highlight the ongoing work to provide a modern solution, including our data pilot for the Horizon 2020 EUDAT project.
 
 ### <a name="T2.5"></a>Talk 2.5
 
@@ -311,16 +315,16 @@ This will be a discussion session, paired with session T3.5, allowing you to ask
 
 ### <a name="T5.1"></a>Talk 5.1
 
-**Layering for longevity: lessons from 3 decades of fusion data management**<br/>
-Jonathan Hollocombe, Alex Meakins, Shaun de Witt, UKAEA, Culham Centre for Fusion Energy<br/>
+**Reproducible Research software environments using Docker**<br/>
+Mark Fernandes, Institute of Food Research<br/>
 
-Long term stewardship of data requires active archive management, such as plans to evolve systems with changing technology. CCFE manages data from over three decades of nuclear fusion experiments. This talk will outline how a layered system that hides the underlying data format allows for the evolution of the technologies with minimal impact on users.
+Modern software applications can have complex infrastructure requirements ranging from installation of supporting libraries to specific versions of an OS. This can work against a key goal of publishing research software â€“ the ability to use it, along with the published data, to reproduce results and conclusions published in journals.
  
-Large amounts of scientific data is stored in different formats and on different machines; sometimes backed up, sometimes on local storage. By providing unified data access abstractions we can hide away the problems of legacy file formats and provide a single method for users to store and retrieve this data. When all data access is through this single API it becomes possible to automate various beneficial practices such as versioning, provenance tracking and access control
+In this talk we explore a technology (Docker) that can help deliver to the user a software environment mirroring (as much as possible) that used by the author. Correct versions of libraries, configuration settings, web & database servers can be created without corrupting the users existing operating system as they are installed in isolated containers.
  
-The talk will cover the motivations and benefits of such abstracted data access and cover the existing solutions that have been created at CCFE over the last 30+ years and what they can teach us. It will then highlight the ongoing work to provide a modern solution, including our data pilot for the Horizon 2020 EUDAT project.
+Docker container development can be performed either locally on a Linux server or using public development servers e.g. GitHub & Docker Hub and publication DOIs generated e.g. with Zenodo. The public Docker hub provides a searchable archive. New containers can be developed by building layers upon existing ones.
  
-There is a workshop scheduled on the EUDAT project which would be a good follow-on.
+All this is delivered to their desktop without skills & infrastructure e.g. Linux installation and administration. We contend that Docker also delivers advantages for software maintenance updates over other technologies e.g. Virtual machines.
 
 ### <a name="T5.2"></a>Talk 5.2
 
