@@ -81,7 +81,7 @@ Afternoon : Workshops (Five parallel sessions. Please choose at registration whi
 
 | Time       |           |
 | :-------------     | :-------------  | ----- |
-| 2.00pm-3.15pm  | Workshop A1 | [Task-based parallel programming in C++ or Python](conf2016_workshops#A1).<br/>Christopher Woods, University of Bristol |
+| 2.00pm-3.15pm  | Workshop A1 | [Intel® Parallel Studio XE 2016 - Vectorization Advisor: Understanding vectorization and how it impacts performance](conf2016_workshops#A1). |
 |                | Workshop A2 | [Using Docker for Research Software development & deployment](conf2016_workshops#A2).<br/>Mark Fernandes, Institute of Food Research |
 |                | Workshop A3 | [Engineering your Application for Peak Performance with TAU and MVAPICH2](conf2016_workshops#A3).<br/>Sameer Shende, Khaled Hamidouche, and Hari Subramoni, University of Oregon (Sameer), The Ohio State University (Khaled, Hari) |
 |                | Workshop A4 | [Simple, high-speed, high-volume data transport of large datasets over the Internet using GridFTP](conf2016_workshops#A4).<br/>Mark Basham, Diamond Light Source |

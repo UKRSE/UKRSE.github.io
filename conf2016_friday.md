@@ -123,7 +123,7 @@ Afternoon : Workshops (Five parallel sessions. Please choose at registration whi
 
 | Time       |           |
 | :-------------     | :-------------  | ----- |
-| 2.00pm-3.15pm  | Workshop C1 | [Intel Sponsored Workshop](conf2016_workshops#C1) |
+| 2.00pm-3.15pm  | Workshop C1 | [Task-based parallel programming in C++ or Python](conf2016_workshops#C1).<br/>Christopher Woods, University of Bristol |
 |                | Workshop C2 | [Using software containers for reproducible experiments](conf2016_workshops#C2).<br/>Frédéric Osterrath, CRIM |
 |                | Workshop C3 | [Introduction to concurrent programming with Go](conf2016_workshops#C3).<br/>Sebastien Binet, CNRS/IN2P3 |
 |                | Workshop C4 | [Using EUDAT as your data management tool](conf2016_workshops#C4).<br/>Shaun de Witt, CCFE |

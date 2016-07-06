@@ -68,10 +68,29 @@ td{
 
 ### <a name="A1"></a>Workshop A1
 
-**Task-based parallel programming in C++ or Python**<br/>
-Christopher Woods, University of Bristol<br/>
+**Intel® Parallel Studio XE 2016 - Vectorization Advisor: Understanding vectorization and how it impacts performance**<br/>
 
-Adapting software for the massively multicore future forces researchers to look beyond traditional parallelisation strategies. Task based parallelism provides an intuitively clear abstraction. It is straightforward to view a computer program as being a collection of related tasks that will be solved by a team. This is a small step from the older view of a program as a series of instructions that are executed one after another. In this workshop you will have a choice of learning how to write a task based parallel program using Python (via multiprocessing) or C++ (via threaded building blocks). You will see that task based programming provides a very clean way of expressing potentially massive parallelism. You will learn how to write and test efficient task-based parallel code. Hopefully, you will learn how task based parallelism could enable your research software to adapt to a massively multicore future.
+Intel® Advisor is used to analyze existing code to discover improvements for optimal speedup of your application in the areas of threading and vectorization. This module will demonstrate the benefits of vectorization using hands on exercises. These will demonstrate how to optimize your code by finding both unvectorized loops and vectorized loops that are not vectorized efficiently. Once you have completed the course, you can start right away on your application.
+
+Intel® Advisor  – Vectorization Advisor Overview
+
+ * Features
+ * Workflow
+ * Understanding the results
+ * Examples
+ * Lab
+ * Conclusion
+ 
+Lab: Speeding up your code using vectorization
+ 
+Workshop Objectives:
+
+1. Introduce Advisor – Vectorization Advisor features and benefits.
+2. Understand the Advisor – Vectorization Advisor workflow and how to use it. Learn to interpret the Advisor results and how to apply changes to your code.
+
+Workshop Pre-requisites:  
+
+1. Understanding of C++/C or Fortran programming
 
 ### <a name="A2"></a>Workshop A2
 
@@ -170,7 +189,10 @@ This workshop will bring together members of UK-RSE for a discussion about the r
 
 ### <a name="C1"></a>Workshop C1
 
-**Intel Sponsored Workshop**
+**Task-based parallel programming in C++ or Python**<br/>
+Christopher Woods, University of Bristol<br/>
+
+Adapting software for the massively multicore future forces researchers to look beyond traditional parallelisation strategies. Task based parallelism provides an intuitively clear abstraction. It is straightforward to view a computer program as being a collection of related tasks that will be solved by a team. This is a small step from the older view of a program as a series of instructions that are executed one after another. In this workshop you will have a choice of learning how to write a task based parallel program using Python (via multiprocessing) or C++ (via threaded building blocks). You will see that task based programming provides a very clean way of expressing potentially massive parallelism. You will learn how to write and test efficient task-based parallel code. Hopefully, you will learn how task based parallelism could enable your research software to adapt to a massively multicore future.
 
 ### <a name="C2"></a>Workshop C2
 
