@@ -220,7 +220,7 @@ Starting with the inception of the program, which brought researchers and Resear
 ### <a name="T3.1"></a>Talk 3.1
 
 **PIsCO: A Performance Indicators Framework for Software Metrics**<br/>
-Manuel Corpas, The Genome Analysis Centre<br/>
+Haydee Artaza Alvarez, The Genome Analysis Centre<br/>
 
 The need for measuring the impact of software has never been so pressing. With shrinking budgets, greater competition for resources and an increasing need for transparency in the return for their investments, funders require ever more precise ways to track the impact of any software they spend money on. The problem with tracking the impact for biological resources is that no single metric can describe it accurately. In addition, even when the same metric is used, slightly different ways of calculating it may provide very different, even spurious, representations of impact for different resources. We thus propose PIsCO, a metrics-agnostic framework that provides a centralised resource where users can share descriptions of metrics for the community and that other users can adopt freely. PIsCO is able to collect metrics and present them in a visual way to allow their easy interpretation. The main advantage of using PIsCO is that metric definitions can be adopted by third parties so that they be benchmarked. PIsCO is still work in progress and we are currently applying it to a number of well recognised bioinformatics software tools to understand their impact.
 
