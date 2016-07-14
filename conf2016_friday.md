@@ -94,7 +94,7 @@ Late Morning: Parallel Talks (Sets of five parallel talks per session. Feel free
 | 11.10am-11.20am      |          | Break to allow you to change rooms
 |       |          |
 | :-------------     | :-------------  | ----- |
-| 11.20am-11.40am    | Room 1 | [PIsCO: A Performance Indicators Framework for Software Metrics.](conf2016_talks#T3.1)<br/>Manuel Corpas, The Genome Analysis Centre |
+| 11.20am-11.40am    | Room 1 | [PIsCO: A Performance Indicators Framework for Software Metrics.](conf2016_talks#T3.1)<br/>Haydee Artaza Alvarez, The Genome Analysis Centre |
 |                | Room 2 | [Scaling up the software development process, a case study highlighting the complexities of large team software development.](conf2016_talks#T3.2)<br/>Mark Basham, Diamond Light Source |
 |                | Room 3 | [Experiences of bootstrapping a Commercial Research team.](conf2016_talks#T3.3)<br/>Joanna Jordan, Catherine Barnaby, Bath Institute for Mathematical Innovation (IMI) |
 |                | Room 4 | [Beyond cron and bash - Event-driven automation for the sequencing core facility.](conf2016_talks#T3.4)<br/>Johan Dahlberg, Department of Medical Sciences, Uppsala University |
