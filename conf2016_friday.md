@@ -111,7 +111,7 @@ Late Morning: Parallel Talks (Sets of five parallel talks per session. Feel free
 |       |          |
 | :-------------     | :-------------  | ----- |
 | 12.10pm-12.30pm    | Room 1 | [Reproducible Research software environments using Docker](conf2016_talks#T5.1)<br/> Mark Fernandes, Institute of Food Research |
-|                | Room 2 | [Modern Fortran in Research Software Engineering.](conf2016_talks#T5.2)<br/>Ian Bush, Numerical Algorithms Group |
+|                | Room 2 | [Modern Fortran in Research Software Engineering.](conf2016_talks#T5.2)<br/>Ian Bush, University of Oxford |
 |                | Room 3 | [The future of research software development at Newcastle University.](conf2016_talks#T5.3)<br/>Mark Turner, Newcastle University |
 |                | Room 4 | [Taming your clients, or: Defining and managing requirements in an academic research context.](conf2016_talks#T5.4)<br/>Harald Störrle, Technical University of Denmark |
 |                | Room 5 | [To be announced](conf2016_talks#T5.5) |
