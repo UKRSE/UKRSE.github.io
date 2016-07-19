@@ -329,7 +329,7 @@ All this is delivered to their desktop without skills & infrastructure e.g. Linu
 ### <a name="T5.2"></a>Talk 5.2
 
 **Modern Fortran in Research Software Engineering**<br/>
-Filippo Spiga, Numerical Algorithms Group<br/>
+Ian Bush, University of Oxford<br/>
 
 Fortran is the dominant programming language of computational science and engineering, accounting for over 70% of CPU cycles on ARCHER, the UK national supercomputing service (based on XALT accounting). Recent surveys have shown that a significant percentage of the academic software engineering community are still using the Fortran 77 standard, and that Fortran 90 is the most used standard. Adoption of the Fortran 2003 and 2008 standards in academia is still lagging behind. These newer standards include features such as object oriented programming, floating point exception handling, interoperability with C, CoArray for distributed memory parallelism and submodules. Such modern programming language features aid better software engineering for scientific codes, and so increases those codes robustness and sustainability. Further as the listed features are part of the Fortran standard, this robustness and sustainability will be portable across the large number of platforms that are available to the Fortran programmer today, including compilers from GNU, Intel, Cray, IBM, and NAG. In this talk we shall introduce these newer standards and give real, practical examples as to how their use aids the RSE in his or her work.
 
