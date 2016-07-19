@@ -45,8 +45,21 @@ title: RSE 2016 | Registration
 </ul>
 </div>
 
-<iframe style="width:100%;height:1000px" src="https://docs.google.com/forms/d/13UDEEL4YeWeo-e7ioUVqdxfMul3aG7mAIbUU3iUF_aI/viewform?edit_requested=true"></iframe>
+## [Registration for the conference is now open](http://store.southampton.ac.uk/browse/extra_info.asp?compid=1&modid=2&deptid=19&catid=95&prodid=395).
 
+To register for the conference [click here](http://store.southampton.ac.uk/browse/extra_info.asp?compid=1&modid=2&deptid=19&catid=95&prodid=395).
+
+The registration fee is £120. The fee for speakers and workshop presenters is £80 (a password will have been sent to you).
+
+This fee covers all food and refreshments at the conference, including the [conference dinner](conf2016_dinner).
+The fee also covers the cost of a USB flashdrive, on which all of the workshop material will be loaded. Note, that if
+you want to take part in the workshops, you must bring your own laptop with USB ports to the conference, that is capable of running virtual 
+machines using [VirtualBox](https://www.virtualbox.org).
+
+The fee does not cover accommodation, which must be arranged separately. Information about hotels in the area is
+[available here](conf2016_accommodation).
+
+ 
 <br/>
 <br/>
 
