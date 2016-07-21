@@ -61,7 +61,7 @@ The fee does not cover accommodation, which must be arranged separately. Informa
 
 ## WSSSPE4 Workshop
 
-You may also be interested in registering for the 4th Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE4). This will be held from the 12th-14th September, immediate before the RSE conference, and also in Manchester. For more information, please visit the [WSSPE4 website](http://wssspe.researchcomputing.org.uk/wssspe4/).
+You may also be interested in registering for the 4th Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE4). This will be held from the 12th-14th September, immediately before the RSE conference, and also in Manchester. For more information, please visit the [WSSSPE4 website](http://wssspe.researchcomputing.org.uk/wssspe4/).
 
 <br/>
 <br/>
