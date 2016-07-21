@@ -72,7 +72,7 @@ The deadline for delivery is **Friday 2nd September**. This will give us enough 
 
 ## Virtual Machines
 
-To help with the preparation of the practical workshops, we have decided that we will use hpclinux to provide the base virtual machine. This provides a linux installation that has the intel and gcc compilers installed, python, MPI etc. Note that if you need a different operating system for your workshop (e.g. windows), then please email me and I will prepare a suitable virtual machine for you and you can ignore these instructions. 
+To help with the preparation of the practical workshops, we have decided that we will use hpclinux to provide the base virtual machine. This provides a linux installation that has the intel and gcc compilers installed, python, MPI etc. Note that if you need a different operating system for your workshop (e.g. windows), then please [email us](mailto:Christopher.Woods@bristol.ac.uk) and we will prepare a suitable virtual machine for you and will send you new instructions. 
 
 You can download HPCLinux from [this page](http://www.paratools.com/HPCLinux/#Download).
 
@@ -82,7 +82,7 @@ You should run the virtual machine using VirtualBox, which you can obtain from [
 
 This OVA file can be imported into VirtualBox by clicking "File / Import Appliance". This will import the virtual machine into VirtualBox, taking about 16 GB of disk space.
 
-Once you've booted this virtual machine, you can login using the username "livetau" and the password that I emailed to you (this cannot be shared on a website. [Email us](mailto:Christopher.Woods@bristol.ac.uk) if you need this sent again).
+Once you've booted this virtual machine, you can login using the username "livetau" and the password that we emailed to you (this cannot be shared on a website. [Email us](mailto:Christopher.Woods@bristol.ac.uk) if you need this sent again).
 
 This will boot you into a graphical linux desktop, with icons to start the terminal and firefox at the top of the screen.
 
