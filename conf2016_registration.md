@@ -59,6 +59,10 @@ machines using [VirtualBox](https://www.virtualbox.org).
 The fee does not cover accommodation, which must be arranged separately. Information about hotels in the area is
 [available here](conf2016_accommodation).
 
+## Volunteers
+
+We have a limited number of spaces for volunteers to help at the conference. Volunteers will have free registration in return for providing help with staffing desks, helping at workshops, etc. For more detail, please [click here](conf2016_volunteers).
+
 ## WSSSPE4 Workshop
 
 You may also be interested in registering for the 4th Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE4). This will be held from the 12th-14th September, immediately before the RSE conference, and also in Manchester. For more information, please visit the [WSSSPE4 website](http://wssspe.researchcomputing.org.uk/wssspe4/).

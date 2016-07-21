@@ -48,7 +48,7 @@ title: RSE 2016 | Poster Competition
 ## Poster Presentations	
 
 Thanks to our [sponsors](conf2016_sponsors), we are pleased to announce that we will be hosting a poster competition at the conference, with 
-cash prizes (£250) available for the best posters.
+prizes available for the best posters.
 
 The poster competition is open to students or early career researchers (or equivalent) who have registered to attend the conference. If you would like 
 to submit an application to present a poster, please fill in the form below.
