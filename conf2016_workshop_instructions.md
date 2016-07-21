@@ -80,7 +80,7 @@ You should download the "New Light OVA file", which is about 4 GB in size.
 
 You should run the virtual machine using VirtualBox, which you can obtain from [here](https://www.virtualbox.org).
 
-This OVA file can be imported into VirtualBox by clicking "File | Import Appliance". This will import the virtual machine into VirtualBox, taking about 16 GB of disk space.
+This OVA file can be imported into VirtualBox by clicking "File / Import Appliance". This will import the virtual machine into VirtualBox, taking about 16 GB of disk space.
 
 Once you've booted this virtual machine, you can login using the username "livetau" and the password that I emailed to you (this cannot be shared on a website. [Email us](mailto:Christopher.Woods@bristol.ac.uk) if you need this sent again).
 
