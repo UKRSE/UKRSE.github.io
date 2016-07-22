@@ -30,7 +30,7 @@ Job listing format. Earlier closing dates first.
 
 * [Software Developer](http://www.ecmwf.int/sites/default/files/vacancies/_VNVN16-22_en.pdf), European Centre for Medium-Range Weather Forecasts, Reading, UK - closes 11 August 2016
 
-* [Senior Specialise for Research Computing (Senior RSE)](http://goo.gl/qlOJEf), University of Bristol, UK, Permanent Position - closes 17 August 2016
+* [Senior Specialist for Research Computing (Senior RSE)](http://goo.gl/qlOJEf), University of Bristol, UK, Permanent Position - closes 17 August 2016
 
 * [Postdoctoral Research Assistant: Machine Learning / Physics](http://users.ox.ac.uk/~phys1195/MachineLearning_Physics_Positions_Oxford_2.pdf), Department of Physics, University of Oxford, UK - immediate, closes when filled
 
