@@ -129,6 +129,12 @@ Please could use this page to find the ID for your workshop, and then develop yo
 
 This will help us when we are integrating all of the virtual machines together.
 
+## Network access
+
+The venue will be providing wifi. We will be visiting the venue in a couple of weeks to test it. However, you should not 100% trust that conference wifi will work all of the time, particularly as there will be about 200 delegates. As much as possible put all of your slides or material into the workshop directory of the VM so that delegates have the material locally. Obviously some things will need net access (like github etc.), and these should work on the day (we are paying for technical assistance from the venue). However, you should plan what you would do if the network failed, and have something offline available in the VM that the attendees can use locally.
+
+## Submission
+
 When you have developed your workshop, please tar up your workshop directory and [email it to us](mailto:Christopher.Woods@bristol.ac.uk), together with instructions to install any other extra software that you need. We will then make sure to install and test everything in the central VM that we will use for the conference itself.
 
 If you have any problems or any questions then please feel free to [get in touch](mailto:Christopher.Woods@bristol.ac.uk). We are very happy to provide help with the preparation of workshops, and are happy to do that via email or Skype.
