@@ -59,6 +59,14 @@ machines using [VirtualBox](https://www.virtualbox.org).
 The fee does not cover accommodation, which must be arranged separately. Information about hotels in the area is
 [available here](conf2016_accommodation).
 
+## Poster Competition
+
+Thanks to our [sponsors](conf2016_sponsors), we are pleased to announce that we will be hosting a poster competition at the conference, with 
+prizes available for the best posters.
+
+The poster competition is open to students or early career researchers (or equivalent) who have registered to attend the conference. 
+If you would like more details [click here](conf2016_posters).
+
 ## Volunteers
 
 We have a limited number of spaces for volunteers to help at the conference. Volunteers will have free registration in return for providing help with staffing desks, helping at workshops, etc. For more detail, please [click here](conf2016_volunteers).
