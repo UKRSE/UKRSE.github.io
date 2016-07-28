@@ -56,7 +56,7 @@ Please help spread the word about the [opening of registration](conf2016_registr
 <a href="RSEConf16_Poster_Flyer_July16.pdf">
   <img src="images/RSEConf16_Poster_Flyer_July16.jpg"
        alt="image of the poster flyer"
-       style="width: 60%"/>
+       style="width: 30%"/>
 </a>
 
 ## Twitter
