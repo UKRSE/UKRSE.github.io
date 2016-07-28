@@ -51,10 +51,10 @@ The success of this meeting depends greatly on you. Please help us to promote th
 
 ## Posters
 
-Please help spread the word about the current [call for talks](conf2016_calls_talks) and [call for workshops](conf2016_calls_workshops) by sharing [this poster](RSEConf16_Poster_Flyer_May16.pdf).
+Please help spread the word about the [opening of registration](conf2016_registration) by sharing [this poster](RSEConf16_Poster_Flyer_July16.pdf).
 
-<a href="RSEConf16_Poster_Flyer_May16.pdf">
-  <img src="images/RSEConf16_Poster_Flyer_May16.jpg"
+<a href="RSEConf16_Poster_Flyer_July16.pdf">
+  <img src="images/RSEConf16_Poster_Flyer_July16.jpg"
        alt="image of the poster flyer"
        style="width: 60%"/>
 </a>
