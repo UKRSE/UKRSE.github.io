@@ -83,7 +83,7 @@ Please choose the image that suits you best. If you want a different operating s
 
 This provides a linux installation that has the gcc compilers installed, and Anaconda python installed in the home directory (both anaconda 2 and anaconda 3). Please feel free to install anything else that you need for your workshop (though please make sure to let us know, so that we can duplicate the installation on the base VM).
 
-You can download the image [from here](https://drive.google.com/file/d/0B-yOUgABf0mBVF9mWDNoS1pJT1E/view?usp=sharing). It is called [UKRSE-Fedora.ova](https://drive.google.com/file/d/0B-yOUgABf0mBVF9mWDNoS1pJT1E/view?usp=sharing) and is 4 GB in siz.
+You can download the image [from here](https://drive.google.com/file/d/0B-yOUgABf0mBVF9mWDNoS1pJT1E/view?usp=sharing). It is called [UKRSE-Fedora.ova](https://drive.google.com/file/d/0B-yOUgABf0mBVF9mWDNoS1pJT1E/view?usp=sharing) and is 4 GB in size.
 
 You should run the virtual machine using VirtualBox, which you can obtain from [here](https://virtualbox.org).
 
