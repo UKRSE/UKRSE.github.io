@@ -57,7 +57,7 @@ Posters will be on permanent display during the two days of the conference, with
 breaks. Posters will be crowd-judged by attendees during the conference, with prizes awarded during the wrap up talk on 
 [Friday afternoon](conf2016_friday).
 
-The deadline for submission will be **10pm on Friday 12th August**. We will evaluate the submissions and will notify you of the outcome
+The deadline for submission will be **10pm on Friday 19th August**. We will evaluate the submissions and will notify you of the outcome
 during the week of the 15th August.
  
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd89uBauQPeweQcAulZxJDV7qC_7rfqvQm72GE20p20yZ29Qg/viewform?embedded=true" width="80%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
