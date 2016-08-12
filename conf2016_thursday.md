@@ -75,7 +75,8 @@ Morning: Main Talks
 | 11.05am-11.50am    | Main Auditorium | [Keynote Talk](conf2016_talks#K1)<br/>Matthew Johnson, Leader of Agile Projects Team, Microsoft Research, Cambridge |
 | 11.50am-12.10pm    | Main Auditorium | [Not everyone can use git: Research Software Engineers’ recommendations for scientist-centred software support (and what researchers think of them).](conf2016_talks#TM1)<br/>Caroline Jay, Rawan Sanyour, Robert Haines, University of Manchester |
 | 12.10pm-12.30pm    | Main Auditorium | [Finding and using open source software metrics through dependencies with Libraries.io](conf2016_talks#TM2)<br/>Andrew Nesbitt, Libraries.io |
-| 12.30pm-2.00pm     | Main Hall       | Lunch  |
+| 12.30pm-1.00pm     | Main Hall       | Conference photo |
+| 1.00pm-2.00pm     | Main Hall       | Lunch  |
 
 Afternoon : Workshops (Five parallel sessions. Please choose at registration which of workshops A1-A5, and which of workshops B1-B5 you'd prefer to attend)
 
