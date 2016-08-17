@@ -58,5 +58,9 @@ In addition, abstracts for all talks and workshops are available:
 
 Talks will be published as short papers in a special issue of the [Journal of Open Research Software](http://openresearchsoftware.metajnl.com/).
 
+![Journal of Open Research Software logo][jors-logo]
+
 <br/>
 <br/>
+
+[jors-logo]: http://openresearchsoftware.metajnl.com/static/images/header.png
