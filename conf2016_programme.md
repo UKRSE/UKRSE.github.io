@@ -56,6 +56,7 @@ In addition, abstracts for all talks and workshops are available:
 * [Abstracts for all talks](conf2016_talks)
 * [Abstracts for all workshops](conf2016_workshops)
 
-<br/>
-<br/>
+Talks will be published as short papers in a special issue of the [Journal of Open Research Software](http://openresearchsoftware.metajnl.com/).
 
+<br/>
+<br/>
