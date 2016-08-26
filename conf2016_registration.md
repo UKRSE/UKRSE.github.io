@@ -45,31 +45,13 @@ title: RSE 2016 | Registration
 </ul>
 </div>
 
-## [Registration for the conference is now open](http://store.southampton.ac.uk/browse/extra_info.asp?compid=1&modid=2&deptid=19&catid=95&prodid=395).
+## Registration for the conference is now closed
 
-To register for the conference [click here](http://store.southampton.ac.uk/browse/extra_info.asp?compid=1&modid=2&deptid=19&catid=95&prodid=395).
+**We have now sold all tickets to register for the conference**
 
-The registration fee is £120. The fee for speakers and workshop presenters is £80 (a password will have been sent to you).
+We are in the process of setting up a waiting list and will put details about that up shortly.
 
-This fee covers all food and refreshments at the conference, including the [conference dinner](conf2016_dinner).
-The fee also covers the cost of a USB flashdrive, on which all of the workshop material will be loaded. Note, that if
-you want to take part in the workshops, you must bring your own laptop with USB ports to the conference, that is capable of running virtual 
-machines using [VirtualBox](https://www.virtualbox.org).
-
-The fee does not cover accommodation, which must be arranged separately. Information about hotels in the area is
-[available here](conf2016_accommodation).
-
-## Poster Competition
-
-Thanks to our [sponsors](conf2016_sponsors), we are pleased to announce that we will be hosting a poster competition at the conference, with 
-prizes available for the best posters.
-
-The poster competition is open to students or early career researchers (or equivalent) who have registered to attend the conference. 
-If you would like more details [click here](conf2016_posters).
-
-## Volunteers
-
-We have a limited number of spaces for volunteers to help at the conference. Volunteers will have free registration in return for providing help with staffing desks, helping at workshops, etc. For more detail, please [click here](conf2016_volunteers).
+If you are a sponsor, speaker or workshop presenter who needs to complete registration, then please [mailto:info@rse.ac.uk](get in touch).
 
 ## WSSSPE4 Workshop
 
