@@ -51,7 +51,7 @@ title: RSE 2016 | Registration
 
 We are in the process of setting up a waiting list and will put details about that up shortly.
 
-If you are a sponsor, speaker or workshop presenter who needs to complete registration, then please [mailto:info@rse.ac.uk](get in touch).
+If you are a sponsor, speaker or workshop presenter who needs to complete registration, then please (get in touch)[mailto:info@rse.ac.uk].
 
 ## WSSSPE4 Workshop
 
