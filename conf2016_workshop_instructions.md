@@ -74,10 +74,10 @@ The deadline for delivery is **Friday 2nd September**. This will give us enough 
 
 To help with the preparation of the practical workshops, you have a choice of two virtual machines;
 
-* Fedora24 (Linux kernel 4.5.5, glibc 2.23, gcc 6.1.1, Anaconda python 2.7 and Anaconda python 3.5.2 installed).
-* HPCLinux (Linux kernel 3.6.11, glibc 2.14.90, gcc 4.8.3, python 2.7.3 installed).
+* Fedora24 (Linux kernel 4.5.5, glibc 2.23, gcc 6.1.1, Anaconda python 2.7 and Anaconda python 3.5.2 installed). This is the preferred choice, and should be used if you can.
+* HPCLinux (Linux kernel 3.6.11, glibc 2.14.90, gcc 4.8.3, python 2.7.3 installed). This is not the preferred choice. Only use this if you cannot use the Fedora image.
 
-Please choose the image that suits you best. If you want a different operating system (i.e. Windows) then please [get in touch](mailto:Christopher.Woods@bristol.ac.uk).
+Please choose the Fedora24 image if you can. If you want a different operating system (i.e. Windows) then please [get in touch](mailto:Christopher.Woods@bristol.ac.uk).
 
 ### Instructions for Fedora24
 
@@ -106,6 +106,8 @@ This will help us when we are integrating all of the virtual machines together.
 If you need Python, we have installed Anaconda python in the home directory. Use `/home/livetau/anaconda2/bin/python` for Python 2.7 and `/home/livetau/anaconda3/bin/python` for Python 3.5.
 
 ### Instructions for HPCLinux
+
+Only use this image if your workshop cannot run in the Fedora image. Please [email me](mailto:chryswoods@gmail.com) if you cannot use the Fedora image.
 
 This provides a linux installation that has the gcc compilers installed, python, MPI etc. 
 You can download HPCLinux from [this page](http://www.paratools.com/HPCLinux/#Download).
@@ -169,6 +171,10 @@ The venue will be providing wifi. The network is pretty good, with excellent cov
 
 All of the workshop rooms have a projector with computer. The provided computer runs Windows, and provides Powerpoint 2010 and Acrobat Reader. There are VGA and HDMI connectors available if you would prefer to use your own laptop.
 
+## Disk space
+
+There is limited space on the USB sticks that will be used to distribute the VM images to conference attendees. Please try to use as little space as you can. If you need more than 1 GB of space, then [please email me](mailto:chryswoods@gmail.com) and we can discuss your requirements.
+
 ## Submission
 
 When you have developed your workshop, please tar up your workshop directory and [email it to us](mailto:Christopher.Woods@bristol.ac.uk), together with instructions to install any other extra software that you need **before Friday 2nd September**. We will then make sure to install and test everything in the central VM that we will use for the conference itself.
@@ -176,6 +182,14 @@ When you have developed your workshop, please tar up your workshop directory and
 If you have any problems or any questions then please feel free to [get in touch](mailto:Christopher.Woods@bristol.ac.uk). We are very happy to provide help with the preparation of workshops, and are happy to do that via email or Skype.
 
 Thanks again for your contribution,
+
+## Timelines
+
+* Friday 2nd September : Submission deadline
+* Saturday 3rd-Sunday 4th September : Production of the merged VM images
+* Monday 5th-Tuesday 6th September : Testing of the images
+* Wednesday 7th-Friday 9th September : Burning of the images to 220 USB flashdrives
+* Sunday 11th September : USB flashdrives are transported to Manchester
 
 <br/>
 <br/>
