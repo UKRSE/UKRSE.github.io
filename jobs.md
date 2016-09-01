@@ -24,6 +24,8 @@ Job listing format. Earlier closing dates first.
 * [<Job Title>](<link>), <institution>, <location>, <country> - closes <day> <month> <year>
 -->
 
+* [Software Developer](http://www.rullion.co.uk/engineering/job-search/software-developer-670639/), Culham Centre for Fusion Energy, Oxfordshire, UK - 11th September 2016
+
 * [Head of Software Engineering](https://turing.ac.uk/jobs/head-of-software-engineering/), The Alan Turing Institute, London, UK - closes 12 July 2016
 
 * [Research Software Engineer](https://turing.ac.uk/jobs/research-software-engineer/), The Alan Turing Institute, London, UK - closes 19 July 2016
