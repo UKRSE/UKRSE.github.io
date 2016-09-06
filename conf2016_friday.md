@@ -71,7 +71,7 @@ Early Morning: Main Talks
 | Time       | Room          |
 | :-------------     | :-------------  | ----- |
 | 9.00am-9.15am      | Main Auditorium | [Welcome to the second day](conf2016_talks#W2)<br/>Robert Haines, University of Manchester |
-| 9.15am-10.00am     | Main Auditorium | [Keynote Talk](conf2016_talks#K2)<br/>Susan Halford, School of Social Sciences, University of Southampton |
+| 9.15am-10.00am     | Main Auditorium | [Keynote: Digital Data, Methods and Expertise: unsettling the boundaries in the 21st Century](conf2016_talks#K2)<br/>Susan Halford, Director, Web Science Institute, University of Southampton |
 | 10.00am-10.30am    | Main Hall | Refreshments break |
 
 Late Morning: Parallel Talks (Sets of five parallel talks per session. Feel free to choose the talks you wish to attend on the day)
