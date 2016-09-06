@@ -24,4 +24,6 @@ Job listing format. Earlier closing dates first.
 * [<Job Title>](<link>), <institution>, <location>, <country> - closes <day> <month> <year>
 -->
 
+* [Senior Research Data Engineer](https://www.jobs.manchester.ac.uk/displayjob.aspx?jobid=11977), School of Computer Science, University of Manchester, UK - closes 9th September 2016
+
 * [Software Developer](http://www.rullion.co.uk/engineering/job-search/software-developer-670639/), Culham Centre for Fusion Energy, Oxfordshire, UK - 11th September 2016
