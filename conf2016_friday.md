@@ -83,16 +83,13 @@ Late Morning: Parallel Talks (Sets of five parallel talks per session. Feel free
 |                | Dalton / Joule | [Using task-based parallelism to accelerate rational drug design.](conf2016_talks#T1.3)<br/>Christopher Woods, University of Bristol |
 |                | Lovell | [Analysing World Events Using the GDELT dataset and Google BigQuery.](conf2016_talks#T1.4)<br/>Ali Niknejad, Centre for Transport Studies, Imperial College London |
 |                | Whitworth |[PIsCO: A Performance Indicators Framework for Software Metrics.](conf2016_talks#T1.5)<br/>Haydee Artaza Alvarez, The Genome Analysis Centre | 
-
 |       |          |
 | :-------------     | :-------------  | ----- |
-
 |   10.50am-11.10am | Garret 1 | [The Grackle project: turning a research code into a software package.](conf2016_talks#T2.1)<br/>Britton Smith, University of Edinburgh |
 |                | Garret 2 | [Building Re-Useable Research Software at a National Level: A Canadian Perspective](conf2016_talks#T2.2)<br/>Scott Henwood, CANARIE, Canada's National Research and Education Network|
 |                | Dalton / Joule | [Building LLAMA: A highly parallel web application for drug development.](conf2016_talks#T2.3)<br/> Chris Empson, School of Chemistry, University of Leeds |
 |                | Lovell | [Layering for longevity: lessons from 3 decades of fusion data management.](conf2016_talks#T2.4)<br/> Jonathan Hollocombe, Culham Centre for Fusion Energy, UKAEA |
 |               | Whitworth | [GeosMeta: a service for researchers to hold metadata and provenance.](conf2016_talks#T2.5)<br/>Mike Mineter, School of GeoSciences, University of Edinburgh |
-
 |       |          |
 | 11.10am-11.20am      |          | Break to allow you to change rooms
 |       |          |
@@ -100,7 +97,7 @@ Late Morning: Parallel Talks (Sets of five parallel talks per session. Feel free
 | 11.20am-11.40am | Garret 1| [Experiences of bootstrapping a Commercial Research team.](conf2016_talks#T3.1)<br/>Joanna Jordan, Catherine Barnaby, Bath Institute for Mathematical Innovation (IMI) |
 |                | Garret 2 | [Scaling up the software development process, a case study highlighting the complexities of large team software development.](conf2016_talks#T3.2)<br/>Mark Basham, Diamond Light Source |
 |                | Dalton / Joule | [Beyond cron and bash - Event-driven automation for the sequencing core facility.](conf2016_talks#T3.3)<br/>Johan Dahlberg, Department of Medical Sciences, Uppsala University |
-|                | Lovell | | [Reproducible Research software environments using Docker](conf2016_talks#T3.4)<br/> Mark Fernandes, Institute of Food Research |
+|                | Lovell | [Reproducible Research software environments using Docker](conf2016_talks#T3.4)<br/> Mark Fernandes, Institute of Food Research |
 |                | Whitworth | [UK-RSE Networking / Discussion Session](conf2016_talks#T3.5)<br/>UK-RSE |
 |       |          |
 | :-------------     | :-------------  | ----- |
@@ -117,7 +114,6 @@ Late Morning: Parallel Talks (Sets of five parallel talks per session. Feel free
 |               | Garret 2 |[Why is persistently identifying your software a good idea?](conf2016_talks#T5.2)<br/>Catherine Jones, STFC 
 |                | Dalton / Joule | [Modern Fortran in Research Software Engineering.](conf2016_talks#T5.3)<br/>Ian Bush, University of Oxford |
 |                | Lovell | [The future of research software development at Newcastle University.](conf2016_talks#T5.4)<br/>Mark Turner, Newcastle University |
-
 |                |  Whitworth  | [UK-RSE Networking / Discussion Session](conf2016_talks#T3.5)<br/>UK-RSE |
 |       |          |
 | :-------------     | :-------------  | ----- |
