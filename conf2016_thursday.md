@@ -72,7 +72,7 @@ Morning: Main Talks
 | :-------------     | :-------------  | ----- |
 | 10.00am-10.45am    | Main Hall       | Arrival, refreshments and registration |
 | 10.45am-11.15am    | Main Auditorium | [Welcome, and History and Growth of UK-RSE.](conf2016_talks#W1)<br/>Robert Haines and Simon Hettrick, University of Manchester, University of Southampton |
-| 11.15am-12.00noon    | Main Auditorium | [Keynote Talk](conf2016_talks#K1)<br/>Matthew Johnson, Leader of Agile Projects Team, Microsoft Research, Cambridge |
+| 11.15am-12.00noon    | Main Auditorium | [Keynote: Engineering the Future: Research Software Engineering at Microsoft](conf2016_talks#K1)<br/>Matthew Johnson, Leader of Agile Projects Team, Microsoft Research, Cambridge |
 | 12.00noon-12.30pm    | Main Auditorium | [Not everyone can use git: Research Software Engineers’ recommendations for scientist-centred software support (and what researchers think of them).](conf2016_talks#TM1)<br/>Caroline Jay, Rawan Sanyour, Robert Haines, University of Manchester |
 | 12.30pm-1.00pm     | Main Hall       | Conference photo |
 | 1.00pm-2.00pm     | Main Hall       | Lunch  |
