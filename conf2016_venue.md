@@ -84,7 +84,7 @@ Please note that there are a few BlackDog venues in Manchester, so please ensure
 
 ## Map
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1lTzGqK4FwZK4pzs18PFMzlvvbJk" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1lTzGqK4FwZK4pzs18PFMzlvvbJk" width="800" height="500"></iframe>
 
 ## International Attendees
 
