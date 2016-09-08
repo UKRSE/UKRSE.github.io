@@ -68,8 +68,8 @@ td{
 
 The 2016 AGM of UK-RSE will be held from 5.00pm-6.30pm on Thursday 15th September at the Museum of Science and Industry in Manchester. 
 
-###Agenda
-
+Agenda:
+<br/>
 <br/>1700: Welcome, (James Hetherington and Mark Stillwell, outgoing chairs.)
 <br/>1705: Progress and highlights from the past year: (James Hetherington and Mark Stillwell, outgoing chairs.)
 <br/>1715: Introducing ourselves: New committee
