@@ -70,7 +70,7 @@ Credit for the original version of this document goes to [O'Reilly Media](http:/
 
 The RSE Conference is a community conference intended for networking and collaboration in the RSE community.
 
-We value the participation of each member of our community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events, whether officially sponsored by PyCon or not.
+We value the participation of each member of our community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events, whether officially sponsored by UK RSE or not.
 
 To make clear what is expected, all delegates/attendees, speakers, exhibitors, organisers and volunteers at any RSE event are required to conform to the following Code of Conduct. Organisers will enforce this code throughout the event.
 
@@ -104,12 +104,12 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 If the matter is especially urgent, please call/contact any of these individuals:
 
-Rob Haines (Chair) robert.haines@manchester.ac.uk
-Catherine Jones (Diversity chair) catherine.jones@stfc.ac.uk
-Alys Brett (Talks co-chair) alys.brett@ukaea.uk
-Simon Hettrick (Talks co-chair) s.hettrick@software.ac.uk
+* Robert Haines (Chair) robert.haines@manchester.ac.uk
+* Catherine Jones (Diversity chair) catherine.jones@stfc.ac.uk
+* Alys Brett (Talks co-chair) alys.brett@ukaea.uk
+* Simon Hettrick (Talks co-chair) s.hettrick@software.ac.uk
 
-Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+Conference staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
 This Code of Conduct was forked from the example policy from the Geek Feminism wiki, created by the Ada Initiative and other volunteers. which is under a Creative Commons Zero license.
 
