@@ -66,7 +66,7 @@ We value diversity in the communities we bring together, and we welcome your con
 
 Credit for the original version of this document goes to [O'Reilly Media](http://assets.en.oreilly.com/1/eventprovider/1/ConfDiversity.pdf) licensed under the [Creative Commons Attribution 3.0 United States License](http://creativecommons.org/licenses/by/3.0/us/).
 
-##Code of conduct
+## Code of conduct
 
 The RSE Conference is a community conference intended for networking and collaboration in the RSE community.
 
