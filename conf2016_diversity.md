@@ -100,14 +100,7 @@ If a participant engages in behavior that violates this code of conduct, the con
 
 ### Contact Information
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff. Conference staff will be wearing RSE t-shirts and wearing yellow lanyards.
-
-If the matter is especially urgent, please call/contact any of these individuals:
-
-* Robert Haines (Chair) robert.haines@manchester.ac.uk
-* Catherine Jones (Diversity chair) catherine.jones@stfc.ac.uk
-* Alys Brett (Talks co-chair) alys.brett@ukaea.uk
-* Simon Hettrick (Talks co-chair) s.hettrick@software.ac.uk
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff. Conference staff will be wearing RSE t-shirts and wearing yellow lanyards. You can also raise any concerns using the email address info@rse.ac.uk which will be received by all conference chairs, or by using the emergency contact details found in your conference bag.
 
 Conference staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
