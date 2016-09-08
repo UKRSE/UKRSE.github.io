@@ -101,7 +101,7 @@ Evening : AGM and Conference Dinner
 
 | Time       | Room          |
 | :-------------     | :-------------  | ----- |
-| 5.00pm-6.30pm    | Main Auditorium   |[UK-RSE Annual General Meeting.](conf2016_agm)<br/>Any conference attendee or member of UK-RSE is allowed to attend this extra event. For more details, including how to attend via Skype, please [click here](conf2016_agm)  |
+| 5.00pm-6.30pm    | Main Auditorium   |[UK-RSE Annual General Meeting.](conf2016_agm)<br/>Any conference attendee or member of UK-RSE is allowed to attend this extra event - meet the new committee and contribute your ideas!  |
 | 7.00pm-9.00pm    | To be announced   | [Conference Dinner.](conf2016_dinner)<br/> This is included for free with registration. For more information please [click here](conf2016_dinner) |
 
 [Click here to see Friday's programme](conf2016_friday)
