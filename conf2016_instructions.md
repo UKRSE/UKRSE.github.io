@@ -68,7 +68,7 @@ On the USB drive you will find a file called `UKRSE-Fedora.ova`. To install the 
 
 <img src="images/vm_rse01.jpg" alt="Insert the path to the UKRSE-Fedora.ova file" style="width: 60%;"/>
 
-Click "Continue" to select this file. Next, click `Import` to import the image. This will take some time, and will take up XXX GB on your disk.
+Click "Continue" to select this file. Next, click `Import` to import the image. This will take some time, and will take up 25 GB on your disk.
 
 <img src="images/vm_rse02.jpg" alt="Click import to import the image" style="width: 60%;"/>
 
