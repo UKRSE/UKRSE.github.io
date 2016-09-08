@@ -45,7 +45,7 @@ title: RSE 2016 | Venue
 </ul>
 </div>
 
-### Getting to the venue
+## Getting to the venue
 
 The conference will be held at the 
 [Museum of Science and Industry, Manchester](http://msimanchester.org.uk/). The [museum website](http://msimanchester.org.uk/visit) provides excellent directions on how to get to the venue. 
@@ -68,15 +68,15 @@ and costs £6 when you tell them that you are visiting the Museum of Science and
 There are only two spaces for Blue Badge holders on Lower Byrom Street, next to the
 main entrance of the museum.
 
-### Registration
-
-Registration opens at 10.00 on 15 September. Enter through the main entrance to the museum, head past the museum's reception desk and through the doors on the left. Use the stairs or the lift to get to the second floor and you will see the registration desk once you come out of the stairwell.
-
 ### Wifi
 
 To connect to the Wi-Fi, select the “SMG-Guests” network and enter the username: Events and password: Events.
 
-### Conference dinner
+## Registration
+
+Registration opens at 10.00 on 15 September. Enter through the main entrance to the museum, head past the museum's reception desk and through the doors on the left. Use the stairs or the lift to get to the second floor and you will see the registration desk once you come out of the stairwell.
+
+## Conference dinner
 
 The conference dinner will take place on the top floor of [BlackDog Ballroom New Wakefield Street](http://blackdogballroom.co.uk/nws) (BlackDog Ballroom NWS). The address is 11-13 New Wakefield St, Manchester M1 5NP and it is 15 mins walk from MOSI.
 
@@ -86,7 +86,7 @@ Please note that there are a few BlackDog venues in Manchester, so please ensure
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2374.5044093418987!2d-2.257151083948475!3d53.47731667259381!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487bb1e7815c44db%3A0x417132a42bd93ef6!2sMuseum+of+Science+and+Industry!5e0!3m2!1sen!2suk!4v1461250419290" width="600" height="450" frameborder="0" style="width:100%;border:0" allowfullscreen></iframe>
 
-### International Attendees
+## International Attendees
 
 If you are travelling from outside the UK, then you have many options for getting to Manchester. 
 
