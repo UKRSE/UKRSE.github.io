@@ -45,7 +45,7 @@ title: RSE 2016 | Venue
 </ul>
 </div>
 
-###Getting to the venue
+### Getting to the venue
 
 The conference will be held at the 
 [Museum of Science and Industry, Manchester](http://msimanchester.org.uk/). The [museum website](http://msimanchester.org.uk/visit) provides excellent directions on how to get to the venue. 
@@ -68,11 +68,11 @@ and costs £6 when you tell them that you are visiting the Museum of Science and
 There are only two spaces for Blue Badge holders on Lower Byrom Street, next to the
 main entrance of the museum.
 
-###Registration
+### Registration
 
 Registration opens at 10.00 on 15 September. Enter through the main entrance to the museum, head past the museum's reception desk and through the doors on the left. Use the stairs or the lift to get to the second floor and you will see the registration desk once you come out of the stairwell.
 
-###Wifi
+### Wifi
 
 To connect to the Wi-Fi, select the “SMG-Guests” network and enter the username: Events and password: Events.
 
