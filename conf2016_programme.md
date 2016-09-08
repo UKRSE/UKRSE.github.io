@@ -50,12 +50,13 @@ The conference has a full programme of talks and workshops, the details of which
 
 * [Programme for Thursday 15th September](conf2016_thursday)
 * [Programme for Friday 16th September](conf2016_friday)
+* [Which workshop am I attending?](https://drive.google.com/file/d/0B_KkGMZ8ACfaYjNhM3lMbmhUVUk/view)
 
 In addition, abstracts for all talks and workshops are available:
 
 * [Abstracts for all talks](conf2016_talks)
 * [Abstracts for all workshops](conf2016_workshops)
-* Which workshop am I attending? [Here's a list of attendees at each workshop](https://drive.google.com/file/d/0B_KkGMZ8ACfaYjNhM3lMbmhUVUk/view)
+
 
 Talks will be published as short papers in a special issue of the [Journal of Open Research Software](http://openresearchsoftware.metajnl.com/).
 
