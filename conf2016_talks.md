@@ -78,6 +78,8 @@ A welcome to the conference, and a background and history of UK-RSE.
 **Keynote: Engineering the Future: Research Software Engineering at Microsoft**<br/>
 Matthew Johnson, Leader of Agile Projects Team, Microsoft Research, Cambridge<br/>
 
+For twenty five years, Microsoft Research has been one of the premier computer science research institutions in the world, and a large part of its continued success has been due to the crucial role research software engineers have played throughout its history. In this talk, I will highlight several projects from our past and present as viewed through the lens of the research software engineers that made them a reality.
+
 ### <a name="M1"></a>Main Talk 1
 
 **Not everyone can use git: Research Software Engineers’ recommendations for scientist-centred software support (and what researchers think of them).**<br/>
