@@ -104,8 +104,6 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 Conference staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
-This Code of Conduct was forked from the example policy from the Geek Feminism wiki, created by the Ada Initiative and other volunteers. which is under a Creative Commons Zero license.
-
 ### Licence
 
 This Code of Conduct was forked from the example policy from the Geek Feminism wiki, created by the Ada Initiative and other volunteers, which is under a Creative Commons Zero license, and then [adapted by PyCon](https://us.pycon.org/2013/about/code-of-conduct/) and licensed under a under a Creative Commons Attribution 3.0 Unported License.
