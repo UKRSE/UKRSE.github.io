@@ -60,7 +60,7 @@ If you are attending one of the practical workshops (A1-A4, B1-B4 or C1-C4, atte
 
 The workshops will run inside a custom Fedora Linux Virtual Machine Image within VirtualBox. This will be supplied to you at Manchester on a USB drive. Please make sure that you install this image before starting the first workshop (instructions below on how to do this). Feel free to ask any member of the conference committee, or the conference volunteers over lunch on Thursday, if you need any help.
 
-If you want to install the Virtual Machine Image before coming to Manchester, you can download it [from here](https://drive.google.com/open?id=0B-yOUgABf0mBaVBLMTRUb1Zncjg). Beware, as it is pretty big (13 GB) and may take a long time to download. If you are interested, the full contents of the USB drive are available [here](https://drive.google.com/open?id=0B_KkGMZ8ACfadjNKYU9GSzFpTm8).
+If you want to install the Virtual Machine Image before coming to Manchester, you can download it [from here](http://bit.ly/RSEDownload). Beware, as it is pretty big (13 GB) and may take a long time to download. If you are interested, the full contents of the USB drive are available [here](https://drive.google.com/open?id=0B_KkGMZ8ACfadjNKYU9GSzFpTm8).
 
 ## Installing the VirtualBox Virtual Machine Image
 
