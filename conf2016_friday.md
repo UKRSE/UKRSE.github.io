@@ -70,8 +70,8 @@ Early Morning: Main Talks
 
 | Time       | Room          |
 | :-------------     | :-------------  | ----- |
-| 9.00am-9.15am      | Main Auditorium | [Welcome to the second day](conf2016_talks#W2)<br/>Robert Haines, University of Manchester |
-| 9.15am-10.00am     | Main Auditorium | [Keynote: Digital Data, Methods and Expertise: unsettling the boundaries in the 21st Century](conf2016_talks#K2)<br/>Susan Halford, Director, Web Science Institute, University of Southampton |
+| 9.00am-9.15am      | Garratt 1+2 | [Welcome to the second day](conf2016_talks#W2)<br/>Robert Haines, University of Manchester |
+| 9.15am-10.00am     | Garratt 1+2 | [Keynote: Digital Data, Methods and Expertise: unsettling the boundaries in the 21st Century](conf2016_talks#K2)<br/>Susan Halford, Director, Web Science Institute, University of Southampton |
 | 10.00am-10.30am    | Main Hall | Refreshments break |
 
 Late Morning: Parallel Talks (Sets of five parallel talks per session. Feel free to choose the talks you wish to attend on the day)
@@ -123,18 +123,18 @@ Afternoon : Workshops (Five parallel sessions. Please choose at registration whi
 
 | Time       |           |
 | :-------------     | :-------------  | ----- |
-| 2.00pm-3.15pm  | Workshop C1 | [Task-based parallel programming in C++ or Python](conf2016_workshops#C1).<br/>Christopher Woods, University of Bristol |
-|                | Workshop C2 | [Using software containers for reproducible experiments](conf2016_workshops#C2).<br/>Frédéric Osterrath, CRIM |
-|                | Workshop C3 | [Introduction to concurrent programming with Go](conf2016_workshops#C3).<br/>Sebastien Binet, CNRS/IN2P3 |
-|                | Workshop C4 | [Using EUDAT as your data management tool](conf2016_workshops#C4).<br/>Shaun de Witt, CCFE |
-|                | Workshop C5 | [Discussion: Be a happy RSE](conf2016_workshops#C5).<br/>Samin Ishtiaq, Microsoft Research |
+| 2.00pm-3.15pm  | Workshop C1, Dalton/Joule | [Task-based parallel programming in C++ or Python](conf2016_workshops#C1).<br/>Christopher Woods, University of Bristol |
+|                | Workshop C2, Garratt 2 | [Using software containers for reproducible experiments](conf2016_workshops#C2).<br/>Frédéric Osterrath, CRIM |
+|                | Workshop C3, Lovell | [Introduction to concurrent programming with Go](conf2016_workshops#C3).<br/>Sebastien Binet, CNRS/IN2P3 |
+|                | Workshop C4, Whitworth | [Using EUDAT as your data management tool](conf2016_workshops#C4).<br/>Shaun de Witt, CCFE |
+|                | Workshop C5, Garratt 1 | [Discussion: Be a happy RSE](conf2016_workshops#C5).<br/>Samin Ishtiaq, Microsoft Research |
 
 Late Afternoon : Refreshments and conference wrap-up
 
 | Time       | Room          |
 | :-------------     | :-------------  | ----- |
 | 3.15pm-3.45pm      | Main Hall       | Refreshments break |
-| 3.45pm-4.15pm      | Main Auditorium      | [Conference wrap-up talk and feedback.](conf2016_talks#W3)<br/>Robert Haines, University of Manchester  |
+| 3.45pm-4.15pm      | Garratt 1+2   | [Conference wrap-up talk and feedback.](conf2016_talks#W3)<br/>Robert Haines, University of Manchester  |
 
 [Click here to see Thursday's programme](conf2016_thursday)
 
