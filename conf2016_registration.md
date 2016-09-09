@@ -49,10 +49,6 @@ title: RSE 2016 | Registration
 
 **We have now sold all tickets to register for the conference**
 
-We are in the process of setting up a waiting list and will put details about that up shortly.
-
-If you are a sponsor, speaker or workshop presenter who needs to complete registration, then please [get in touch](mailto:info@rse.ac.uk).
-
 ## WSSSPE4 Workshop
 
 You may also be interested in registering for the 4th Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE4). This will be held from the 12th-14th September, immediately before the RSE conference, and also in Manchester. For more information, please visit the [WSSSPE4 website](http://wssspe.researchcomputing.org.uk/wssspe4/).

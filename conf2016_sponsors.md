@@ -75,14 +75,6 @@ We are pleased to announce [Intel](http://www.intel.com/content/www/us/en/compan
 
 ## Bronze sponsors
 
-Although our Gold and Silver options have been taken, Bronze sponsorship is still available.
-
-1. Exhibition table
-2. Logo on website and promotional materials
-3. Free registration for two people
-
-Cost £1,500
-
 We can now announce the following Bronze sponsors!
 
 The [Scientific Computing Department (SCD) at STFC](http://www.scd.stfc.ac.uk/SCD/) develops and utilises its expertise and relationships to establish leadership positions on the provision and support of scientific computing infrastructures and the research and development of scientific applications. This increases the UK’s scientific and economic impact by the creation of innovative solutions. SCD provides the computing, data storage, networking infrastructure and applications required by today's advanced science facilities to support the complete scientific life cycle, from background research, through simulation and experimental design, data collection and analysis to publication.
@@ -95,11 +87,9 @@ The [Scientific Computing Department (SCD) at STFC](http://www.scd.stfc.ac.uk/SC
 
 ## Other options
 
-In addition to the other sponsorship options, you can also sponsor a coffee break
-or the conference dinner. You can provide travel bursaries to RSE who do not have
-access to funds. Or you can provide support or even prizes for workshops or talks.
+[CCPBioSim](http://www.ccpbiosim.ac.uk) has kindly provided sponsorship for two of the poster prizes. CCPBioSim (Collaborative Computational Project for Biomolecular Simulation) is an inclusive and wide ranging project, bringing together chemists, physicist and chemical engineers as well as researchers from all branches of "molecule-oriented" biochemistry and biology. Our aim is to involve experimentalists and computational specialists, sharing the belief that the best science can be done when theory and experiment are closely integrated. CCPBioSim engages with early career researchers and the non expert through the provision of tutorials and workshops enabling them to become proficient and productive users of biomolecular simulation techniques. We are also actively engaged in developing new advanced methods, which in future will be used by our community to deliver new and exciting science.
 
-If you have something in mind, or would like to discuss options, [please get in touch](mailto:info@rse.ac.uk).
+[CCP5](http://www.ccp5.ac.uk) has kindly provided sponsorship for two of the poster prizes. CCP5 is the Collaborative Computational Project for computer simulation of condensed phase materials at length scales spanning from atomistic to mesoscopic levels. Materials of interest are such as liquids, polymers, solids, surface materials and macromolecules. CCP5 is a very active research community funded predominantly by the Engineering and Physical Sciences Research Council (EPSRC) of Great Britain. It was founded more than 30 years ago to promote the involvement of UK scientists in collaborative research in this area. The idea is to harness a variety of expertises among the Community Members and to foster collaborations in a friendly and cooperative environment so as to carry out world-class researches effectively, both in terms of costs and efforts. The UK has a large and successful research community engaged this area of work. CCP5 plays a key role in achieving communication across this large community. The Project has a high international profile: approximately 75 % of the large membership (currently around 1200 members) is from overseas.
 
 <br/><br/><br/>
 

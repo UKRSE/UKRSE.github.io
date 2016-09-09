@@ -47,19 +47,7 @@ title: RSE 2016 | Home
 
 # Promotional Materials for the Conference
 
-The success of this meeting depends greatly on you. Please help us to promote the meeting using the materials below;
-
-## Posters
-
-Please help spread the word about the [opening of registration](conf2016_registration) by sharing [this poster](RSEConf16_Poster_Flyer_July16.pdf).
-
-<a href="RSEConf16_Poster_Flyer_July16.pdf">
-  <img src="images/RSEConf16_Poster_Flyer_July16.jpg"
-       alt="image of the poster flyer"
-       style="width: 30%"/>
-</a>
-
-## Twitter
+The success of this meeting depends greatly on you. Please help us to promote the meeting using twitter or writing blog posts.
 
 Please use the hashtag #RSE16 to help spread the word about this conference. Please feel free to tweet questions, announce your attendance, to comment during the conference etc.
 
