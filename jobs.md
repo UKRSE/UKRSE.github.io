@@ -25,3 +25,5 @@ Job listing format. Earlier closing dates first.
 -->
 
 * [Research Software Engineering Specialist](http://ig5.i-grasp.com/fe/tpl_UniversityOfLeicester01.asp?newms=jj&id=97367&aid=16996), University of Leicester, UK - closes 30th September 2016
+
+* [Scientific Software Developers (two posts)](https://www.mpi-cbg.de/education-careers/jobs/article/news/scientific-software-developersprogrammers-mf/), Max Planck Institute, Dresden, Germany - closes 9th October 2016
