@@ -23,5 +23,6 @@ COLUMN_SEPARATOR
 Country | Organization | Group(s)
 -------:|:------------:|:--------
 Canada | CANARIE | [Research Software Program](https://science.canarie.ca)
+Canada | Perimeter Institute for Theoretical Physics | Research Computing Group
 USA | Argonne National Laboratory | PETSc Team
 USA | National Center for Supercomputing Applications (NCSA) at University of Illinois Urbana-Champaign | parts of various groups
