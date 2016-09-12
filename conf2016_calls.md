@@ -36,8 +36,10 @@ title: RSE 2016 | Calls
   <li><a href="conf2016">Home</a></li>
   <li><a href="conf2016_programme">Programme</a></li>
   <li><a href="conf2016_venue">Venue</a></li>
-  <li><a href="conf2016_calls">Calls</a></li>
+  <li><a href="conf2016_accommodation">Hotels</a></li>
+  <li><a href="conf2016_diversity">Diversity</a></li>
   <li><a href="conf2016_registration">Registration</a></li>
+  <li><a href="conf2016_promotion">Promotion</a></li>
   <li><a href="conf2016_sponsors">Sponsorship</a></li>
   <li><a href="conf2016_contact">Contacts</a></li>
 </ul>
@@ -49,7 +51,7 @@ If you want to help others learn about a new tool, technology or methodology, th
 
 If selected, your workshop will be one of 12 that will be presented during the conference. These will be held in three sessions, with four workshops run in parallel (see [the programme](http://www.rse.ac.uk/conf2016_programme))
 
-For more details about submitting a workshop, [read the workshop page](conf2016_calls_workshops).
+**For more information, and to submit a workshop, [visit the workshop page](conf2016_calls_workshops).**
 
 ## Call for talks
 
@@ -59,7 +61,7 @@ We’re also interested in other topics related to software in research and how 
 
 20 talks will be presented during the conference, each lasting 15 minutes with an additional 5 minutes for questions. They will be held in three sessions, with four talks running in parallel (see [the programme](http://www.rse.ac.uk/conf2016_programme)).
 
-For more details about submitting a talk, [read the talk page](conf2016_calls_talks).
+**For more information, and to submit a talk, [visit the talk page](conf2016_calls_talks).**
 
 <br/>
 <br/>

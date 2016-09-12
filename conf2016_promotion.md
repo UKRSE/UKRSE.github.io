@@ -1,6 +1,6 @@
 ---
 layout: single
-title: RSE 2016 | Programme
+title: RSE 2016 | Home
 ---
 
 <style>
@@ -45,24 +45,12 @@ title: RSE 2016 | Programme
 </ul>
 </div>
 
+# Promotional Materials for the Conference
 
-The conference has a full programme of talks and workshops, the details of which are below:
+The success of this meeting depends greatly on you. Please help us to promote the meeting using twitter or writing blog posts.
 
-* [Programme for Thursday 15th September](conf2016_thursday)
-* [Programme for Friday 16th September](conf2016_friday)
-* [Which workshop am I attending?](https://drive.google.com/file/d/0B_KkGMZ8ACfaYjNhM3lMbmhUVUk/view)
-
-In addition, abstracts for all talks and workshops are available:
-
-* [Abstracts for all talks](conf2016_talks)
-* [Abstracts for all workshops](conf2016_workshops)
-
-
-Talks will be published as short papers in a special issue of the [Journal of Open Research Software](http://openresearchsoftware.metajnl.com/).
-
-![Journal of Open Research Software logo][jors-logo]
+Please use the hashtag #RSE16 to help spread the word about this conference. Please feel free to tweet questions, announce your attendance, to comment during the conference etc.
 
 <br/>
 <br/>
-
-[jors-logo]: http://openresearchsoftware.metajnl.com/static/images/header.png
+<br/>

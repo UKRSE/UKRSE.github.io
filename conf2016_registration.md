@@ -36,14 +36,22 @@ title: RSE 2016 | Registration
   <li><a href="conf2016">Home</a></li>
   <li><a href="conf2016_programme">Programme</a></li>
   <li><a href="conf2016_venue">Venue</a></li>
-  <li><a href="conf2016_calls">Calls</a></li>
+  <li><a href="conf2016_accommodation">Hotels</a></li>
+  <li><a href="conf2016_diversity">Diversity</a></li>
   <li><a href="conf2016_registration">Registration</a></li>
+  <li><a href="conf2016_promotion">Promotion</a></li>
   <li><a href="conf2016_sponsors">Sponsorship</a></li>
   <li><a href="conf2016_contact">Contacts</a></li>
 </ul>
 </div>
 
-<iframe style="width:100%;height:1000px" src="https://docs.google.com/forms/d/13UDEEL4YeWeo-e7ioUVqdxfMul3aG7mAIbUU3iUF_aI/viewform?edit_requested=true"></iframe>
+## Registration for the conference is now closed
+
+**We have now sold all tickets to register for the conference**
+
+## WSSSPE4 Workshop
+
+You may also be interested in registering for the 4th Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE4). This will be held from the 12th-14th September, immediately before the RSE conference, and also in Manchester. For more information, please visit the [WSSSPE4 website](http://wssspe.researchcomputing.org.uk/wssspe4/).
 
 <br/>
 <br/>

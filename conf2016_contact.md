@@ -36,15 +36,20 @@ title: RSE 2016 | Contacts
   <li><a href="conf2016">Home</a></li>
   <li><a href="conf2016_programme">Programme</a></li>
   <li><a href="conf2016_venue">Venue</a></li>
-  <li><a href="conf2016_calls">Calls</a></li>
+  <li><a href="conf2016_accommodation">Hotels</a></li>
+  <li><a href="conf2016_diversity">Diversity</a></li>
   <li><a href="conf2016_registration">Registration</a></li>
+  <li><a href="conf2016_promotion">Promotion</a></li>
   <li><a href="conf2016_sponsors">Sponsorship</a></li>
   <li><a href="conf2016_contact">Contacts</a></li>
 </ul>
 </div>
 
-If you have any questions about the conference, then please feel
-free to get in touch with the appropriate person as listed below.
+If you have any questions about the conference, please contact the conference organisers [info@rse.ac.uk](mailto:info@rse.ac.uk).
+
+Latest updates about the conference will be available at [@ResearchSoftEng](https://twitter.com/ResearchSoftEng). The hastag for the event is #RSE16.
+
+If you have a specific question, feel free to get in touch with the appropriate person as listed below.
 
 * Conference Chair - [Robert Haines](mailto:Robert.Haines@manchester.ac.uk)
 * Conference Coordinator - [Claire Wyatt](mailto:C.Wyatt@soton.ac.uk )
