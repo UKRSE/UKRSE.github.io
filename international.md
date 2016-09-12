@@ -25,3 +25,4 @@ Country | Organization | Group(s)
 Canada | CANARIE | [Research Software Program](https://science.canarie.ca)
 USA | Argonne National Laboratory | PETSc Team
 USA | National Center for Supercomputing Applications (NCSA) at University of Illinois Urbana-Champaign | parts of various groups
+Sweden | Developer group at [Naional Bioinformatics Infrastructure Sweden](http://nbis.se) | Multiple groups within Sweden
