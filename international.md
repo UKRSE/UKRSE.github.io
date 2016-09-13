@@ -24,5 +24,7 @@ Country | Organization | Group(s)
 -------:|:------------:|:--------
 Canada | CANARIE | [Research Software Program](https://science.canarie.ca)
 Canada | Perimeter Institute for Theoretical Physics | Research Computing Group
+South Africa | University of Cape Town | eResearch and Computational Biology Division (developers employed by the Division)
+South Africa | University of the Western Cape | South African National Bioinformatics Institute (developers/devops employed by the Institute) 
 USA | Argonne National Laboratory | PETSc Team
 USA | National Center for Supercomputing Applications (NCSA) at University of Illinois Urbana-Champaign | parts of various groups
