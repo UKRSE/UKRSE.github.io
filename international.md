@@ -28,3 +28,4 @@ South Africa | University of Cape Town | eResearch and Computational Biology Div
 South Africa | University of the Western Cape | South African National Bioinformatics Institute (developers/devops employed by the Institute) 
 USA | Argonne National Laboratory | PETSc Team
 USA | National Center for Supercomputing Applications (NCSA) at University of Illinois Urbana-Champaign | parts of various groups
+USA | RENCI at the University of North Carolina at Chapel Hill | parts of various groups
