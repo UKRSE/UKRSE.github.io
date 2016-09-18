@@ -20,15 +20,20 @@ Research Software Engineers.
 
 COLUMN_SEPARATOR
 
-The Committee 2014/2015
+The Committee 2016/2017
 -----------------------
 
-* [James Hetherington](https://iris.ucl.ac.uk/iris/browse/profile?upi=JHETH53) - Chair
-* [Mark Stillwell]() - Chair
-* [Caroline Johnston](http://cassjohnston.wordpress.com/) - Treasurer
-* [Florian Rathgeber]() - Events
-* [Jonathan Boyle]() - Publicity
-* [Robert Haines](http://software.ac.uk/fellows/robert-haines) - Web
-* [Dirk Gorrisen](http://dirkgorissen.com/) - Without portfolio
-* [Adam Witney]() - Without portfolio
+## Joint Chairs
+* [Alys Brett]()
+* [Christopher Woods](http://chryswoods.com)
+
+## Elected Committee
+* [Mark Turner]()
+* [Robert Haines](http://software.ac.uk/fellows/robert-haines)
+* [Mihaela Duta]()
+* [Matthew Johnson]()
+* [Illian Todorov]()
+* [Hannes Loeffler]()
+
+## SSI Representative
 * [Simon Hettrick](http://www.software.ac.uk/about/people/simon-hettrick)
