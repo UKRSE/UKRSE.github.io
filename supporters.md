@@ -24,16 +24,16 @@ The Committee 2016/2017
 -----------------------
 
 ## Joint Chairs
-* [Alys Brett]()
+* [Alys Brett](http://software.ac.uk/fellows/alys-brett)
 * [Christopher Woods](http://chryswoods.com)
 
 ## Elected Committee
-* [Mark Turner]()
+* [Mark Turner](http://www.ncl.ac.uk/computing/people/profile/mark.turner)
 * [Robert Haines](http://software.ac.uk/fellows/robert-haines)
-* [Mihaela Duta]()
-* [Matthew Johnson]()
-* [Illian Todorov]()
-* [Hannes Loeffler]()
+* [Mihaela Duta](https://www.psy.ox.ac.uk/team/mihaela-duta)
+* [Matthew Johnson](https://www.microsoft.com/en-us/research/people/matjoh/)
+* [Illian Todorov](http://www.scd.stfc.ac.uk/organisation/42436.aspx?p=Computational%20Chemistry/Todorov/)
+* [Hannes Loeffler](http://www.scd.stfc.ac.uk/organisation/42436.aspx?p=Biology%20and%20Life%20Sciences/Loeffler/)
 
 ## SSI Representative
 * [Simon Hettrick](http://www.software.ac.uk/about/people/simon-hettrick)
