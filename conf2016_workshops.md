@@ -208,6 +208,7 @@ Ability to reproduce a software experiment is critical for research software eng
 **Introduction to concurrent programming with Go**<br/>
 Sebastien Binet, CNRS/IN2P3<br/>
 
+[Link to course material](https://github.com/sbinet/rse-conf-go-2016)
 
 In this workshop, we will introduce the basics of programming in Go and
 then work our way up to concurrency programming with this relatively new
