@@ -68,7 +68,7 @@ td{
 
 ### <a name="W1"></a>Welcome Talk (Thursday)
 
-**Welcome, and History and Growth of UK-RSE.**<br/>
+**Welcome, and <a href="http://slides.com/simonhettrick/why-we-need-careers-for-research-software-engineers-10-13-17#/">History and Growth of UK-RSE</a>.**<br/>
 Robert Haines and Simon Hettrick, University of Manchester, University of Southampton<br/>
 
 A welcome to the conference, and a background and history of UK-RSE.
