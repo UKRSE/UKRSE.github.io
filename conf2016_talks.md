@@ -232,7 +232,7 @@ This talk focuses on one of the software projects undertaken to unify and improv
  
 ### <a name="T3.3"></a>Talk 3.3
 
-**Beyond cron and bash - Event-driven automation for the sequencing core facility**<br/>
+<a href="https://drive.google.com/open?id=0BxBBX2agSwZhZ2xpc2x2bUd3d2c">Beyond cron and bash - Event-driven automation for the sequencing core facility</a><br/>
 Johan Dahlberg, Department of Medical Sciences, Uppsala University<br/>
 
 Science is becoming industrialized. This has been especially true in genomics where technology advancements in massive parallel sequencing has underpinned hyper-exponential growth in the field. Handling the data produced by these experiments can be a daunting task, and is one typically handled by a sequencing core facility. The current norm in this space is one facility - one solution. This creates a situation where sharing components is difficult - something we address with the Arteria project.
