@@ -28,6 +28,7 @@ South Africa | University of Cape Town | eResearch and Computational Biology Div
 South Africa | University of the Western Cape | South African National Bioinformatics Institute (developers/devops employed by the Institute) 
 Sweden | Developer group at [National Bioinformatics Infrastructure Sweden](http://nbis.se) | Multiple groups within Sweden
 USA | Argonne National Laboratory | PETSc Team
+USA | Louisiana State University, Center for Computation and Technology | [HPC enablement group](https://www.cct.lsu.edu/programs/hpc-enablement)
 USA | National Center for Supercomputing Applications (NCSA) at University of Illinois Urbana-Champaign | parts of various groups
 USA | RENCI at the University of North Carolina at Chapel Hill | parts of various groups
 USA | Indiana University | Data to Insight Center (D2I) and Pervasive Technology Institute  (PTI)
