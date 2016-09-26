@@ -25,7 +25,7 @@ Country | Organization | Group(s)
 Canada | CANARIE | [Research Software Program](https://science.canarie.ca)
 Canada | Perimeter Institute for Theoretical Physics | Research Computing Group
 South Africa | University of Cape Town | eResearch and Computational Biology Division (developers employed by the Division)
-South Africa | University of the Western Cape | South African National Bioinformatics Institute (developers/devops employed by the Institute) 
+South Africa | University of the Western Cape | South African National Bioinformatics Institute (developers/devops employed by the Institute)
 Sweden | Developer group at [National Bioinformatics Infrastructure Sweden](http://nbis.se) | Multiple groups within Sweden
 USA | Argonne National Laboratory | PETSc Team
 USA | Louisiana State University, Center for Computation and Technology | [HPC enablement group](https://www.cct.lsu.edu/programs/hpc-enablement)
