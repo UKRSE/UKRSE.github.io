@@ -23,6 +23,7 @@ Job listing format. Earlier closing dates first.
 
 * [<Job Title>](<link>), <institution>, <location>, <country> - closes <day> <month> <year>
 -->
+* [Read Until Software Developer](https://jobs.nottingham.ac.uk/Vacancy.aspx?id=9729&forced=1), University of Nottingham, UK - closes 30th September 2016
 
 * [Research Software Engineering Specialist](http://ig5.i-grasp.com/fe/tpl_UniversityOfLeicester01.asp?newms=jj&id=97367&aid=16996), University of Leicester, UK - closes 30th September 2016
 
