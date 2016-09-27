@@ -101,7 +101,7 @@ Robert Haines, University of Manchester<br/>
 
 ### <a name="K2"></a>Keynote Talk 2
 
-**Keynote: Digital Data, Methods and Expertise: unsettling the boundaries in the 21st Century**<br/>
+**Keynote: <a href="https://drive.google.com/open?id=0B4bzukRbO8CcbXJxWEFXNU1Nd3c">Digital Data, Methods and Expertise: unsettling the boundaries in the 21st Century</a>**<br/>
 Susan Halford, School of Social Sciences, University of Southampton<br/>
 
 <hr/>
