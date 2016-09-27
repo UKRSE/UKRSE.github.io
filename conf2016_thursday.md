@@ -66,7 +66,7 @@ td{
 
 ## Thursday 15th September 2016
 
-Slides from most talks area available on the [abstracts page](http://www.rse.ac.uk/conf2016_talks).
+Slides from most talks are available on the [abstracts page](http://www.rse.ac.uk/conf2016_talks).
 
 Morning: Main Talks
 
