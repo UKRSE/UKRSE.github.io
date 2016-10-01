@@ -23,7 +23,6 @@ Job listing format. Earlier closing dates first.
 
 * [<Job Title>](<link>), <institution>, <location>, <country> - closes <day> <month> <year>
 -->
-* [Read Until Software Developer](https://jobs.nottingham.ac.uk/Vacancy.aspx?id=9729&forced=1), University of Nottingham, UK - closes 30th September 2016
 
 * [Research Software Engineering Specialist](http://ig5.i-grasp.com/fe/tpl_UniversityOfLeicester01.asp?newms=jj&id=97367&aid=16996), University of Leicester, UK - closes 30th September 2016
 
@@ -34,5 +33,3 @@ University of Oxford, UK - closes 26th of September 2016
 
 * [Head of Research Computing and Support Services](https://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=123430)
 University of Oxford, UK - closes 3rd of October 2016
-
-
