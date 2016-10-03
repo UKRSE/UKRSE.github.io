@@ -16,6 +16,7 @@ COLUMN_SEPARATOR
 Vacancies for Research Software Engineers
 -----------------------
 
+
 <!--- *There are no vacancies that we know of at present. Please let us know if you have one.* -->
 
 <!---
@@ -28,3 +29,5 @@ Job listing format. Earlier closing dates first.
 University of Oxford, UK - closes 3rd October 2016
 
 * [Scientific Software Developers (two posts)](https://www.mpi-cbg.de/education-careers/jobs/article/news/scientific-software-developersprogrammers-mf/), Max Planck Institute, Dresden, Germany - closes 9th October 2016
+
+* [Software Developer](https://www.manchesterdigital.com/vacancy/software-developer-6), Clin-e-cal, Manchester, UK - closes 31st October 2016
