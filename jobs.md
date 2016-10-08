@@ -25,9 +25,6 @@ Job listing format. Earlier closing dates first.
 * [<Job Title>](<link>), <institution>, <location>, <country> - closes <day> <month> <year>
 -->
 
-* [Head of Research Computing and Support Services](https://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=123430)
-University of Oxford, UK - closes 3rd October 2016
-
 * [Scientific Software Developers (two posts)](https://www.mpi-cbg.de/education-careers/jobs/article/news/scientific-software-developersprogrammers-mf/), Max Planck Institute, Dresden, Germany - closes 9th October 2016
 
 * [Software Developer](https://www.manchesterdigital.com/vacancy/software-developer-6), Clin-e-cal, Manchester, UK - closes 31st October 2016
