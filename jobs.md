@@ -25,6 +25,4 @@ Job listing format. Earlier closing dates first.
 * [<Job Title>](<link>), <institution>, <location>, <country> - closes <day> <month> <year>
 -->
 
-* [Scientific Software Developers (two posts)](https://www.mpi-cbg.de/education-careers/jobs/article/news/scientific-software-developersprogrammers-mf/), Max Planck Institute, Dresden, Germany - closes 9th October 2016
-
 * [Software Developer](https://www.manchesterdigital.com/vacancy/software-developer-6), Clin-e-cal, Manchester, UK - closes 31st October 2016
