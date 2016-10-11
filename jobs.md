@@ -25,6 +25,8 @@ Job listing format. Earlier closing dates first.
 * [<Job Title>](<link>), <institution>, <location>, <country> - closes <day> <month> <year>
 -->
 
+* [Visualization Scientist](http://www.jobs.ac.uk/job/AUP545/visualisation-scientist/), STFC, Didcot, UK - closes 30th October 2016
+
 * [Software Developer](https://www.manchesterdigital.com/vacancy/software-developer-6), Clin-e-cal, Manchester, UK - closes 31st October 2016
 
 * [RSE/Computational Scientist/Application Developer](http://www.topcareer.jobs/Vacancy/irc233251_6759.aspx), STFC, Warrington, UK - closes 1st November 2016
