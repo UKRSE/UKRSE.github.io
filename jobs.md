@@ -25,8 +25,6 @@ Job listing format. Earlier closing dates first.
 * [<Job Title>](<link>), <institution>, <location>, <country> - closes <day> <month> <year>
 -->
 
-* [Software Developer](https://www.manchesterdigital.com/vacancy/software-developer-6), Clin-e-cal, Manchester, UK - closes 31st October 2016
-
 * [RSE/Computational Scientist/Application Developer](http://www.topcareer.jobs/Vacancy/irc233251_6759.aspx), STFC, Warrington, UK - closes 1st November 2016
 
 * [Scientific Software Engineers (up to ten posts)](http://emea3.mrted.ly/17vi9), Met Office, Exeter, UK - closes 6th November 2016
