@@ -25,6 +25,4 @@ Job listing format. Earlier closing dates first.
 * [<Job Title>](<link>), <institution>, <location>, <country> - closes <day> <month> <year>
 -->
 
-* [Scientific Software Engineers (up to ten posts)](http://emea3.mrted.ly/17vi9), Met Office, Exeter, UK - closes 6th November 2016
-
 * [Scientific Software Developer](http://www.nature.com/naturejobs/science/jobs/595205-bioinformatics-scientific-software-developer), The Biomedical Research Centre at Guy’s and St Thomas’ NHS Foundation Trust and King’s College London, London, UK - closes 8th November 2016
