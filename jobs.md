@@ -17,10 +17,12 @@ Vacancies for Research Software Engineers
 -----------------------
 
 
-*There are no vacancies that we know of at present. Please let us know if you have one.*
+<!--- *There are no vacancies that we know of at present. Please let us know if you have one.* -->
 
 <!---
 Job listing format. Earlier closing dates first.
 
 * [<Job Title>](<link>), <institution>, <location>, <country> - closes <day> <month> <year>
 -->
+
+* [Biocomputational Research Assistant](http://www.leibniz-fli.de/career-development/career-detailpage/?tx_news_pi1%5Bnews%5D=3297&cHash=a94d994d74b66efc1d1793b46d28f0d7), The Leibniz Institute on Aging - Fritz Lipmann Institute, Germany - closes 30th November 2016
