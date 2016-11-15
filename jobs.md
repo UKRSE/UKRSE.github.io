@@ -27,4 +27,6 @@ Job listing format. Earlier closing dates first.
 
 * [Biocomputational Research Assistant](http://www.leibniz-fli.de/career-development/career-detailpage/?tx_news_pi1%5Bnews%5D=3297&cHash=a94d994d74b66efc1d1793b46d28f0d7), The Leibniz Institute on Aging - Fritz Lipmann Institute, Germany - closes 30th November 2016
 
+* [Research Software Engineer: Data Analytics](https://recruitment.durham.ac.uk/pls/corehrrecruit/erq_jobspec_details_form.jobspec?p_id=003702), School of Engineering & Computing Sciences, Durham University, UK - closes 15th December 2016
+
 * [Research Associate/Research Fellow/Research Software Engineer/Senior Research Software Engineer](https://www.jobs.manchester.ac.uk/displayjob.aspx?jobid=12516), SpiNNaker Team - Advanced Processor Technologies Group - University of Manchester, Manchester, UK - closes 15th December 2016
