@@ -25,6 +25,8 @@ Job listing format. Earlier closing dates first.
 * [<Job Title>](<link>), <institution>, <location>, <country> - closes <day> <month> <year>
 -->
 
+* [Research Associate - Read Until: Selective Sequencing on the MinION] (https://jobs.nottingham.ac.uk/Vacancy.aspx?id=11455&forced=2), The School of Life Sciences, University of Nottingham, UK. Closes 9th Decemebr 2016
+
 * [Biocomputational Research Assistant](http://www.leibniz-fli.de/career-development/career-detailpage/?tx_news_pi1%5Bnews%5D=3297&cHash=a94d994d74b66efc1d1793b46d28f0d7), The Leibniz Institute on Aging - Fritz Lipmann Institute, Germany - closes 30th November 2016
 
 * [Research Software Engineer: Data Analytics](https://recruitment.durham.ac.uk/pls/corehrrecruit/erq_jobspec_details_form.jobspec?p_id=003702), School of Engineering & Computing Sciences, Durham University, UK - closes 15th December 2016
