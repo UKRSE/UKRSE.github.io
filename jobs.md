@@ -32,3 +32,5 @@ Job listing format. Earlier closing dates first.
 * [Research Software Engineer: Data Analytics](https://recruitment.durham.ac.uk/pls/corehrrecruit/erq_jobspec_details_form.jobspec?p_id=003702), School of Engineering & Computing Sciences, Durham University, UK - closes 15th December 2016
 
 * [Research Associate/Research Fellow/Research Software Engineer/Senior Research Software Engineer](https://www.jobs.manchester.ac.uk/displayjob.aspx?jobid=12516), SpiNNaker Team - Advanced Processor Technologies Group - University of Manchester, Manchester, UK - closes 15th December 2016
+
+* [Clinical Informatics Research IT Support and Systems Engineer](https://www.hirewire.co.uk/HE/1061247/MS_JobDetails.aspx?JobID=74244) Precision Health Informatics Group, King's College Denmark Hill Campus, London, UK. Closes 2nd January 2017 
