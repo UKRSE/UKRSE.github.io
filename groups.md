@@ -38,3 +38,4 @@ University of Oxford | [Research Software Developers Network](http://rsdn.oerc.o
 University of Sheffield | [Research Software Engineering at Sheffield](http://rse-sheffield.github.io/)
 University of Southampton | [Research Software Group](http://rsg.soton.ac.uk/)
 STFC | [Software Engineering Group](http://www.stfc.ac.uk/about-us/where-we-work/rutherford-appleton-laboratory/software-engineering-group/)
+University of Leeds | [Advanced Research Computing](http://arc.leeds.ac.uk/)
