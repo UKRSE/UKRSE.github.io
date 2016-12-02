@@ -25,7 +25,7 @@ Job listing format. Earlier closing dates first.
 * [<Job Title>](<link>), <institution>, <location>, <country> - closes <day> <month> <year>
 -->
 
-* [Research Associate - Read Until: Selective Sequencing on the MinION](https://jobs.nottingham.ac.uk/Vacancy.aspx?id=11455&forced=2), The School of Life Sciences, University of Nottingham, UK - Closes 9th Decemebr 2016
+* [Research Associate - Read Until: Selective Sequencing on the MinION](https://jobs.nottingham.ac.uk/Vacancy.aspx?id=11455&forced=2), The School of Life Sciences, University of Nottingham, UK - Closes 9th December 2016
 
 * [Research Software Engineer: Data Analytics](https://recruitment.durham.ac.uk/pls/corehrrecruit/erq_jobspec_details_form.jobspec?p_id=003702), School of Engineering & Computing Sciences, Durham University, UK - closes 15th December 2016
 
