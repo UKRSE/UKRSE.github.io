@@ -32,3 +32,5 @@ Job listing format. Earlier closing dates first.
 * [Research Associate/Research Fellow/Research Software Engineer/Senior Research Software Engineer](https://www.jobs.manchester.ac.uk/displayjob.aspx?jobid=12516), SpiNNaker Team - Advanced Processor Technologies Group - University of Manchester, Manchester, UK - closes 15th December 2016
 
 * [Clinical Informatics Research IT Support and Systems Engineer](https://www.hirewire.co.uk/HE/1061247/MS_JobDetails.aspx?JobID=74244) Precision Health Informatics Group, King's College Denmark Hill Campus, London, UK. Closes 2nd January 2017 
+
+* [Systems Developer](https://nbn.org.uk/news/nbn-trust-system-developer/), National Biodiversity Network Trust, UK - closes 6th January 2017
