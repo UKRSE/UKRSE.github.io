@@ -25,7 +25,7 @@ Job listing format. Earlier closing dates first.
 * [<Job Title>](<link>), <institution>, <location>, <country> - closes <day> <month> <year>
 -->
 
-* [Clinical Informatics Research IT Support and Systems Engineer](https://www.hirewire.co.uk/HE/1061247/MS_JobDetails.aspx?JobID=74244) Precision Health Informatics Group, King's College Denmark Hill Campus, London, UK. Closes 2nd January 2017 
+* [Clinical Informatics Research IT Support and Systems Engineer](https://www.hirewire.co.uk/HE/1061247/MS_JobDetails.aspx?JobID=74244) Precision Health Informatics Group, King's College Denmark Hill Campus, London, UK - closes 2nd January 2017 
 
 * [Systems Developer](https://nbn.org.uk/news/nbn-trust-system-developer/), National Biodiversity Network Trust, UK - closes 6th January 2017
 
