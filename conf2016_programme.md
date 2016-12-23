@@ -54,7 +54,7 @@ The conference has a full programme of talks and workshops, the details of which
 
 In addition, abstracts for all talks and workshops are available:
 
-* [Abstracts for all talks](conf2016_talks)
+* [Abstracts for all talks (includes links to slides)](conf2016_talks)
 * [Abstracts for all workshops](conf2016_workshops)
 
 
