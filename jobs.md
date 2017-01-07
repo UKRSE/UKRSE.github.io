@@ -17,14 +17,10 @@ Vacancies for Research Software Engineers
 -----------------------
 
 
-<!--- *There are no vacancies that we know of at present. Please let us know if you have one.* -->
+*There are no vacancies that we know of at present. Please let us know if you have one.*
 
 <!---
 Job listing format. Earlier closing dates first.
 
 * [<Job Title>](<link>), <institution>, <location>, <country> - closes <day> <month> <year>
 -->
-
-* [Systems Developer](https://nbn.org.uk/news/nbn-trust-system-developer/), National Biodiversity Network Trust, UK - closes 6th January 2017
-
-* [Programmer](https://nbn.org.uk/news/national-biodiversity-network-trust-programmer/), National Biodiversity Network Trust, UK - closes 6th January 2017
