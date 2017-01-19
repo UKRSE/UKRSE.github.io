@@ -25,6 +25,8 @@ Job listing format. Earlier closing dates first.
 * [<Job Title>](<link>), <institution>, <location>, <country> - closes <day> <month> <year>
 -->
 
+* [Research Software Engineer](https://atsv7.wcn.co.uk/search_engine/jobs.cgi?owner=5062452&ownertype=fair&jcode=1625541&vt_template=1457&adminview=1), Scientific Computing Department, The University of Warwick - Coventry, UK - closes 26th January 2017
+
 * [Software Developer](https://www.hirewire.co.uk/HE/1061247/MS_JobDetails.aspx?JobID=74621), Department of Neuroimaging, King's College London, UK - closes 29th January 2017
 
 * [Scientific Software Developer](https://www4.ad.ic.ac.uk/OA_HTML/OA.jsp?page=/oracle/apps/irc/candidateSelfService/webui/VisVacDispPG&akRegionApplicationId=821&transactionid=1939249670&retainAM=Y&addBreadCrumb=S&p_svid=50618&p_spid=1819407&oapc=7&oas=PPBqW_6GkPzeL-7UgkUlaQ..), Structural Bioinformatics Group, Imperial College London, UK - closes 5th February 2017
