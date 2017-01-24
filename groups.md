@@ -33,6 +33,7 @@ Francis Crick Institute | [Application Integration and Migration](https://www.cr
 Imperial College London | [Research Software Engineering Community](http://www.imperial.ac.uk/computational-methods/rse)
 ISIS | [Mantid Group](http://www.mantidproject.org/Main_Page)
 University of Leeds | [Advanced Research Computing](http://arc.leeds.ac.uk/)
+University of Leicester | Research Software Engineering Team
 University of Manchester | [Research Software Engineering Group](http://www.itservices.manchester.ac.uk/research/services/software/)
 University of Oxford | [Advanced research Computing](http://www.arc.ox.ac.uk/)
 University of Oxford | [Research Software Developers Network](http://rsdn.oerc.ox.ac.uk/)
