@@ -22,7 +22,7 @@ University of Bristol | [Christopher Woods](http://chryswoods.com), [Advanced Co
 British Geological Survey | [Laurence Billingham](http://www.bgs.ac.uk/staff/profiles/41149.html), [Geomagnetism Team](http://www.geomag.bgs.ac.uk/)
 University of Cambridge | [Chris Richardson](http://www.bpi.cam.ac.uk/user/chris), [BPI](http://www.bpi.cam.ac.uk) <br/> Filippo Spiga, [HPCS](http://www.hpc.cam.ac.uk)
 Culham Centre for Fusion Energy | [Alys Brett](https://uk.linkedin.com/in/alysbrett), Central Computing Group
-University of Edinburgh | Oliver Henrich, [Edinburgh Parallel Computing Centre](https://www.epcc.ed.ac.uk)
+University of Edinburgh | Oliver Henrich, [Edinburgh Parallel Computing Centre](https://www.epcc.ed.ac.uk) <br /> Andy Turner, [Edinburgh Parallel Computing Centre](http://www.epcc.ed.ac.uk), [ARCHER](http://www.archer.ac.uk)
 University of Leeds | Martin Callaghan, [Advanced Research Computing](http://www.arc.leeds.ac.uk)
 University of Leicester | [Sam Cox](https://uk.linkedin.com/in/sam-cox), Research Software Engineering Team
 Imperial College London | Jeremy Cohen, [Department of Computing](http://www.imperial.ac.uk/computing)
