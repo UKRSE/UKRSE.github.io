@@ -24,5 +24,3 @@ Job listing format. Earlier closing dates first.
 
 * [<Job Title>](<link>), <institution>, <location>, <country> - closes <day> <month> <year>
 -->
-
-* [Scientific Software Developer](https://www4.ad.ic.ac.uk/OA_HTML/OA.jsp?page=/oracle/apps/irc/candidateSelfService/webui/VisVacDispPG&akRegionApplicationId=821&transactionid=1939249670&retainAM=Y&addBreadCrumb=S&p_svid=50618&p_spid=1819407&oapc=7&oas=PPBqW_6GkPzeL-7UgkUlaQ..), Structural Bioinformatics Group, Imperial College London, UK - closes 5th February 2017
