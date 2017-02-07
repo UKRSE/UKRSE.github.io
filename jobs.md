@@ -25,4 +25,6 @@ Job listing format. Earlier closing dates first.
 * [<Job Title>](<link>), <institution>, <location>, <country> - closes <day> <month> <year>
 -->
 
+* [Research Software Developer (3 posts)](http://blogs.ucl.ac.uk/research-software-development/rsd-hire-17-1/), Research IT Services, UCL, London, UK - closes 21st February 2017
+
 * [Multiple positions, including Data Scientist](http://www.jobs.ac.uk/employer/stfc-the-science-and-technology-facilities-council/), STFC (various locations), UK - closes 10th-26th February 2017
