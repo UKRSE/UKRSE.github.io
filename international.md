@@ -28,6 +28,7 @@ Germany | National | [German RSE Community](http://www.de-rse.org/de/index.html)
 South Africa | University of Cape Town | eResearch and Computational Biology Division (developers employed by the Division)
 South Africa | University of the Western Cape | South African National Bioinformatics Institute (developers/devops employed by the Institute)
 Sweden | Developer group at [National Bioinformatics Infrastructure Sweden](http://nbis.se) | Multiple groups within Sweden
+The Netherlands | National | [The Netherlands RSE community](http://nl-rse.org/)
 USA | Argonne National Laboratory | PETSc Team
 USA | Indiana University | Data to Insight Center (D2I) and Pervasive Technology Institute  (PTI)
 USA | Louisiana State University, Center for Computation and Technology | [HPC enablement group](https://www.cct.lsu.edu/programs/hpc-enablement)
