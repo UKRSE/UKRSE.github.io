@@ -24,8 +24,8 @@ COLUMN_SEPARATOR
 
 Organisation | Group/Fellow
 ------------:|:-----------
-University of Bristol | [Advanced Computing Research Centre](https://www.acrc.bris.ac.uk)
-University of Cambridge | [High Performance Computing Service](http://www.hpc.cam.ac.uk)
+University of Bristol | [Advanced Computing Research Centre](http://www.bristol.ac.uk/acrc/research-software-engineering/)
+University of Cambridge | [High Performance Computing Service](https://www.hpc.cam.ac.uk/research-software-engineering)
 University College London | [Research Software Development Group](http://www.ucl.ac.uk/research-it-services/about/research-software-development)
 Culham Centre for Fusion Energy | Data and Coding team (CODAS & IT)
 University of Edinburgh | [Edinburgh Parallel Computing Centre](https://www.epcc.ed.ac.uk)
